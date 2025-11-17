@@ -11,30 +11,30 @@
 ##(%) se usa como marcador de posición para información %s (cadena) %f (número flotante) %i (número entero)
 
 ##Colores#
-§0Negro
-§1Azul oscuro
-§2Verde oscuro
-§3Azul lago
-§4Rojo oscuro
-§5Púrpura oscuro
-§6Naranja
-§7Gris
-§8Gris oscuro
-§9Azul
-§aVerde
-§bAzul claro
-§cRojo
-§dPúrpura
-§eAmarillo
-§fBlanco
+#§0Negro
+#§1Azul oscuro
+#§2Verde oscuro
+#§3Azul lago
+#§4Rojo oscuro
+#§5Púrpura oscuro
+#§6Naranja
+#§7Gris
+#§8Gris oscuro
+#§9Azul
+#§aVerde
+#§bAzul claro
+#§cRojo
+#§dPúrpura
+#§eAmarillo
+#§fBlanco
 
 ##Características#
-§kCaracteres ilegibles
-§lNegritas
-§mLínea tachada
-§nSubrayado
-§oCursiva
-§rRestablecer
+#§kCaracteres ilegibles
+#§lNegritas
+#§mLínea tachada
+#§nSubrayado
+#§oCursiva
+#§rRestablecer
 
 ##Especializaciones
 gui.GuiSpecialization.id.unknown=Desconocido
