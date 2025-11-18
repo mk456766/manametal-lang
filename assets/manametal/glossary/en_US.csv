@@ -1,4 +1,4 @@
-﻿#,你可以使用#為key名的前綴，用於註釋，不會被程序解析
+source,target,comment
 劍鬥士,Warrior
 神射手,Archer
 大法師,Mage
@@ -75,7 +75,6 @@
 攻擊段數/段數,attack hits
 備彈,ammo
 狩獵點,hunting point
-#,#1
 韌性防禦,Tenacity defense
 嘲諷,taunt
 架勢,Stance
@@ -386,3 +385,4 @@ MK/mk456766,MK/mk456766
 健康值,Vitality
 魔王痕跡,BOSS's Trace
 時裝,fashion
+
