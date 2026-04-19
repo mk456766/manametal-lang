@@ -1,0 +1,665 @@
+﻿source,target,comment
+劍鬥士,Warrior,Class name
+神射手,Archer,Class name
+大法師,Mage,Class name
+夜行者,Assassin,Class name
+暗騎士,Knight,Class name
+白魔導,Priest,Class name
+召喚師,Summoner,Class name
+咒術師,Conjurer,Class name
+蠱毒師,Shaman,Class name
+武士,Samurai,Class name
+追獵者,unter,Class name
+馴獸師,Beast tamer,Class name
+職業,class,Player attribute
+職業等級,class level,Player attribute
+力量,strength,Player attribute
+敏捷,agile,Player attribute
+智慧,intelligence,Player attribute
+感知,wisdom,Player attribute
+體質,constitution,Player attribute
+劍,sword,Weapon
+弓,bow,Weapon
+法杖,staff,Weapon
+吹箭筒,quiver,Weapon
+箭矢,arrow,Weapon
+扇子,fan,Weapon
+戰錘,hammer,Weapon
+法書,spellbook,Weapon
+指揮杖,wand,Weapon
+標槍,spear,Weapon
+鐮刀,scythe,Weapon
+匕首,dagger,Weapon
+寶珠,orb,accessories
+生命值,HP,Player attribute
+魔力值,MP,Player attribute
+最大生命,max HP,Player attribute
+最大魔力,max MP,Player attribute
+防禦力,defense,Player attribute
+物理近戰攻擊力,physical melee attack,Player attribute
+魔法攻擊力,magic attack,Player attribute
+物理遠程攻擊力,physical ranged attack,Player attribute
+洞察力,insight,Player attribute
+生命回復,HP regeneration,Player attribute
+魔力回復,MP regeneration,Player attribute
+暴擊率,Critical rate,Player attribute
+迴避率,avoidance rate,Player attribute
+手藝,craft ability,Player attribute
+造成的傷害,damage%,Player attribute
+受到的傷害減少,damage reduction%,Player attribute
+掉寶率,drop rate,Player attribute
+恢復量,recovery%,Player attribute
+穿透值,ignore monster defense,Player attribute
+穿透防禦,monster defense,Player attribute
+血性值,life steal slot,Player attribute
+吸血,life steal,Player attribute
+臨時生命,temporary HP,Player attribute
+自然恢復,natural recovery,Player attribute
+怒氣值,rage points,Player attribute
+耐力值,stamina points,Player attribute
+意志力,willpower,Player attribute
+技能冷卻,skill cooldown,Player attribute
+冷卻時間,cooldown,Player attribute
+持續時間,duration,Player attribute
+最終傷害,final damage%,Player attribute
+職業增幅,class amplification%,Player attribute
+忍法,Ninja style,Skill
+暗器,Assassin style,Skill
+短刃,Dagger style,Skill
+靈魂蛋,soul Egg,Item
+符咒,Phylactery,Skill
+魔靈值,spirit Points,Skill
+無敵,invincible,Effect
+層數,layers,Effect
+魔王,BOSS,Tags
+首領,BOSS,Tags
+魔王生物,BOSS,Tags
+攻擊段數,attack hits,Skill
+段數,attack hits,Skill
+備彈,ammo,Skill
+狩獵點,hunting point,Skill
+韌性防禦,Tenacity defense,attribute
+嘲諷,taunt,Effect
+架勢,Stance,Skill
+太刀,Katana,Skill
+殘月架勢,Crescent Moon Stance,Skill
+旭日架勢,Rising Sun Stance,Skill
+劍氣,Ken-ki points,Skill
+精通,mastery,Player attribute
+卷軸,scroll,Item
+魔法能,mana energy,energy
+暗能量,dark energy,energy
+乙太能量,ether energy,energy
+拉普達,Laputa,proper noun
+禁忌魔法,forbidden technology,proper noun
+靈魂能量,soul energy,energy
+金屬能量,metal energy,energy
+遠古銩,ancient thulium,Technology 
+地下城,dungeon,Location
+副本,dungeon,Location
+地城,dungeon,Location
+艾莉西亞,Alicia,Name
+天界,Aether,Location
+古物,relic,Item
+勳章,Title,fashion
+變身粉,transformation powder,fashion
+披風,cloak,fashion
+翅膀,wings,fashion
+顆粒效果,particle effect,fashion
+字體顏色,font color,fashion
+頭部裝飾,headgear,fashion
+尾部裝飾,tailgear,fashion
+工具造型,tool shape,fashion
+傷害字型,damage font style,fashion
+寶藏,treasure,Item
+收藏箱,collection box,facilities
+拉普達科技,Laputa technology,Technology 
+圖騰,totem,facilities
+咒語水晶,spell crystal,facilities
+動能水晶,kinetic crystal,facilities
+出貨箱,shipping box,facilities
+禁忌魔法科技,forbidden magic technology,Technology 
+黑魔法,black magic,Technology 
+生產系統,production system,System
+屬性道具,attribute item,Item
+獎勵箱,reward box,Item
+蜥蜴人,lizardman,Race
+人族,human,Race
+精靈族,elf,Race
+龍族,dragon,Race
+龍人,dragonborn,Race
+娜迦,Naga,Race
+矮人,dwarf,Race
+半獸人,half-orc,Race
+獸族,beastman,Race
+翼族,winged,Race
+魔族,demon,Race
+祭壇符文石,altar rune stone,Item
+符文石,rune stone,Item
+白金,white gold,Item
+托米爾,Tomil,Name
+瑪夏達巴,Masadabah,Name
+薔薇十字軍,Rose Crusader,organizations
+阿斯翠德,Astrid,Name
+草莓龍,Strawberry dragon,Name
+和平草莓龍,Peaceful Strawberry Dragon,Name
+和平守護龍,Peaceful Guardian Dragon,Name
+和平冰雪狐,Peaceful Snow Fox,Name
+mk456766,mk456766,Name
+阿洛,Rluo,Name
+紅月,Redmoon,Name
+亞洛赫,Anok,Name
+傳說生物,legendary creature,Tags
+魔法鋼,magic steel,Item
+複製者,replicator,Item
+黑暗鋼,dark steel,Item
+暗血鋼,dark blood steel,Item
+紅連金屬,red chain metal,Item
+無限鋼,infinite steel,Item
+奧哈利爾鋼,O'Halloran steel,Item
+宇宙能量,cosmic energy,Item
+符文鋼,rune steel,Item
+奧鋼,mystery steel,Item
+黑洞頻率錠,black hole frequency ingot,Item
+碧鋼,green steel,Item
+山銅,mountain copper,Item
+秘銀,mysterious silver,Item
+聖銅,holy copper,Item
+亥銀,Hai silver,Item
+精金,fine gold,Item
+硫銅,sulfur copper,Item
+虹鋼,rainbow steel,Item
+聖魂,holy soul,Item
+炙焰金,blazing gold,Item
+古代鐵,ancient iron,Item
+聖器,holy vessel,System
+精鑄,forging,production technology
+採礦,mining,production technology
+寶石工藝,gemcraft,production technology
+農耕,farming,production technology
+釣魚,fishing,production technology
+烹飪,cooking,production technology
+養蜂,beekeeping,production technology
+裁縫,tailoring,production technology
+馴龍,dragon taming,production technology
+釀造,brewing,production technology
+合金結晶,alloy crystallization,Item
+魔藥,potion,Item
+寶玉,enhanced gem,Item
+強化卷,enhancement scroll,Item
+星等強化,star enhancement,System
+道具品質,item quality,System
+垃圾,junk,Item quality
+普通,normal,Item quality
+稀有,rare,Item quality
+精品,fine,Item quality
+罕見,epic,Item quality
+絕佳,superior,Item quality
+史詩,mythical,Item quality
+上古,ancient,Item quality
+神話,divine,Item quality
+傳奇,legendary,Item quality
+聖品,holy,Item quality
+超凡,transcendent,Item quality
+創世,genesis,Item quality
+魔性,demonic,Item quality
+混沌,chaotic,Item quality
+絕世,peerless,Item quality
+璀璨,brilliant,Item quality
+瑰寶,treasure,Item quality
+神器,artifact,Item quality
+龍神,dragon god,Item quality
+靈力,spirit power,System
+靈魂繼承,soul inheritance,System
+賽季,season,System
+鉑金,platinum,Item
+魔法金屬,manametal,proper noun
+護石,gemstone,Item
+末日城,Doomsday,Location
+祈願神壇,wishing altar,facilities
+聖物,holy relic,Item
+許願之星,wishing star,Item
+聖物點數,relic points,System
+傳說聖物點數,legendary relic points,System
+瞬身術,Flash Step,Skill
+戰鬥思想,Combat Mind,Skill
+黑暗力量,Dark Power,Skill
+劍氣波,Ken-ki Wave,Skill
+戰鬥防守,Combat Defense,Skill
+連環斬,Serial Slash,Skill
+玄月斬,Crescent Moon Slash,Skill
+幻影劍,Shadow Sword,Skill
+劍術精通,Sword Mastery,Skill
+劍術大師,Sword Master,Skill
+怒氣爆發,Rage Burst,Skill
+狂暴劍斬,Furious Sword Slash,Skill
+血戰誓約,Blood Battle Oath,Skill
+龍捲劍斬,Tornado Sword Slash,Skill
+麻痺陷阱,Paralyzing Trap,Skill
+穿空箭,Piercing Arrow,Skill
+五重矢,Five Arrows,Skill
+爆裂箭,Explosive Arrow,Skill
+閃雷矢,Lightning Arrow,Skill
+弓術精通,Archery Mastery,Skill
+蓄力射擊,Charge Shot,Skill
+連成一氣,United as One,Skill
+破甲強襲,Armor-Breaking Assault,Skill
+風神祝福,Wind God's Blessing,Skill
+暴風箭雨,Stormy Arrow Rain,Skill
+寒冰咒,Frost Curse,Skill
+魔力律動,Magic Rhythm,Skill
+魔焰彈,Flame Ball,Skill
+魔法箭,Magic Arrow,Skill
+魔力盾,Magic Shield,Skill
+法力精通,Mana Mastery,Skill
+魔力存儲,Magic Storage,Skill
+冰柱連擊,Icicle Combo,Skill
+元素爆裂,Elemental Explosion,Skill
+無盡魔力,Infinite Magic,Skill
+萬雷殞落,Thunderstorm,Skill
+突刺術,Thrust Technique,Skill
+短刃:飛毒刃,Dagger style: Flying Poison Blade,Skill
+暗器:連環鏢,Assassin style: Chain Darts,Skill
+忍法:強雷襲,Ninja style: Strong Lightning Strike,Skill
+噬血術,Blood Devouring Technique,Skill
+黑夜契約,Night Contract,Skill
+三位一體,Trinity,Skill
+暗器:匕首劍舞,Assassin style: Dagger Sword Dance,Skill
+短刃:十字連斬,Dagger style: Cross Slash,Skill
+孤注一擲,All or Nothing,Skill
+忍法:刀刃迷宮,Ninja style: Blade Maze,Skill
+戰吼,Battle Cry,Skill
+自我復原,Self Recovery,Skill
+犧牲術,Sacrificial Art,Skill
+旋風斧,Tornado Axe,Skill
+動地鎚,Earth-Shaking Hammer,Skill
+防禦體系,Defense System,Skill
+驚奇骨骼,Surprise Bones,Skill
+暗影巨鎚,Shadow Hammer,Skill
+煉獄之炎,Flame of Purgatory,Skill
+大地力量,Earth Strength,Skill
+天罡神盾,Divine Sky Shield,Skill
+治癒之光,Healing Light,Skill
+戰意,Fighting Spirit,Skill
+聖光矢,Holy Light Arrow,Skill
+神聖祈禱,Holy Prayer,Skill
+癒療之泉,Healing Fountain,Skill
+神聖經典,Holy Scriptures,Skill
+聖光灼燒,Holy Light Burning,Skill
+光耀直擊,Brilliant Strike,Skill
+神聖領域,Sacred Field,Skill
+神聖烙印,Holy Imprint,Skill
+真理之門,Door of Truth,Skill
+魔界召喚,Demon World Summon,Skill
+魔界召回,Demon World Recall,Skill
+著魔,Obsessed,Skill
+還魂術,Resurrection Art,Skill
+幻影悅靈,Shadow Allay,Skill
+生命聖火,Sacred Flame of Life,Skill
+心靈水滴,Soul Drop,Skill
+引導之矢,Guiding Arrow,Skill
+聖獸守護,Holy Beast Guardian,Skill
+魔法導彈,Magic Missile,Skill
+誓約之龍,Oath Dragon,Skill
+符咒充能,Phylactery Charge,Skill
+符咒解散,Phylactery Dispel,Skill
+閃雷符,Lightning Phylactery,Skill
+自然晨光,Natural Morning Light,Skill
+風速符,Wind Speed Phylactery,Skill
+心靈之火,Soul Fire,Skill
+符咒精通,Phylactery Mastery,Skill
+靈轉符,Spirit Transfer Phylactery,Skill
+式神斬,Shikigami Slash,Skill
+守靈結界,Guardian Barrier,Skill
+六壬神域,Realm of the Six Yang,Skill
+蠱毒爆,Toxic Explosion,Skill
+中和毒素,Neutralize Toxins,Skill
+烈性毒箭,Intense Poison Arrow,Skill
+霧療,Mist Therapy,Skill
+酸性毒,Acidic Poison,Skill
+致命劇毒,Deadly Toxic,Skill
+上古碑文,Ancient Inscription,Skill
+先祖圖騰,Ancestral Totem,Skill
+沼氣毒火,Biogas Poisonous Fire,Skill
+寒冰毒箭,Ice Poison Arrow,Skill
+千針萬確,Thousand Needles ,Skill
+捕捉網,Capture Net,Skill
+荒野備戰,Wilderness Preparation,Skill
+銀槍,Silver Spear,Skill
+爆裂標槍,Burst Spear,Skill
+草藥專精,Herbal Mastery,Skill
+獵者追蹤,Hunter's Tracking,Skill
+魔化獵手,Demonized Hunter,Skill
+螺旋標槍,Spiral Spear,Skill
+荊棘飛槍,Thorn Flying Spear,Skill
+戰鬥組裝,Battle Assembly,Skill
+斷界神槍,Boundary-Breaking Divine Spear,Skill
+靈魂燈籠,Soul Lantern,Skill
+契約召喚,Contract Summon,Skill
+毒針連擊,Poison Sting Combo,Skill
+紅旗指導,Red Flag Guidance,Skill
+藍旗指導,Blue Flag Guidance,Skill
+動物專精,Animal Specialization,Skill
+齊心協力,Working Together,Skill
+獵鷹衝擊,Falcon Shock,Skill
+野性領導,Wild Leader,Skill
+野性吶喊,Wild Cry,Skill
+獸魔無極,Beast Demon Infinity,Skill
+自然恢復,Natural Recovery,Skill
+魔力吞噬,Mana Devour,Skill
+厚重毛皮,Thick Fur,Skill
+冰瀑,Ice Waterfall,Skill
+吸血爪牙,Life Steal Fangs,Skill
+黑霧,Dark Mist,Skill
+療癒術,Healing Spell,Skill
+衝動靈魂,Impulsive Soul,Skill
+風壓,Wind Pressure,Skill
+灼燒,Scorching,Skill
+雷霆一擊,Thunder Strike,Skill
+反向魔法,Reverse Magic,Skill
+力量腐化,Strength Corruption,Skill
+光明之翼,Wings of Light,Skill
+分擔痛楚,Share Pain,Skill
+架勢切換,Stance Switch,Skill
+瞬斬,Instant Slash,Skill
+玄月,Mysterious Moon,Skill
+鷹爪,Eagle Claw,Skill
+飛鴉,Flying Raven,Skill
+流打,Flowing Strike,Skill
+燕返,Swallow Return,Skill
+居合,Iaido,Skill
+天地流劍道,Heaven–Earth Kenjutsu,Skill
+天地流秘傳,Heaven–Earth Kenjutsu Secret Teachings,Skill
+受流,Receiving Flow,Skill
+猛襲,Fierce Assault,Skill
+水車,Water Wheel,Skill
+一閃,Flash Strike,Skill
+點水,Water Point,Skill
+鷹襲,Eagle Strike,Skill
+月影,Moon Shadow,Skill
+日輪,Sun Disk,Skill
+古代龍石,ancient dragonstone,Item
+御靈魔石,Soul Control Magic Stone,Item
+靈魂進化點數,soul evolution points,System
+靈魂進化儀,Soul Evolution Altar,facilities
+黑暗議會,Dark Council,organizations
+亞佴特,Yashete,Name
+奧米克戎,Omicron,Name
+暗黑裂變, Dark fission,facilities
+暗黑裂變儀,Dark fission Instrument,facilities
+遠古銩遺跡,Ancient thulium ruin,Location
+健康值,Vitality,Player attribute
+魔王痕跡,BOSS Trace,Item
+fashion,fashion,System
+受傷無敵幀,invincibility frames,Player attribute
+重力傷害,gravity damage,System
+絕對傷害,absolute damage,System
+全能攻擊力,all-type attack power,Player attribute
+絕對抵禦,Absolute Resistance,
+深淵魔盾,Abyss Magic Shield,
+生命之源,Source of Life,
+神靈祝福,Divine Blessing,
+大地守護,Earth Protection,
+闇影守護,Shadow Protection,
+巨人守衛的意志,Will of the Giant Guard,
+深淵護衛的意志,Will of the Abyss Guard,
+聖界守護神的威嚴,Majesty of the Holy Realm Guardian,
+ 天界制裁,Celestial Sanction,
+ 心靈之泉,Fountain of the Soul,
+ 火狐,Fire Fox,
+ 冰龍,Ice Dragon,
+ 和平之光,Light of Peace,
+ 和平光環,Peace Aura,
+ 奉獻之泉,Fountain of Devotion,
+ 致殘效果,crippling effect,
+ 風蛇,Wind Serpent,
+ 破魔效果,Magic Break,
+ 神盾庇護,Aegis Protection,
+ 神蹟值,Miracle Points,
+ 混沌傷害,chaotic damage,
+ 喚獸效果,Beast Summon,
+ 絕對傷害,absolute damage,
+ 聖光審判,Holy Light Judgment,
+ 福音傳遞,Gospel Delivery,
+ 影狼,Shadow Wolf,
+ 輝煌世紀,Glorious Century,
+ 魔導刻紋,Mage Rune,
+ 魔蠍,Demon Scorpion,
+ 靈貓,Spirit Cat,
+一轉,1st job,
+二轉,2nd job,
+三轉,3rd job,
+刀鋒劍雨,Blade Sword Rain,
+大地守護,Earth Protection,
+大地符,Earth Phylactery,
+大師魔導,Master Magician,
+不屈之火,Unyielding Fire,
+不屈怒焰,Unyielding Flames,
+不治效果,Incurable effect,
+中和鱗粉,Neutralizing Scale Powder,
+仇恨,aggro,
+分裂射擊,Split Shot,
+分裂劇毒,Splitting Deadly Toxic,
+天流,Heaven Flow,
+天界制裁,Aether Sanction,
+幻靈效果,Phantom Spirit effect,
+火之祈禱,Prayer of Fire,
+火狐,Fire Fox,
+火焰隕石,Flame Meteor,
+火魂擴散,Fire Soul Diffusion,
+火鳳凰,Fire Phoenix,
+充能靈轉符,Charged Spirit Transfer Phylactery,
+出血,bleeding,
+囚禁,imprisonment,
+巨人守衛的意志,Will of the Giant Guard,
+永恆之護,Eternal Protection,
+生命之源,Source of Life,
+生命吸收,life steal,
+生命啟示,Life Revelation,
+先祖吶喊,Ancestral Cry,
+先祖意志,Ancestral Will,
+先靈圖騰,Ancestral Spirit Totem,
+光之信仰,Faith of Light,
+光之射線,Ray of Light,
+光速斬切,Light Speed Slash,
+全能攻擊力,omnipotent attack power,
+冰河地獄,Glacier Hell,
+冰龍,Ice Dragon,
+冰霜箭陣,Frost Arrow Barrage,
+同步心靈,Synchronized Mind,
+同調值,Attunement points,
+回生盾牆,Resurrection Shield Wall,
+回復封鎖,Recovery Block,
+地流,Heaven Flow,
+地獄之門,Gates of Hell,
+多重變異,Multiple Mutation,
+死神印記,Reaper's Mark,
+汙染之血,Tainted Blood,
+自動弩砲塔,automatic crossbow turret,
+血刃切割,Blood Blade Cut,
+血色愉悅,Bloody Delight,
+血色懸賞,Bloody Bounty,
+血脈侵蝕,Bloodline Erosion,
+血脈崩壞,Bloodline Collapse,
+血戰狂怒,Blood Battle Fury,
+利刃悅靈,Blade Allay,
+利箭風暴,Arrow Storm,
+吹箭,blowgun,
+沉默效果,Silence effect,
+防禦策略,Defense Strategy,
+防護射擊,Protective Shot,
+刺客,Assassin,
+受傷無敵幀,invincibility frame,
+和平之光,Light of Peace,
+夜使者,Night Agent,
+拔刀效果,Draw Blade effect,
+法力風暴,Mana Storm,
+法力激發,Mana Stimulation,
+法師,Mage,
+牧師,Priest,
+物理攻擊力,physical attack,
+物理近戰,physical melee,
+物理遠程,physical ranged,
+附加傷害,additional damage,
+附魔神箭,Enchanted Divine Arrow,
+勇敢之心,Heart of Courage,
+怒焰火球,Rage Flame Fireball,
+急速蓄力,Rapid Charge,
+毒刃,Poison Blade,
+毒性標記,Toxic Mark,
+毒沼,Poison Swamp,
+毒殺,Poison Kill,
+活性草藥,Active Herbs,
+狩獵指令,Hunting Command,
+狩獵標記,Hunting Mark,
+致命傷害,lethal damage,
+致殘狀態,Crippled status,
+苦無,kunai,
+負重,carry weight,
+重力攻擊,gravity attack,
+重力攻擊,gravity attack,
+重力球,gravity orb,
+重力傷害,gravity damage,
+重傷倒下,Critically downed,
+風切,Wind Shear,
+風破效果,Wind Break effect,
+風蛇,Wind Serpent,
+風舞射擊,Wind Dance Shot,
+弱點狙擊,Weakness Sniping,
+悅靈再生,Allay Regeneration,
+格擋,Block,
+涅槃之火,Fire of Nirvana,
+消滅光束,Annihilation Beam,
+烈火符,Blazing Fire Phylactery,
+烈焰神劍,Blazing Divine Sword,
+狼之謝禮,Wolf's Gratitude,
+真實魔法傷害,true magic damage,
+眩暈,stun,
+破片追蹤,Fragment Tracking,
+破甲,Armor Break,
+破陣連斬,Breaking Combo,
+破碎夢境,Shattered Dream,
+破魔,Magic Break,
+神盾庇護,Divine Shield Protection,
+神聖光照,Holy Illumination,
+神箭守護,Divine Arrow Guardian,
+神靈祝福,Divine Spirit Blessing,
+神靈陣法,Divine Spirit Formation,
+純淨之泉,Pure Fountain,
+紙式神,paper shikigam,
+草藥精華,Herbal Essence,
+起源魔導,Origin Magic,
+迴避值,avoidance value,
+高速存儲,High-Speed Storage,
+高速追蹤,High-Speed Tracking,
+堅忍不拔,Unyielding Fortitude,
+專長,Expertise,
+專精,Specialization,
+強化存儲,Enhanced Storage,
+強化組裝,Enhanced Assembly,
+晨光效果,Morning Light effect,
+深淵祈禱,Abyssal Prayer,
+深淵護衛的意志,Will of the Abyss Guard,
+深淵魔盾,Abyss Magic Shield,
+混沌攻擊,chaotic attack,
+麻痺,paralysis,
+麻藥效果,Anesthetic effect,
+創傷,wounds,
+寒冰法陣,Frost Magic Circle,
+復仇,Vengeance,
+復仇反擊,Vengeance Counter,
+殘暴屠宰,Brutal Slaughter,
+無盡夢魘,Endless Nightmare,
+硬殼盔甲,Hard Shell Armor,
+絕對抵禦,Absolute Resistance,
+絕對信任,Absolute Trust,
+絕對傷害,absolute damage,
+虛無靈轉符,Void Spirit Transfer Phylactery,
+詛咒血源,Cursed Blood Source,
+超級技能,ultimate skill,
+黑夜刺殺,Night Assassination,
+黑暗元素苦痛傷害,dark element agony damage,
+黑暗元素恐懼傷害,dark element fear damage,
+黑暗斬切,Dark Slash,
+暗夜匿蹤,Night Stealth,
+暗殺標記,Assassination Mark,
+暗黑典籍,Dark Grimoire,
+暗黑符,Dark Phylactery,
+暗影嘲諷,Shadow Taunt,
+暗影撕咬,Shadow Bite,
+極冰符,Extreme Ice Phylactery,
+極限咒術,Limit Conjuration,
+極限蓄力,Maximum Charge,
+極端抗性,Extreme Resistance,
+毀滅圖騰,Destruction Totem,
+煉獄火雨,Infernal Fire Rain,
+煉獄鎖鏈,Infernal Chains,
+禁忌魔典,Forbidden Grimoire,
+禁術充能,Forbidden Art Charge,
+禁斷雷電,Forbidden Thunder,
+聖光守護龍,Holy Light Guardian Dragon,
+聖光符,Holy Light Phylactery,
+聖光誓言,Holy Light Oath,
+聖界守護神的威嚴,Majesty of the Sacred Guardian,
+落星神箭,Falling Star Arrow,
+落星神箭,Falling Star Arrow,
+遊俠,Ranger,
+過量治療,Overhealing,
+雷電法陣,Lightning Magic Circle,
+雷電戰斧,Lightning Axe,
+雷霆穿空箭,Thunder Piercing Arrow,
+雷霆重劈,Thunderous Strike,
+雷霆電圈,Thunder Ring,
+雷霆魔劍,Thunder Magic Sword,
+電盾,Electric Shield,
+夥伴,companion,
+夥伴照護,Companion Care,
+瘋狂連爪,Frenzy Claws,
+竭盡所能,Give It All,
+輕盈弓法,Light Archery,
+劇毒斬,Deadly Poison Slash,
+劍士,warrior,
+審判者之眼,Eye of the Judge,
+審判終曲,Judgment Finale,
+影狼,Shadow Wolf,
+憤怒再生,Rage Regeneration,
+撕裂效果,Rend effect,
+暴擊值,critical value,
+潛行刺殺,Stealth Assassination,
+箭矢風暴,Arrow Storm,
+箭技,Arrow Skill,
+緩速,Slow,
+緩速效果,Slowness effect,
+輝煌世紀,Glorious Century,
+震地一擊,Earth-Shaking Strike,
+震擊,Shock,
+噩夢領域,Nightmare Domain,
+噬血爪牙,Blood-Devouring Fangs,
+噬血本能,Blood Devouring Instinct,
+戰利品,Loot,
+戰神領域,God of War Domain,
+戰鬥咆嘯,Battle Roar,
+戰鎚,war hammer,
+激流斬,Torrent Slash,
+龍之祈禱,Dragon's Prayer,
+擊穿效果,Piercing effect,
+擊退,knockback,
+螺旋穿刺,Spiral Pierce,
+闇影守護,Shadow Protection,
+雙重魔化,Double Demonization,
+騎士,Knight,
+爆裂穿空箭,Explosive Piercing Arrow,
+爆裂穿空箭,Explosive Piercing Arrow,
+爆擊傷害,critical damage,
+霹靂電球,Thunderbolt Ball,
+魔力過載,Mana Overload,
+魔力爆破,Mana Explosion,
+魔化防禦,Magical Defense,
+魔法激發,Magic Stimulation,
+魔術箭袋,Magic Quiver,
+魔魂符,Magic Soul Phylactery,
+魔導庇護,Arcane Protection,
+魔導刻紋,Arcane Inscription,
+魔蠍,Demon Scorpion,
+靈魂虹吸,Soul Siphon,
+靈貓,Spirit Cat,
