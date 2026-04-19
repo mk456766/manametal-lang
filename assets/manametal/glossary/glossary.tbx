@@ -14,7 +14,7 @@
     <body>
       <termEntry id="t00001">
         <descrip type="origin">劍鬥士</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Warrior</term>
           </tig>
@@ -27,7 +27,7 @@
       </termEntry>
       <termEntry id="t00002">
         <descrip type="origin">神射手</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Archer</term>
           </tig>
@@ -40,7 +40,7 @@
       </termEntry>
       <termEntry id="t00003">
         <descrip type="origin">大法師</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mage</term>
           </tig>
@@ -53,7 +53,7 @@
       </termEntry>
       <termEntry id="t00004">
         <descrip type="origin">夜行者</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Assassin</term>
           </tig>
@@ -66,7 +66,7 @@
       </termEntry>
       <termEntry id="t00005">
         <descrip type="origin">暗騎士</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Knight</term>
           </tig>
@@ -79,7 +79,7 @@
       </termEntry>
       <termEntry id="t00006">
         <descrip type="origin">白魔導</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Priest</term>
           </tig>
@@ -92,7 +92,7 @@
       </termEntry>
       <termEntry id="t00007">
         <descrip type="origin">召喚師</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Summoner</term>
           </tig>
@@ -105,7 +105,7 @@
       </termEntry>
       <termEntry id="t00008">
         <descrip type="origin">咒術師</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Conjurer</term>
           </tig>
@@ -118,7 +118,7 @@
       </termEntry>
       <termEntry id="t00009">
         <descrip type="origin">蠱毒師</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shaman</term>
           </tig>
@@ -131,7 +131,7 @@
       </termEntry>
       <termEntry id="t00010">
         <descrip type="origin">武士</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Samurai</term>
           </tig>
@@ -144,7 +144,7 @@
       </termEntry>
       <termEntry id="t00011">
         <descrip type="origin">追獵者</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>unter</term>
           </tig>
@@ -157,7 +157,7 @@
       </termEntry>
       <termEntry id="t00012">
         <descrip type="origin">馴獸師</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Beast tamer</term>
           </tig>
@@ -170,7 +170,7 @@
       </termEntry>
       <termEntry id="t00013">
         <descrip type="origin">職業</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>class</term>
           </tig>
@@ -183,7 +183,7 @@
       </termEntry>
       <termEntry id="t00014">
         <descrip type="origin">職業等級</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>class level</term>
           </tig>
@@ -196,7 +196,7 @@
       </termEntry>
       <termEntry id="t00015">
         <descrip type="origin">力量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>strength</term>
           </tig>
@@ -209,7 +209,7 @@
       </termEntry>
       <termEntry id="t00016">
         <descrip type="origin">敏捷</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>agile</term>
           </tig>
@@ -222,7 +222,7 @@
       </termEntry>
       <termEntry id="t00017">
         <descrip type="origin">智慧</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>intelligence</term>
           </tig>
@@ -235,7 +235,7 @@
       </termEntry>
       <termEntry id="t00018">
         <descrip type="origin">感知</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>wisdom</term>
           </tig>
@@ -248,7 +248,7 @@
       </termEntry>
       <termEntry id="t00019">
         <descrip type="origin">體質</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>constitution</term>
           </tig>
@@ -261,7 +261,7 @@
       </termEntry>
       <termEntry id="t00020">
         <descrip type="origin">劍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>sword</term>
           </tig>
@@ -274,7 +274,7 @@
       </termEntry>
       <termEntry id="t00021">
         <descrip type="origin">弓</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>bow</term>
           </tig>
@@ -287,7 +287,7 @@
       </termEntry>
       <termEntry id="t00022">
         <descrip type="origin">法杖</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>staff</term>
           </tig>
@@ -300,7 +300,7 @@
       </termEntry>
       <termEntry id="t00023">
         <descrip type="origin">吹箭筒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>quiver</term>
           </tig>
@@ -313,7 +313,7 @@
       </termEntry>
       <termEntry id="t00024">
         <descrip type="origin">箭矢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>arrow</term>
           </tig>
@@ -326,7 +326,7 @@
       </termEntry>
       <termEntry id="t00025">
         <descrip type="origin">扇子</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>fan</term>
           </tig>
@@ -339,7 +339,7 @@
       </termEntry>
       <termEntry id="t00026">
         <descrip type="origin">戰錘</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>hammer</term>
           </tig>
@@ -352,7 +352,7 @@
       </termEntry>
       <termEntry id="t00027">
         <descrip type="origin">法書</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>spellbook</term>
           </tig>
@@ -365,7 +365,7 @@
       </termEntry>
       <termEntry id="t00028">
         <descrip type="origin">指揮杖</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>wand</term>
           </tig>
@@ -378,7 +378,7 @@
       </termEntry>
       <termEntry id="t00029">
         <descrip type="origin">標槍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>spear</term>
           </tig>
@@ -391,7 +391,7 @@
       </termEntry>
       <termEntry id="t00030">
         <descrip type="origin">鐮刀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>scythe</term>
           </tig>
@@ -404,7 +404,7 @@
       </termEntry>
       <termEntry id="t00031">
         <descrip type="origin">匕首</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dagger</term>
           </tig>
@@ -417,7 +417,7 @@
       </termEntry>
       <termEntry id="t00032">
         <descrip type="origin">寶珠</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>orb</term>
           </tig>
@@ -430,7 +430,7 @@
       </termEntry>
       <termEntry id="t00033">
         <descrip type="origin">生命值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>HP</term>
           </tig>
@@ -443,7 +443,7 @@
       </termEntry>
       <termEntry id="t00034">
         <descrip type="origin">魔力值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>MP</term>
           </tig>
@@ -456,7 +456,7 @@
       </termEntry>
       <termEntry id="t00035">
         <descrip type="origin">最大生命</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>max HP</term>
           </tig>
@@ -469,7 +469,7 @@
       </termEntry>
       <termEntry id="t00036">
         <descrip type="origin">最大魔力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>max MP</term>
           </tig>
@@ -482,7 +482,7 @@
       </termEntry>
       <termEntry id="t00037">
         <descrip type="origin">防禦力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>defense</term>
           </tig>
@@ -495,7 +495,7 @@
       </termEntry>
       <termEntry id="t00038">
         <descrip type="origin">物理近戰攻擊力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>physical melee attack</term>
           </tig>
@@ -508,7 +508,7 @@
       </termEntry>
       <termEntry id="t00039">
         <descrip type="origin">魔法攻擊力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>magic attack</term>
           </tig>
@@ -521,7 +521,7 @@
       </termEntry>
       <termEntry id="t00040">
         <descrip type="origin">物理遠程攻擊力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>physical ranged attack</term>
           </tig>
@@ -534,7 +534,7 @@
       </termEntry>
       <termEntry id="t00041">
         <descrip type="origin">洞察力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>insight</term>
           </tig>
@@ -547,7 +547,7 @@
       </termEntry>
       <termEntry id="t00042">
         <descrip type="origin">生命回復</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>HP regeneration</term>
           </tig>
@@ -560,7 +560,7 @@
       </termEntry>
       <termEntry id="t00043">
         <descrip type="origin">魔力回復</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>MP regeneration</term>
           </tig>
@@ -573,7 +573,7 @@
       </termEntry>
       <termEntry id="t00044">
         <descrip type="origin">暴擊率</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Critical rate</term>
           </tig>
@@ -586,7 +586,7 @@
       </termEntry>
       <termEntry id="t00045">
         <descrip type="origin">迴避率</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>avoidance rate</term>
           </tig>
@@ -599,7 +599,7 @@
       </termEntry>
       <termEntry id="t00046">
         <descrip type="origin">手藝</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>craft ability</term>
           </tig>
@@ -612,7 +612,7 @@
       </termEntry>
       <termEntry id="t00047">
         <descrip type="origin">造成的傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>damage%</term>
           </tig>
@@ -625,7 +625,7 @@
       </termEntry>
       <termEntry id="t00048">
         <descrip type="origin">受到的傷害減少</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>damage reduction%</term>
           </tig>
@@ -638,7 +638,7 @@
       </termEntry>
       <termEntry id="t00049">
         <descrip type="origin">掉寶率</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>drop rate</term>
           </tig>
@@ -651,7 +651,7 @@
       </termEntry>
       <termEntry id="t00050">
         <descrip type="origin">恢復量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>recovery%</term>
           </tig>
@@ -664,7 +664,7 @@
       </termEntry>
       <termEntry id="t00051">
         <descrip type="origin">穿透值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>ignore monster defense</term>
           </tig>
@@ -677,7 +677,7 @@
       </termEntry>
       <termEntry id="t00052">
         <descrip type="origin">穿透防禦</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>monster defense</term>
           </tig>
@@ -690,7 +690,7 @@
       </termEntry>
       <termEntry id="t00053">
         <descrip type="origin">血性值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>life steal slot</term>
           </tig>
@@ -703,7 +703,7 @@
       </termEntry>
       <termEntry id="t00054">
         <descrip type="origin">吸血</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>life steal</term>
           </tig>
@@ -716,7 +716,7 @@
       </termEntry>
       <termEntry id="t00055">
         <descrip type="origin">臨時生命</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>temporary HP</term>
           </tig>
@@ -729,7 +729,7 @@
       </termEntry>
       <termEntry id="t00056">
         <descrip type="origin">自然恢復</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>natural recovery</term>
           </tig>
@@ -742,7 +742,7 @@
       </termEntry>
       <termEntry id="t00057">
         <descrip type="origin">怒氣值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>rage points</term>
           </tig>
@@ -755,7 +755,7 @@
       </termEntry>
       <termEntry id="t00058">
         <descrip type="origin">耐力值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>stamina points</term>
           </tig>
@@ -768,7 +768,7 @@
       </termEntry>
       <termEntry id="t00059">
         <descrip type="origin">意志力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>willpower</term>
           </tig>
@@ -781,7 +781,7 @@
       </termEntry>
       <termEntry id="t00060">
         <descrip type="origin">技能冷卻</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>skill cooldown</term>
           </tig>
@@ -794,7 +794,7 @@
       </termEntry>
       <termEntry id="t00061">
         <descrip type="origin">冷卻時間</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>cooldown</term>
           </tig>
@@ -807,7 +807,7 @@
       </termEntry>
       <termEntry id="t00062">
         <descrip type="origin">持續時間</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>duration</term>
           </tig>
@@ -820,7 +820,7 @@
       </termEntry>
       <termEntry id="t00063">
         <descrip type="origin">最終傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>final damage%</term>
           </tig>
@@ -833,7 +833,7 @@
       </termEntry>
       <termEntry id="t00064">
         <descrip type="origin">職業增幅</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>class amplification%</term>
           </tig>
@@ -846,7 +846,7 @@
       </termEntry>
       <termEntry id="t00065">
         <descrip type="origin">忍法</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ninja style</term>
           </tig>
@@ -859,7 +859,7 @@
       </termEntry>
       <termEntry id="t00066">
         <descrip type="origin">暗器</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Assassin style</term>
           </tig>
@@ -872,7 +872,7 @@
       </termEntry>
       <termEntry id="t00067">
         <descrip type="origin">短刃</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dagger style</term>
           </tig>
@@ -885,7 +885,7 @@
       </termEntry>
       <termEntry id="t00068">
         <descrip type="origin">靈魂蛋</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>soul Egg</term>
           </tig>
@@ -898,7 +898,7 @@
       </termEntry>
       <termEntry id="t00069">
         <descrip type="origin">符咒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Phylactery</term>
           </tig>
@@ -911,7 +911,7 @@
       </termEntry>
       <termEntry id="t00070">
         <descrip type="origin">魔靈值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>spirit Points</term>
           </tig>
@@ -924,7 +924,7 @@
       </termEntry>
       <termEntry id="t00071">
         <descrip type="origin">無敵</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>invincible</term>
           </tig>
@@ -937,7 +937,7 @@
       </termEntry>
       <termEntry id="t00072">
         <descrip type="origin">層數</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>layers</term>
           </tig>
@@ -950,7 +950,7 @@
       </termEntry>
       <termEntry id="t00073">
         <descrip type="origin">魔王</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>BOSS</term>
           </tig>
@@ -963,7 +963,7 @@
       </termEntry>
       <termEntry id="t00074">
         <descrip type="origin">首領</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>BOSS</term>
           </tig>
@@ -976,7 +976,7 @@
       </termEntry>
       <termEntry id="t00075">
         <descrip type="origin">魔王生物</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>BOSS</term>
           </tig>
@@ -989,7 +989,7 @@
       </termEntry>
       <termEntry id="t00076">
         <descrip type="origin">段數</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>attack hits</term>
           </tig>
@@ -1002,7 +1002,7 @@
       </termEntry>
       <termEntry id="t00077">
         <descrip type="origin">攻擊段數</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>attack hits</term>
           </tig>
@@ -1015,7 +1015,7 @@
       </termEntry>
       <termEntry id="t00078">
         <descrip type="origin">備彈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>ammo</term>
           </tig>
@@ -1028,7 +1028,7 @@
       </termEntry>
       <termEntry id="t00079">
         <descrip type="origin">狩獵點</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>hunting point</term>
           </tig>
@@ -1041,7 +1041,7 @@
       </termEntry>
       <termEntry id="t00080">
         <descrip type="origin">韌性防禦</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Tenacity defense</term>
           </tig>
@@ -1054,7 +1054,7 @@
       </termEntry>
       <termEntry id="t00081">
         <descrip type="origin">嘲諷</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>taunt</term>
           </tig>
@@ -1067,7 +1067,7 @@
       </termEntry>
       <termEntry id="t00082">
         <descrip type="origin">架勢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Stance</term>
           </tig>
@@ -1080,7 +1080,7 @@
       </termEntry>
       <termEntry id="t00083">
         <descrip type="origin">太刀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Katana</term>
           </tig>
@@ -1093,7 +1093,7 @@
       </termEntry>
       <termEntry id="t00084">
         <descrip type="origin">殘月架勢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Crescent Moon Stance</term>
           </tig>
@@ -1106,7 +1106,7 @@
       </termEntry>
       <termEntry id="t00085">
         <descrip type="origin">旭日架勢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Rising Sun Stance</term>
           </tig>
@@ -1119,7 +1119,7 @@
       </termEntry>
       <termEntry id="t00086">
         <descrip type="origin">劍氣</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ken-ki points</term>
           </tig>
@@ -1132,7 +1132,7 @@
       </termEntry>
       <termEntry id="t00087">
         <descrip type="origin">精通</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>mastery</term>
           </tig>
@@ -1145,7 +1145,7 @@
       </termEntry>
       <termEntry id="t00088">
         <descrip type="origin">卷軸</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>scroll</term>
           </tig>
@@ -1158,7 +1158,7 @@
       </termEntry>
       <termEntry id="t00089">
         <descrip type="origin">魔法能</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>mana energy</term>
           </tig>
@@ -1171,7 +1171,7 @@
       </termEntry>
       <termEntry id="t00090">
         <descrip type="origin">暗能量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dark energy</term>
           </tig>
@@ -1184,7 +1184,7 @@
       </termEntry>
       <termEntry id="t00091">
         <descrip type="origin">乙太能量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>ether energy</term>
           </tig>
@@ -1197,7 +1197,7 @@
       </termEntry>
       <termEntry id="t00092">
         <descrip type="origin">拉普達</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Laputa</term>
           </tig>
@@ -1210,7 +1210,7 @@
       </termEntry>
       <termEntry id="t00093">
         <descrip type="origin">禁忌魔法</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>forbidden technology</term>
           </tig>
@@ -1223,7 +1223,7 @@
       </termEntry>
       <termEntry id="t00094">
         <descrip type="origin">靈魂能量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>soul energy</term>
           </tig>
@@ -1236,7 +1236,7 @@
       </termEntry>
       <termEntry id="t00095">
         <descrip type="origin">金屬能量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>metal energy</term>
           </tig>
@@ -1249,7 +1249,7 @@
       </termEntry>
       <termEntry id="t00096">
         <descrip type="origin">遠古銩</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>ancient thulium</term>
           </tig>
@@ -1262,7 +1262,7 @@
       </termEntry>
       <termEntry id="t00097">
         <descrip type="origin">地城</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dungeon</term>
           </tig>
@@ -1275,7 +1275,7 @@
       </termEntry>
       <termEntry id="t00098">
         <descrip type="origin">地下城</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dungeon</term>
           </tig>
@@ -1288,7 +1288,7 @@
       </termEntry>
       <termEntry id="t00099">
         <descrip type="origin">副本</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dungeon</term>
           </tig>
@@ -1301,7 +1301,7 @@
       </termEntry>
       <termEntry id="t00100">
         <descrip type="origin">艾莉西亞</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Alicia</term>
           </tig>
@@ -1314,7 +1314,7 @@
       </termEntry>
       <termEntry id="t00101">
         <descrip type="origin">天界</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Aether</term>
           </tig>
@@ -1327,7 +1327,7 @@
       </termEntry>
       <termEntry id="t00102">
         <descrip type="origin">古物</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>relic</term>
           </tig>
@@ -1340,7 +1340,7 @@
       </termEntry>
       <termEntry id="t00103">
         <descrip type="origin">勳章</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Title</term>
           </tig>
@@ -1353,7 +1353,7 @@
       </termEntry>
       <termEntry id="t00104">
         <descrip type="origin">變身粉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>transformation powder</term>
           </tig>
@@ -1366,7 +1366,7 @@
       </termEntry>
       <termEntry id="t00105">
         <descrip type="origin">披風</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>cloak</term>
           </tig>
@@ -1379,7 +1379,7 @@
       </termEntry>
       <termEntry id="t00106">
         <descrip type="origin">翅膀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>wings</term>
           </tig>
@@ -1392,7 +1392,7 @@
       </termEntry>
       <termEntry id="t00107">
         <descrip type="origin">顆粒效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>particle effect</term>
           </tig>
@@ -1405,7 +1405,7 @@
       </termEntry>
       <termEntry id="t00108">
         <descrip type="origin">字體顏色</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>font color</term>
           </tig>
@@ -1418,7 +1418,7 @@
       </termEntry>
       <termEntry id="t00109">
         <descrip type="origin">頭部裝飾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>headgear</term>
           </tig>
@@ -1431,7 +1431,7 @@
       </termEntry>
       <termEntry id="t00110">
         <descrip type="origin">尾部裝飾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>tailgear</term>
           </tig>
@@ -1444,7 +1444,7 @@
       </termEntry>
       <termEntry id="t00111">
         <descrip type="origin">工具造型</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>tool shape</term>
           </tig>
@@ -1457,7 +1457,7 @@
       </termEntry>
       <termEntry id="t00112">
         <descrip type="origin">傷害字型</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>damage font style</term>
           </tig>
@@ -1470,7 +1470,7 @@
       </termEntry>
       <termEntry id="t00113">
         <descrip type="origin">寶藏</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>treasure</term>
           </tig>
@@ -1483,7 +1483,7 @@
       </termEntry>
       <termEntry id="t00114">
         <descrip type="origin">收藏箱</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>collection box</term>
           </tig>
@@ -1496,7 +1496,7 @@
       </termEntry>
       <termEntry id="t00115">
         <descrip type="origin">拉普達科技</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Laputa technology</term>
           </tig>
@@ -1509,7 +1509,7 @@
       </termEntry>
       <termEntry id="t00116">
         <descrip type="origin">圖騰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>totem</term>
           </tig>
@@ -1522,7 +1522,7 @@
       </termEntry>
       <termEntry id="t00117">
         <descrip type="origin">咒語水晶</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>spell crystal</term>
           </tig>
@@ -1535,7 +1535,7 @@
       </termEntry>
       <termEntry id="t00118">
         <descrip type="origin">動能水晶</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>kinetic crystal</term>
           </tig>
@@ -1548,7 +1548,7 @@
       </termEntry>
       <termEntry id="t00119">
         <descrip type="origin">出貨箱</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>shipping box</term>
           </tig>
@@ -1561,7 +1561,7 @@
       </termEntry>
       <termEntry id="t00120">
         <descrip type="origin">禁忌魔法科技</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>forbidden magic technology</term>
           </tig>
@@ -1574,7 +1574,7 @@
       </termEntry>
       <termEntry id="t00121">
         <descrip type="origin">黑魔法</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>black magic</term>
           </tig>
@@ -1587,7 +1587,7 @@
       </termEntry>
       <termEntry id="t00122">
         <descrip type="origin">生產系統</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>production system</term>
           </tig>
@@ -1600,7 +1600,7 @@
       </termEntry>
       <termEntry id="t00123">
         <descrip type="origin">屬性道具</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>attribute item</term>
           </tig>
@@ -1613,7 +1613,7 @@
       </termEntry>
       <termEntry id="t00124">
         <descrip type="origin">獎勵箱</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>reward box</term>
           </tig>
@@ -1626,7 +1626,7 @@
       </termEntry>
       <termEntry id="t00125">
         <descrip type="origin">蜥蜴人</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>lizardman</term>
           </tig>
@@ -1639,7 +1639,7 @@
       </termEntry>
       <termEntry id="t00126">
         <descrip type="origin">人族</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>human</term>
           </tig>
@@ -1652,7 +1652,7 @@
       </termEntry>
       <termEntry id="t00127">
         <descrip type="origin">精靈族</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>elf</term>
           </tig>
@@ -1665,7 +1665,7 @@
       </termEntry>
       <termEntry id="t00128">
         <descrip type="origin">龍族</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dragon</term>
           </tig>
@@ -1678,7 +1678,7 @@
       </termEntry>
       <termEntry id="t00129">
         <descrip type="origin">龍人</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dragonborn</term>
           </tig>
@@ -1691,7 +1691,7 @@
       </termEntry>
       <termEntry id="t00130">
         <descrip type="origin">娜迦</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Naga</term>
           </tig>
@@ -1704,7 +1704,7 @@
       </termEntry>
       <termEntry id="t00131">
         <descrip type="origin">矮人</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dwarf</term>
           </tig>
@@ -1717,7 +1717,7 @@
       </termEntry>
       <termEntry id="t00132">
         <descrip type="origin">半獸人</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>half-orc</term>
           </tig>
@@ -1730,7 +1730,7 @@
       </termEntry>
       <termEntry id="t00133">
         <descrip type="origin">獸族</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>beastman</term>
           </tig>
@@ -1743,7 +1743,7 @@
       </termEntry>
       <termEntry id="t00134">
         <descrip type="origin">翼族</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>winged</term>
           </tig>
@@ -1756,7 +1756,7 @@
       </termEntry>
       <termEntry id="t00135">
         <descrip type="origin">魔族</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>demon</term>
           </tig>
@@ -1769,7 +1769,7 @@
       </termEntry>
       <termEntry id="t00136">
         <descrip type="origin">祭壇符文石</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>altar rune stone</term>
           </tig>
@@ -1782,7 +1782,7 @@
       </termEntry>
       <termEntry id="t00137">
         <descrip type="origin">符文石</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>rune stone</term>
           </tig>
@@ -1795,7 +1795,7 @@
       </termEntry>
       <termEntry id="t00138">
         <descrip type="origin">白金</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>white gold</term>
           </tig>
@@ -1808,7 +1808,7 @@
       </termEntry>
       <termEntry id="t00139">
         <descrip type="origin">托米爾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Tomil</term>
           </tig>
@@ -1821,7 +1821,7 @@
       </termEntry>
       <termEntry id="t00140">
         <descrip type="origin">瑪夏達巴</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Masadabah</term>
           </tig>
@@ -1834,7 +1834,7 @@
       </termEntry>
       <termEntry id="t00141">
         <descrip type="origin">薔薇十字軍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Rose Crusader</term>
           </tig>
@@ -1847,7 +1847,7 @@
       </termEntry>
       <termEntry id="t00142">
         <descrip type="origin">阿斯翠德</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Astrid</term>
           </tig>
@@ -1860,7 +1860,7 @@
       </termEntry>
       <termEntry id="t00143">
         <descrip type="origin">草莓龍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Strawberry dragon</term>
           </tig>
@@ -1873,7 +1873,7 @@
       </termEntry>
       <termEntry id="t00144">
         <descrip type="origin">和平草莓龍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Peaceful Strawberry Dragon</term>
           </tig>
@@ -1886,7 +1886,7 @@
       </termEntry>
       <termEntry id="t00145">
         <descrip type="origin">和平守護龍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Peaceful Guardian Dragon</term>
           </tig>
@@ -1899,7 +1899,7 @@
       </termEntry>
       <termEntry id="t00146">
         <descrip type="origin">和平冰雪狐</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Peaceful Snow Fox</term>
           </tig>
@@ -1912,7 +1912,7 @@
       </termEntry>
       <termEntry id="t00147">
         <descrip type="origin">mk456766</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>mk456766</term>
           </tig>
@@ -1925,7 +1925,7 @@
       </termEntry>
       <termEntry id="t00148">
         <descrip type="origin">阿洛</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Rluo</term>
           </tig>
@@ -1938,7 +1938,7 @@
       </termEntry>
       <termEntry id="t00149">
         <descrip type="origin">紅月</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Redmoon</term>
           </tig>
@@ -1951,7 +1951,7 @@
       </termEntry>
       <termEntry id="t00150">
         <descrip type="origin">亞洛赫</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Anok</term>
           </tig>
@@ -1964,7 +1964,7 @@
       </termEntry>
       <termEntry id="t00151">
         <descrip type="origin">傳說生物</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>legendary creature</term>
           </tig>
@@ -1977,7 +1977,7 @@
       </termEntry>
       <termEntry id="t00152">
         <descrip type="origin">魔法鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>magic steel</term>
           </tig>
@@ -1990,7 +1990,7 @@
       </termEntry>
       <termEntry id="t00153">
         <descrip type="origin">複製者</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>replicator</term>
           </tig>
@@ -2003,7 +2003,7 @@
       </termEntry>
       <termEntry id="t00154">
         <descrip type="origin">黑暗鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dark steel</term>
           </tig>
@@ -2016,7 +2016,7 @@
       </termEntry>
       <termEntry id="t00155">
         <descrip type="origin">暗血鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dark blood steel</term>
           </tig>
@@ -2029,7 +2029,7 @@
       </termEntry>
       <termEntry id="t00156">
         <descrip type="origin">紅連金屬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>red chain metal</term>
           </tig>
@@ -2042,7 +2042,7 @@
       </termEntry>
       <termEntry id="t00157">
         <descrip type="origin">無限鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>infinite steel</term>
           </tig>
@@ -2055,7 +2055,7 @@
       </termEntry>
       <termEntry id="t00158">
         <descrip type="origin">奧哈利爾鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>O&apos;Halloran steel</term>
           </tig>
@@ -2068,7 +2068,7 @@
       </termEntry>
       <termEntry id="t00159">
         <descrip type="origin">宇宙能量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>cosmic energy</term>
           </tig>
@@ -2081,7 +2081,7 @@
       </termEntry>
       <termEntry id="t00160">
         <descrip type="origin">符文鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>rune steel</term>
           </tig>
@@ -2094,7 +2094,7 @@
       </termEntry>
       <termEntry id="t00161">
         <descrip type="origin">奧鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>mystery steel</term>
           </tig>
@@ -2107,7 +2107,7 @@
       </termEntry>
       <termEntry id="t00162">
         <descrip type="origin">黑洞頻率錠</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>black hole frequency ingot</term>
           </tig>
@@ -2120,7 +2120,7 @@
       </termEntry>
       <termEntry id="t00163">
         <descrip type="origin">碧鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>green steel</term>
           </tig>
@@ -2133,7 +2133,7 @@
       </termEntry>
       <termEntry id="t00164">
         <descrip type="origin">山銅</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>mountain copper</term>
           </tig>
@@ -2146,7 +2146,7 @@
       </termEntry>
       <termEntry id="t00165">
         <descrip type="origin">秘銀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>mysterious silver</term>
           </tig>
@@ -2159,7 +2159,7 @@
       </termEntry>
       <termEntry id="t00166">
         <descrip type="origin">聖銅</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>holy copper</term>
           </tig>
@@ -2172,7 +2172,7 @@
       </termEntry>
       <termEntry id="t00167">
         <descrip type="origin">亥銀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Hai silver</term>
           </tig>
@@ -2185,7 +2185,7 @@
       </termEntry>
       <termEntry id="t00168">
         <descrip type="origin">精金</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>fine gold</term>
           </tig>
@@ -2198,7 +2198,7 @@
       </termEntry>
       <termEntry id="t00169">
         <descrip type="origin">硫銅</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>sulfur copper</term>
           </tig>
@@ -2211,7 +2211,7 @@
       </termEntry>
       <termEntry id="t00170">
         <descrip type="origin">虹鋼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>rainbow steel</term>
           </tig>
@@ -2224,7 +2224,7 @@
       </termEntry>
       <termEntry id="t00171">
         <descrip type="origin">聖魂</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>holy soul</term>
           </tig>
@@ -2237,7 +2237,7 @@
       </termEntry>
       <termEntry id="t00172">
         <descrip type="origin">炙焰金</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>blazing gold</term>
           </tig>
@@ -2250,7 +2250,7 @@
       </termEntry>
       <termEntry id="t00173">
         <descrip type="origin">古代鐵</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>ancient iron</term>
           </tig>
@@ -2263,7 +2263,7 @@
       </termEntry>
       <termEntry id="t00174">
         <descrip type="origin">聖器</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>holy vessel</term>
           </tig>
@@ -2276,7 +2276,7 @@
       </termEntry>
       <termEntry id="t00175">
         <descrip type="origin">精鑄</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>forging</term>
           </tig>
@@ -2289,7 +2289,7 @@
       </termEntry>
       <termEntry id="t00176">
         <descrip type="origin">採礦</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>mining</term>
           </tig>
@@ -2302,7 +2302,7 @@
       </termEntry>
       <termEntry id="t00177">
         <descrip type="origin">寶石工藝</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>gemcraft</term>
           </tig>
@@ -2315,7 +2315,7 @@
       </termEntry>
       <termEntry id="t00178">
         <descrip type="origin">農耕</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>farming</term>
           </tig>
@@ -2328,7 +2328,7 @@
       </termEntry>
       <termEntry id="t00179">
         <descrip type="origin">釣魚</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>fishing</term>
           </tig>
@@ -2341,7 +2341,7 @@
       </termEntry>
       <termEntry id="t00180">
         <descrip type="origin">烹飪</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>cooking</term>
           </tig>
@@ -2354,7 +2354,7 @@
       </termEntry>
       <termEntry id="t00181">
         <descrip type="origin">養蜂</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>beekeeping</term>
           </tig>
@@ -2367,7 +2367,7 @@
       </termEntry>
       <termEntry id="t00182">
         <descrip type="origin">裁縫</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>tailoring</term>
           </tig>
@@ -2380,7 +2380,7 @@
       </termEntry>
       <termEntry id="t00183">
         <descrip type="origin">馴龍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dragon taming</term>
           </tig>
@@ -2393,7 +2393,7 @@
       </termEntry>
       <termEntry id="t00184">
         <descrip type="origin">釀造</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>brewing</term>
           </tig>
@@ -2406,7 +2406,7 @@
       </termEntry>
       <termEntry id="t00185">
         <descrip type="origin">合金結晶</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>alloy crystallization</term>
           </tig>
@@ -2419,7 +2419,7 @@
       </termEntry>
       <termEntry id="t00186">
         <descrip type="origin">魔藥</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>potion</term>
           </tig>
@@ -2432,7 +2432,7 @@
       </termEntry>
       <termEntry id="t00187">
         <descrip type="origin">寶玉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>enhanced gem</term>
           </tig>
@@ -2445,7 +2445,7 @@
       </termEntry>
       <termEntry id="t00188">
         <descrip type="origin">強化卷</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>enhancement scroll</term>
           </tig>
@@ -2458,7 +2458,7 @@
       </termEntry>
       <termEntry id="t00189">
         <descrip type="origin">星等強化</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>star enhancement</term>
           </tig>
@@ -2471,7 +2471,7 @@
       </termEntry>
       <termEntry id="t00190">
         <descrip type="origin">道具品質</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>item quality</term>
           </tig>
@@ -2484,7 +2484,7 @@
       </termEntry>
       <termEntry id="t00191">
         <descrip type="origin">垃圾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>junk</term>
           </tig>
@@ -2497,7 +2497,7 @@
       </termEntry>
       <termEntry id="t00192">
         <descrip type="origin">普通</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>normal</term>
           </tig>
@@ -2510,7 +2510,7 @@
       </termEntry>
       <termEntry id="t00193">
         <descrip type="origin">稀有</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>rare</term>
           </tig>
@@ -2523,7 +2523,7 @@
       </termEntry>
       <termEntry id="t00194">
         <descrip type="origin">精品</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>fine</term>
           </tig>
@@ -2536,7 +2536,7 @@
       </termEntry>
       <termEntry id="t00195">
         <descrip type="origin">罕見</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>epic</term>
           </tig>
@@ -2549,7 +2549,7 @@
       </termEntry>
       <termEntry id="t00196">
         <descrip type="origin">絕佳</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>superior</term>
           </tig>
@@ -2562,7 +2562,7 @@
       </termEntry>
       <termEntry id="t00197">
         <descrip type="origin">史詩</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>mythical</term>
           </tig>
@@ -2575,7 +2575,7 @@
       </termEntry>
       <termEntry id="t00198">
         <descrip type="origin">上古</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>ancient</term>
           </tig>
@@ -2588,7 +2588,7 @@
       </termEntry>
       <termEntry id="t00199">
         <descrip type="origin">神話</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>divine</term>
           </tig>
@@ -2601,7 +2601,7 @@
       </termEntry>
       <termEntry id="t00200">
         <descrip type="origin">傳奇</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>legendary</term>
           </tig>
@@ -2614,7 +2614,7 @@
       </termEntry>
       <termEntry id="t00201">
         <descrip type="origin">聖品</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>holy</term>
           </tig>
@@ -2627,7 +2627,7 @@
       </termEntry>
       <termEntry id="t00202">
         <descrip type="origin">超凡</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>transcendent</term>
           </tig>
@@ -2640,7 +2640,7 @@
       </termEntry>
       <termEntry id="t00203">
         <descrip type="origin">創世</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>genesis</term>
           </tig>
@@ -2653,7 +2653,7 @@
       </termEntry>
       <termEntry id="t00204">
         <descrip type="origin">魔性</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>demonic</term>
           </tig>
@@ -2666,7 +2666,7 @@
       </termEntry>
       <termEntry id="t00205">
         <descrip type="origin">混沌</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>chaotic</term>
           </tig>
@@ -2679,7 +2679,7 @@
       </termEntry>
       <termEntry id="t00206">
         <descrip type="origin">絕世</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>peerless</term>
           </tig>
@@ -2692,7 +2692,7 @@
       </termEntry>
       <termEntry id="t00207">
         <descrip type="origin">璀璨</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>brilliant</term>
           </tig>
@@ -2705,7 +2705,7 @@
       </termEntry>
       <termEntry id="t00208">
         <descrip type="origin">瑰寶</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>treasure</term>
           </tig>
@@ -2718,7 +2718,7 @@
       </termEntry>
       <termEntry id="t00209">
         <descrip type="origin">神器</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>artifact</term>
           </tig>
@@ -2731,7 +2731,7 @@
       </termEntry>
       <termEntry id="t00210">
         <descrip type="origin">龍神</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dragon god</term>
           </tig>
@@ -2744,7 +2744,7 @@
       </termEntry>
       <termEntry id="t00211">
         <descrip type="origin">靈力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>spirit power</term>
           </tig>
@@ -2757,7 +2757,7 @@
       </termEntry>
       <termEntry id="t00212">
         <descrip type="origin">靈魂繼承</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>soul inheritance</term>
           </tig>
@@ -2770,7 +2770,7 @@
       </termEntry>
       <termEntry id="t00213">
         <descrip type="origin">賽季</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>season</term>
           </tig>
@@ -2783,7 +2783,7 @@
       </termEntry>
       <termEntry id="t00214">
         <descrip type="origin">鉑金</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>platinum</term>
           </tig>
@@ -2796,7 +2796,7 @@
       </termEntry>
       <termEntry id="t00215">
         <descrip type="origin">魔法金屬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>manametal</term>
           </tig>
@@ -2809,7 +2809,7 @@
       </termEntry>
       <termEntry id="t00216">
         <descrip type="origin">護石</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>gemstone</term>
           </tig>
@@ -2822,7 +2822,7 @@
       </termEntry>
       <termEntry id="t00217">
         <descrip type="origin">末日城</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Doomsday</term>
           </tig>
@@ -2835,7 +2835,7 @@
       </termEntry>
       <termEntry id="t00218">
         <descrip type="origin">祈願神壇</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>wishing altar</term>
           </tig>
@@ -2848,7 +2848,7 @@
       </termEntry>
       <termEntry id="t00219">
         <descrip type="origin">聖物</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>holy relic</term>
           </tig>
@@ -2861,7 +2861,7 @@
       </termEntry>
       <termEntry id="t00220">
         <descrip type="origin">許願之星</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>wishing star</term>
           </tig>
@@ -2874,7 +2874,7 @@
       </termEntry>
       <termEntry id="t00221">
         <descrip type="origin">聖物點數</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>relic points</term>
           </tig>
@@ -2887,7 +2887,7 @@
       </termEntry>
       <termEntry id="t00222">
         <descrip type="origin">傳說聖物點數</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>legendary relic points</term>
           </tig>
@@ -2900,7 +2900,7 @@
       </termEntry>
       <termEntry id="t00223">
         <descrip type="origin">瞬身術</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Flash Step</term>
           </tig>
@@ -2913,7 +2913,7 @@
       </termEntry>
       <termEntry id="t00224">
         <descrip type="origin">戰鬥思想</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Combat Mind</term>
           </tig>
@@ -2926,7 +2926,7 @@
       </termEntry>
       <termEntry id="t00225">
         <descrip type="origin">黑暗力量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dark Power</term>
           </tig>
@@ -2939,7 +2939,7 @@
       </termEntry>
       <termEntry id="t00226">
         <descrip type="origin">劍氣波</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ken-ki Wave</term>
           </tig>
@@ -2952,7 +2952,7 @@
       </termEntry>
       <termEntry id="t00227">
         <descrip type="origin">戰鬥防守</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Combat Defense</term>
           </tig>
@@ -2965,7 +2965,7 @@
       </termEntry>
       <termEntry id="t00228">
         <descrip type="origin">連環斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Serial Slash</term>
           </tig>
@@ -2978,7 +2978,7 @@
       </termEntry>
       <termEntry id="t00229">
         <descrip type="origin">玄月斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Crescent Moon Slash</term>
           </tig>
@@ -2991,7 +2991,7 @@
       </termEntry>
       <termEntry id="t00230">
         <descrip type="origin">幻影劍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Sword</term>
           </tig>
@@ -3004,7 +3004,7 @@
       </termEntry>
       <termEntry id="t00231">
         <descrip type="origin">劍術精通</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Sword Mastery</term>
           </tig>
@@ -3017,7 +3017,7 @@
       </termEntry>
       <termEntry id="t00232">
         <descrip type="origin">劍術大師</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Sword Master</term>
           </tig>
@@ -3030,7 +3030,7 @@
       </termEntry>
       <termEntry id="t00233">
         <descrip type="origin">怒氣爆發</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Rage Burst</term>
           </tig>
@@ -3043,7 +3043,7 @@
       </termEntry>
       <termEntry id="t00234">
         <descrip type="origin">狂暴劍斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Furious Sword Slash</term>
           </tig>
@@ -3056,7 +3056,7 @@
       </termEntry>
       <termEntry id="t00235">
         <descrip type="origin">血戰誓約</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blood Battle Oath</term>
           </tig>
@@ -3069,7 +3069,7 @@
       </termEntry>
       <termEntry id="t00236">
         <descrip type="origin">龍捲劍斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Tornado Sword Slash</term>
           </tig>
@@ -3082,7 +3082,7 @@
       </termEntry>
       <termEntry id="t00237">
         <descrip type="origin">麻痺陷阱</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Paralyzing Trap</term>
           </tig>
@@ -3095,7 +3095,7 @@
       </termEntry>
       <termEntry id="t00238">
         <descrip type="origin">穿空箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Piercing Arrow</term>
           </tig>
@@ -3108,7 +3108,7 @@
       </termEntry>
       <termEntry id="t00239">
         <descrip type="origin">五重矢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Five Arrows</term>
           </tig>
@@ -3121,7 +3121,7 @@
       </termEntry>
       <termEntry id="t00240">
         <descrip type="origin">爆裂箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Explosive Arrow</term>
           </tig>
@@ -3134,7 +3134,7 @@
       </termEntry>
       <termEntry id="t00241">
         <descrip type="origin">閃雷矢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Lightning Arrow</term>
           </tig>
@@ -3147,7 +3147,7 @@
       </termEntry>
       <termEntry id="t00242">
         <descrip type="origin">弓術精通</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Archery Mastery</term>
           </tig>
@@ -3160,7 +3160,7 @@
       </termEntry>
       <termEntry id="t00243">
         <descrip type="origin">蓄力射擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Charge Shot</term>
           </tig>
@@ -3173,7 +3173,7 @@
       </termEntry>
       <termEntry id="t00244">
         <descrip type="origin">連成一氣</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>United as One</term>
           </tig>
@@ -3186,7 +3186,7 @@
       </termEntry>
       <termEntry id="t00245">
         <descrip type="origin">破甲強襲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Armor-Breaking Assault</term>
           </tig>
@@ -3199,7 +3199,7 @@
       </termEntry>
       <termEntry id="t00246">
         <descrip type="origin">風神祝福</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wind God&apos;s Blessing</term>
           </tig>
@@ -3212,7 +3212,7 @@
       </termEntry>
       <termEntry id="t00247">
         <descrip type="origin">暴風箭雨</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Stormy Arrow Rain</term>
           </tig>
@@ -3225,7 +3225,7 @@
       </termEntry>
       <termEntry id="t00248">
         <descrip type="origin">寒冰咒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Frost Curse</term>
           </tig>
@@ -3238,7 +3238,7 @@
       </termEntry>
       <termEntry id="t00249">
         <descrip type="origin">魔力律動</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Rhythm</term>
           </tig>
@@ -3251,7 +3251,7 @@
       </termEntry>
       <termEntry id="t00250">
         <descrip type="origin">魔焰彈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Flame Ball</term>
           </tig>
@@ -3264,7 +3264,7 @@
       </termEntry>
       <termEntry id="t00251">
         <descrip type="origin">魔法箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Arrow</term>
           </tig>
@@ -3277,7 +3277,7 @@
       </termEntry>
       <termEntry id="t00252">
         <descrip type="origin">魔力盾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Shield</term>
           </tig>
@@ -3290,7 +3290,7 @@
       </termEntry>
       <termEntry id="t00253">
         <descrip type="origin">法力精通</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mana Mastery</term>
           </tig>
@@ -3303,7 +3303,7 @@
       </termEntry>
       <termEntry id="t00254">
         <descrip type="origin">魔力存儲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Storage</term>
           </tig>
@@ -3316,7 +3316,7 @@
       </termEntry>
       <termEntry id="t00255">
         <descrip type="origin">冰柱連擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Icicle Combo</term>
           </tig>
@@ -3329,7 +3329,7 @@
       </termEntry>
       <termEntry id="t00256">
         <descrip type="origin">元素爆裂</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Elemental Explosion</term>
           </tig>
@@ -3342,7 +3342,7 @@
       </termEntry>
       <termEntry id="t00257">
         <descrip type="origin">無盡魔力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Infinite Magic</term>
           </tig>
@@ -3355,7 +3355,7 @@
       </termEntry>
       <termEntry id="t00258">
         <descrip type="origin">萬雷殞落</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thunderstorm</term>
           </tig>
@@ -3368,7 +3368,7 @@
       </termEntry>
       <termEntry id="t00259">
         <descrip type="origin">突刺術</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thrust Technique</term>
           </tig>
@@ -3381,7 +3381,7 @@
       </termEntry>
       <termEntry id="t00260">
         <descrip type="origin">短刃:飛毒刃</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dagger style: Flying Poison Blade</term>
           </tig>
@@ -3394,7 +3394,7 @@
       </termEntry>
       <termEntry id="t00261">
         <descrip type="origin">暗器:連環鏢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Assassin style: Chain Darts</term>
           </tig>
@@ -3407,7 +3407,7 @@
       </termEntry>
       <termEntry id="t00262">
         <descrip type="origin">忍法:強雷襲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ninja style: Strong Lightning Strike</term>
           </tig>
@@ -3420,7 +3420,7 @@
       </termEntry>
       <termEntry id="t00263">
         <descrip type="origin">噬血術</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blood Devouring Technique</term>
           </tig>
@@ -3433,7 +3433,7 @@
       </termEntry>
       <termEntry id="t00264">
         <descrip type="origin">黑夜契約</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Night Contract</term>
           </tig>
@@ -3446,7 +3446,7 @@
       </termEntry>
       <termEntry id="t00265">
         <descrip type="origin">三位一體</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Trinity</term>
           </tig>
@@ -3459,7 +3459,7 @@
       </termEntry>
       <termEntry id="t00266">
         <descrip type="origin">暗器:匕首劍舞</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Assassin style: Dagger Sword Dance</term>
           </tig>
@@ -3472,7 +3472,7 @@
       </termEntry>
       <termEntry id="t00267">
         <descrip type="origin">短刃:十字連斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dagger style: Cross Slash</term>
           </tig>
@@ -3485,7 +3485,7 @@
       </termEntry>
       <termEntry id="t00268">
         <descrip type="origin">孤注一擲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>All or Nothing</term>
           </tig>
@@ -3498,7 +3498,7 @@
       </termEntry>
       <termEntry id="t00269">
         <descrip type="origin">忍法:刀刃迷宮</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ninja style: Blade Maze</term>
           </tig>
@@ -3511,7 +3511,7 @@
       </termEntry>
       <termEntry id="t00270">
         <descrip type="origin">戰吼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Battle Cry</term>
           </tig>
@@ -3524,7 +3524,7 @@
       </termEntry>
       <termEntry id="t00271">
         <descrip type="origin">自我復原</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Self Recovery</term>
           </tig>
@@ -3537,7 +3537,7 @@
       </termEntry>
       <termEntry id="t00272">
         <descrip type="origin">犧牲術</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Sacrificial Art</term>
           </tig>
@@ -3550,7 +3550,7 @@
       </termEntry>
       <termEntry id="t00273">
         <descrip type="origin">旋風斧</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Tornado Axe</term>
           </tig>
@@ -3563,7 +3563,7 @@
       </termEntry>
       <termEntry id="t00274">
         <descrip type="origin">動地鎚</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Earth-Shaking Hammer</term>
           </tig>
@@ -3576,7 +3576,7 @@
       </termEntry>
       <termEntry id="t00275">
         <descrip type="origin">防禦體系</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Defense System</term>
           </tig>
@@ -3589,7 +3589,7 @@
       </termEntry>
       <termEntry id="t00276">
         <descrip type="origin">驚奇骨骼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Surprise Bones</term>
           </tig>
@@ -3602,7 +3602,7 @@
       </termEntry>
       <termEntry id="t00277">
         <descrip type="origin">暗影巨鎚</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Hammer</term>
           </tig>
@@ -3615,7 +3615,7 @@
       </termEntry>
       <termEntry id="t00278">
         <descrip type="origin">煉獄之炎</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Flame of Purgatory</term>
           </tig>
@@ -3628,7 +3628,7 @@
       </termEntry>
       <termEntry id="t00279">
         <descrip type="origin">大地力量</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Earth Strength</term>
           </tig>
@@ -3641,7 +3641,7 @@
       </termEntry>
       <termEntry id="t00280">
         <descrip type="origin">天罡神盾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Divine Sky Shield</term>
           </tig>
@@ -3654,7 +3654,7 @@
       </termEntry>
       <termEntry id="t00281">
         <descrip type="origin">治癒之光</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Healing Light</term>
           </tig>
@@ -3667,7 +3667,7 @@
       </termEntry>
       <termEntry id="t00282">
         <descrip type="origin">戰意</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fighting Spirit</term>
           </tig>
@@ -3680,7 +3680,7 @@
       </termEntry>
       <termEntry id="t00283">
         <descrip type="origin">聖光矢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Light Arrow</term>
           </tig>
@@ -3693,7 +3693,7 @@
       </termEntry>
       <termEntry id="t00284">
         <descrip type="origin">神聖祈禱</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Prayer</term>
           </tig>
@@ -3706,7 +3706,7 @@
       </termEntry>
       <termEntry id="t00285">
         <descrip type="origin">癒療之泉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Healing Fountain</term>
           </tig>
@@ -3719,7 +3719,7 @@
       </termEntry>
       <termEntry id="t00286">
         <descrip type="origin">神聖經典</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Scriptures</term>
           </tig>
@@ -3732,7 +3732,7 @@
       </termEntry>
       <termEntry id="t00287">
         <descrip type="origin">聖光灼燒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Light Burning</term>
           </tig>
@@ -3745,7 +3745,7 @@
       </termEntry>
       <termEntry id="t00288">
         <descrip type="origin">光耀直擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Brilliant Strike</term>
           </tig>
@@ -3758,7 +3758,7 @@
       </termEntry>
       <termEntry id="t00289">
         <descrip type="origin">神聖領域</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Sacred Field</term>
           </tig>
@@ -3771,7 +3771,7 @@
       </termEntry>
       <termEntry id="t00290">
         <descrip type="origin">神聖烙印</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Imprint</term>
           </tig>
@@ -3784,7 +3784,7 @@
       </termEntry>
       <termEntry id="t00291">
         <descrip type="origin">真理之門</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Door of Truth</term>
           </tig>
@@ -3797,7 +3797,7 @@
       </termEntry>
       <termEntry id="t00292">
         <descrip type="origin">魔界召喚</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Demon World Summon</term>
           </tig>
@@ -3810,7 +3810,7 @@
       </termEntry>
       <termEntry id="t00293">
         <descrip type="origin">魔界召回</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Demon World Recall</term>
           </tig>
@@ -3823,7 +3823,7 @@
       </termEntry>
       <termEntry id="t00294">
         <descrip type="origin">著魔</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Obsessed</term>
           </tig>
@@ -3836,7 +3836,7 @@
       </termEntry>
       <termEntry id="t00295">
         <descrip type="origin">還魂術</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Resurrection Art</term>
           </tig>
@@ -3849,7 +3849,7 @@
       </termEntry>
       <termEntry id="t00296">
         <descrip type="origin">幻影悅靈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Allay</term>
           </tig>
@@ -3862,7 +3862,7 @@
       </termEntry>
       <termEntry id="t00297">
         <descrip type="origin">生命聖火</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Sacred Flame of Life</term>
           </tig>
@@ -3875,7 +3875,7 @@
       </termEntry>
       <termEntry id="t00298">
         <descrip type="origin">心靈水滴</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Soul Drop</term>
           </tig>
@@ -3888,7 +3888,7 @@
       </termEntry>
       <termEntry id="t00299">
         <descrip type="origin">引導之矢</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Guiding Arrow</term>
           </tig>
@@ -3901,7 +3901,7 @@
       </termEntry>
       <termEntry id="t00300">
         <descrip type="origin">聖獸守護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Beast Guardian</term>
           </tig>
@@ -3914,7 +3914,7 @@
       </termEntry>
       <termEntry id="t00301">
         <descrip type="origin">魔法導彈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Missile</term>
           </tig>
@@ -3927,7 +3927,7 @@
       </termEntry>
       <termEntry id="t00302">
         <descrip type="origin">誓約之龍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Oath Dragon</term>
           </tig>
@@ -3940,7 +3940,7 @@
       </termEntry>
       <termEntry id="t00303">
         <descrip type="origin">符咒充能</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Phylactery Charge</term>
           </tig>
@@ -3953,7 +3953,7 @@
       </termEntry>
       <termEntry id="t00304">
         <descrip type="origin">符咒解散</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Phylactery Dispel</term>
           </tig>
@@ -3966,7 +3966,7 @@
       </termEntry>
       <termEntry id="t00305">
         <descrip type="origin">閃雷符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Lightning Phylactery</term>
           </tig>
@@ -3979,7 +3979,7 @@
       </termEntry>
       <termEntry id="t00306">
         <descrip type="origin">自然晨光</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Natural Morning Light</term>
           </tig>
@@ -3992,7 +3992,7 @@
       </termEntry>
       <termEntry id="t00307">
         <descrip type="origin">風速符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wind Speed Phylactery</term>
           </tig>
@@ -4005,7 +4005,7 @@
       </termEntry>
       <termEntry id="t00308">
         <descrip type="origin">心靈之火</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Soul Fire</term>
           </tig>
@@ -4018,7 +4018,7 @@
       </termEntry>
       <termEntry id="t00309">
         <descrip type="origin">符咒精通</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Phylactery Mastery</term>
           </tig>
@@ -4031,7 +4031,7 @@
       </termEntry>
       <termEntry id="t00310">
         <descrip type="origin">靈轉符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Spirit Transfer Phylactery</term>
           </tig>
@@ -4044,7 +4044,7 @@
       </termEntry>
       <termEntry id="t00311">
         <descrip type="origin">式神斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shikigami Slash</term>
           </tig>
@@ -4057,7 +4057,7 @@
       </termEntry>
       <termEntry id="t00312">
         <descrip type="origin">守靈結界</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Guardian Barrier</term>
           </tig>
@@ -4070,7 +4070,7 @@
       </termEntry>
       <termEntry id="t00313">
         <descrip type="origin">六壬神域</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Realm of the Six Yang</term>
           </tig>
@@ -4083,7 +4083,7 @@
       </termEntry>
       <termEntry id="t00314">
         <descrip type="origin">蠱毒爆</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Toxic Explosion</term>
           </tig>
@@ -4096,7 +4096,7 @@
       </termEntry>
       <termEntry id="t00315">
         <descrip type="origin">中和毒素</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Neutralize Toxins</term>
           </tig>
@@ -4109,7 +4109,7 @@
       </termEntry>
       <termEntry id="t00316">
         <descrip type="origin">烈性毒箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Intense Poison Arrow</term>
           </tig>
@@ -4122,7 +4122,7 @@
       </termEntry>
       <termEntry id="t00317">
         <descrip type="origin">霧療</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mist Therapy</term>
           </tig>
@@ -4135,7 +4135,7 @@
       </termEntry>
       <termEntry id="t00318">
         <descrip type="origin">酸性毒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Acidic Poison</term>
           </tig>
@@ -4148,7 +4148,7 @@
       </termEntry>
       <termEntry id="t00319">
         <descrip type="origin">致命劇毒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Deadly Toxic</term>
           </tig>
@@ -4161,7 +4161,7 @@
       </termEntry>
       <termEntry id="t00320">
         <descrip type="origin">上古碑文</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ancient Inscription</term>
           </tig>
@@ -4174,7 +4174,7 @@
       </termEntry>
       <termEntry id="t00321">
         <descrip type="origin">先祖圖騰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ancestral Totem</term>
           </tig>
@@ -4187,7 +4187,7 @@
       </termEntry>
       <termEntry id="t00322">
         <descrip type="origin">沼氣毒火</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Biogas Poisonous Fire</term>
           </tig>
@@ -4200,7 +4200,7 @@
       </termEntry>
       <termEntry id="t00323">
         <descrip type="origin">寒冰毒箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ice Poison Arrow</term>
           </tig>
@@ -4213,7 +4213,7 @@
       </termEntry>
       <termEntry id="t00324">
         <descrip type="origin">千針萬確</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thousand Needles </term>
           </tig>
@@ -4226,7 +4226,7 @@
       </termEntry>
       <termEntry id="t00325">
         <descrip type="origin">捕捉網</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Capture Net</term>
           </tig>
@@ -4239,7 +4239,7 @@
       </termEntry>
       <termEntry id="t00326">
         <descrip type="origin">荒野備戰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wilderness Preparation</term>
           </tig>
@@ -4252,7 +4252,7 @@
       </termEntry>
       <termEntry id="t00327">
         <descrip type="origin">銀槍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Silver Spear</term>
           </tig>
@@ -4265,7 +4265,7 @@
       </termEntry>
       <termEntry id="t00328">
         <descrip type="origin">爆裂標槍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Burst Spear</term>
           </tig>
@@ -4278,7 +4278,7 @@
       </termEntry>
       <termEntry id="t00329">
         <descrip type="origin">草藥專精</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Herbal Mastery</term>
           </tig>
@@ -4291,7 +4291,7 @@
       </termEntry>
       <termEntry id="t00330">
         <descrip type="origin">獵者追蹤</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Hunter&apos;s Tracking</term>
           </tig>
@@ -4304,7 +4304,7 @@
       </termEntry>
       <termEntry id="t00331">
         <descrip type="origin">魔化獵手</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Demonized Hunter</term>
           </tig>
@@ -4317,7 +4317,7 @@
       </termEntry>
       <termEntry id="t00332">
         <descrip type="origin">螺旋標槍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Spiral Spear</term>
           </tig>
@@ -4330,7 +4330,7 @@
       </termEntry>
       <termEntry id="t00333">
         <descrip type="origin">荊棘飛槍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thorn Flying Spear</term>
           </tig>
@@ -4343,7 +4343,7 @@
       </termEntry>
       <termEntry id="t00334">
         <descrip type="origin">戰鬥組裝</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Battle Assembly</term>
           </tig>
@@ -4356,7 +4356,7 @@
       </termEntry>
       <termEntry id="t00335">
         <descrip type="origin">斷界神槍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Boundary-Breaking Divine Spear</term>
           </tig>
@@ -4369,7 +4369,7 @@
       </termEntry>
       <termEntry id="t00336">
         <descrip type="origin">靈魂燈籠</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Soul Lantern</term>
           </tig>
@@ -4382,7 +4382,7 @@
       </termEntry>
       <termEntry id="t00337">
         <descrip type="origin">契約召喚</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Contract Summon</term>
           </tig>
@@ -4395,7 +4395,7 @@
       </termEntry>
       <termEntry id="t00338">
         <descrip type="origin">毒針連擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Poison Sting Combo</term>
           </tig>
@@ -4408,7 +4408,7 @@
       </termEntry>
       <termEntry id="t00339">
         <descrip type="origin">紅旗指導</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Red Flag Guidance</term>
           </tig>
@@ -4421,7 +4421,7 @@
       </termEntry>
       <termEntry id="t00340">
         <descrip type="origin">藍旗指導</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blue Flag Guidance</term>
           </tig>
@@ -4434,7 +4434,7 @@
       </termEntry>
       <termEntry id="t00341">
         <descrip type="origin">動物專精</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Animal Specialization</term>
           </tig>
@@ -4447,7 +4447,7 @@
       </termEntry>
       <termEntry id="t00342">
         <descrip type="origin">齊心協力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Working Together</term>
           </tig>
@@ -4460,7 +4460,7 @@
       </termEntry>
       <termEntry id="t00343">
         <descrip type="origin">獵鷹衝擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Falcon Shock</term>
           </tig>
@@ -4473,7 +4473,7 @@
       </termEntry>
       <termEntry id="t00344">
         <descrip type="origin">野性領導</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wild Leader</term>
           </tig>
@@ -4486,7 +4486,7 @@
       </termEntry>
       <termEntry id="t00345">
         <descrip type="origin">野性吶喊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wild Cry</term>
           </tig>
@@ -4499,7 +4499,7 @@
       </termEntry>
       <termEntry id="t00346">
         <descrip type="origin">獸魔無極</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Beast Demon Infinity</term>
           </tig>
@@ -4512,7 +4512,7 @@
       </termEntry>
       <termEntry id="t00347">
         <descrip type="origin">自然恢復</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Natural Recovery</term>
           </tig>
@@ -4525,7 +4525,7 @@
       </termEntry>
       <termEntry id="t00348">
         <descrip type="origin">魔力吞噬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mana Devour</term>
           </tig>
@@ -4538,7 +4538,7 @@
       </termEntry>
       <termEntry id="t00349">
         <descrip type="origin">厚重毛皮</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thick Fur</term>
           </tig>
@@ -4551,7 +4551,7 @@
       </termEntry>
       <termEntry id="t00350">
         <descrip type="origin">冰瀑</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ice Waterfall</term>
           </tig>
@@ -4564,7 +4564,7 @@
       </termEntry>
       <termEntry id="t00351">
         <descrip type="origin">吸血爪牙</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Life Steal Fangs</term>
           </tig>
@@ -4577,7 +4577,7 @@
       </termEntry>
       <termEntry id="t00352">
         <descrip type="origin">黑霧</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dark Mist</term>
           </tig>
@@ -4590,7 +4590,7 @@
       </termEntry>
       <termEntry id="t00353">
         <descrip type="origin">療癒術</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Healing Spell</term>
           </tig>
@@ -4603,7 +4603,7 @@
       </termEntry>
       <termEntry id="t00354">
         <descrip type="origin">衝動靈魂</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Impulsive Soul</term>
           </tig>
@@ -4616,7 +4616,7 @@
       </termEntry>
       <termEntry id="t00355">
         <descrip type="origin">風壓</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wind Pressure</term>
           </tig>
@@ -4629,7 +4629,7 @@
       </termEntry>
       <termEntry id="t00356">
         <descrip type="origin">灼燒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Scorching</term>
           </tig>
@@ -4642,7 +4642,7 @@
       </termEntry>
       <termEntry id="t00357">
         <descrip type="origin">雷霆一擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thunder Strike</term>
           </tig>
@@ -4655,7 +4655,7 @@
       </termEntry>
       <termEntry id="t00358">
         <descrip type="origin">反向魔法</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Reverse Magic</term>
           </tig>
@@ -4668,7 +4668,7 @@
       </termEntry>
       <termEntry id="t00359">
         <descrip type="origin">力量腐化</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Strength Corruption</term>
           </tig>
@@ -4681,7 +4681,7 @@
       </termEntry>
       <termEntry id="t00360">
         <descrip type="origin">光明之翼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wings of Light</term>
           </tig>
@@ -4694,7 +4694,7 @@
       </termEntry>
       <termEntry id="t00361">
         <descrip type="origin">分擔痛楚</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Share Pain</term>
           </tig>
@@ -4707,7 +4707,7 @@
       </termEntry>
       <termEntry id="t00362">
         <descrip type="origin">架勢切換</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Stance Switch</term>
           </tig>
@@ -4720,7 +4720,7 @@
       </termEntry>
       <termEntry id="t00363">
         <descrip type="origin">瞬斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Instant Slash</term>
           </tig>
@@ -4733,7 +4733,7 @@
       </termEntry>
       <termEntry id="t00364">
         <descrip type="origin">玄月</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mysterious Moon</term>
           </tig>
@@ -4746,7 +4746,7 @@
       </termEntry>
       <termEntry id="t00365">
         <descrip type="origin">鷹爪</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Eagle Claw</term>
           </tig>
@@ -4759,7 +4759,7 @@
       </termEntry>
       <termEntry id="t00366">
         <descrip type="origin">飛鴉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Flying Raven</term>
           </tig>
@@ -4772,7 +4772,7 @@
       </termEntry>
       <termEntry id="t00367">
         <descrip type="origin">流打</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Flowing Strike</term>
           </tig>
@@ -4785,7 +4785,7 @@
       </termEntry>
       <termEntry id="t00368">
         <descrip type="origin">燕返</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Swallow Return</term>
           </tig>
@@ -4798,7 +4798,7 @@
       </termEntry>
       <termEntry id="t00369">
         <descrip type="origin">居合</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Iaido</term>
           </tig>
@@ -4811,7 +4811,7 @@
       </termEntry>
       <termEntry id="t00370">
         <descrip type="origin">天地流劍道</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Heaven–Earth Kenjutsu</term>
           </tig>
@@ -4824,7 +4824,7 @@
       </termEntry>
       <termEntry id="t00371">
         <descrip type="origin">天地流秘傳</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Heaven–Earth Kenjutsu Secret Teachings</term>
           </tig>
@@ -4837,7 +4837,7 @@
       </termEntry>
       <termEntry id="t00372">
         <descrip type="origin">受流</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Receiving Flow</term>
           </tig>
@@ -4850,7 +4850,7 @@
       </termEntry>
       <termEntry id="t00373">
         <descrip type="origin">猛襲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fierce Assault</term>
           </tig>
@@ -4863,7 +4863,7 @@
       </termEntry>
       <termEntry id="t00374">
         <descrip type="origin">水車</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Water Wheel</term>
           </tig>
@@ -4876,7 +4876,7 @@
       </termEntry>
       <termEntry id="t00375">
         <descrip type="origin">一閃</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Flash Strike</term>
           </tig>
@@ -4889,7 +4889,7 @@
       </termEntry>
       <termEntry id="t00376">
         <descrip type="origin">點水</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Water Point</term>
           </tig>
@@ -4902,7 +4902,7 @@
       </termEntry>
       <termEntry id="t00377">
         <descrip type="origin">鷹襲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Eagle Strike</term>
           </tig>
@@ -4915,7 +4915,7 @@
       </termEntry>
       <termEntry id="t00378">
         <descrip type="origin">月影</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Moon Shadow</term>
           </tig>
@@ -4928,7 +4928,7 @@
       </termEntry>
       <termEntry id="t00379">
         <descrip type="origin">日輪</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Sun Disk</term>
           </tig>
@@ -4941,7 +4941,7 @@
       </termEntry>
       <termEntry id="t00380">
         <descrip type="origin">古代龍石</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>ancient dragonstone</term>
           </tig>
@@ -4954,7 +4954,7 @@
       </termEntry>
       <termEntry id="t00381">
         <descrip type="origin">御靈魔石</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Soul Control Magic Stone</term>
           </tig>
@@ -4967,7 +4967,7 @@
       </termEntry>
       <termEntry id="t00382">
         <descrip type="origin">靈魂進化點數</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>soul evolution points</term>
           </tig>
@@ -4980,7 +4980,7 @@
       </termEntry>
       <termEntry id="t00383">
         <descrip type="origin">靈魂進化儀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Soul Evolution Altar</term>
           </tig>
@@ -4993,7 +4993,7 @@
       </termEntry>
       <termEntry id="t00384">
         <descrip type="origin">黑暗議會</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dark Council</term>
           </tig>
@@ -5006,7 +5006,7 @@
       </termEntry>
       <termEntry id="t00385">
         <descrip type="origin">亞佴特</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Yashete</term>
           </tig>
@@ -5019,7 +5019,7 @@
       </termEntry>
       <termEntry id="t00386">
         <descrip type="origin">奧米克戎</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Omicron</term>
           </tig>
@@ -5032,7 +5032,7 @@
       </termEntry>
       <termEntry id="t00387">
         <descrip type="origin">暗黑裂變</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dark fission</term>
           </tig>
@@ -5045,7 +5045,7 @@
       </termEntry>
       <termEntry id="t00388">
         <descrip type="origin">暗黑裂變儀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dark fission Instrument</term>
           </tig>
@@ -5058,7 +5058,7 @@
       </termEntry>
       <termEntry id="t00389">
         <descrip type="origin">遠古銩遺跡</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ancient thulium ruin</term>
           </tig>
@@ -5071,7 +5071,7 @@
       </termEntry>
       <termEntry id="t00390">
         <descrip type="origin">健康值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Vitality</term>
           </tig>
@@ -5084,7 +5084,7 @@
       </termEntry>
       <termEntry id="t00391">
         <descrip type="origin">魔王痕跡</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>BOSS Trace</term>
           </tig>
@@ -5097,7 +5097,7 @@
       </termEntry>
       <termEntry id="t00392">
         <descrip type="origin">時裝</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>fashion</term>
           </tig>
@@ -5110,7 +5110,7 @@
       </termEntry>
       <termEntry id="t00393">
         <descrip type="origin">受傷無敵幀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>invincibility frames</term>
           </tig>
@@ -5123,7 +5123,7 @@
       </termEntry>
       <termEntry id="t00394">
         <descrip type="origin">重力傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>gravity damage</term>
           </tig>
@@ -5136,7 +5136,7 @@
       </termEntry>
       <termEntry id="t00395">
         <descrip type="origin">絕對傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>absolute damage</term>
           </tig>
@@ -5149,7 +5149,7 @@
       </termEntry>
       <termEntry id="t00396">
         <descrip type="origin">全能攻擊力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>all-type attack power</term>
           </tig>
@@ -5162,7 +5162,7 @@
       </termEntry>
       <termEntry id="t00397">
         <descrip type="origin">絕對抵禦</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Absolute Resistance</term>
           </tig>
@@ -5175,7 +5175,7 @@
       </termEntry>
       <termEntry id="t00398">
         <descrip type="origin">深淵魔盾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Abyss Magic Shield</term>
           </tig>
@@ -5188,7 +5188,7 @@
       </termEntry>
       <termEntry id="t00399">
         <descrip type="origin">生命之源</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Source of Life</term>
           </tig>
@@ -5201,7 +5201,7 @@
       </termEntry>
       <termEntry id="t00400">
         <descrip type="origin">神靈祝福</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Divine Blessing</term>
           </tig>
@@ -5214,7 +5214,7 @@
       </termEntry>
       <termEntry id="t00401">
         <descrip type="origin">大地守護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Earth Protection</term>
           </tig>
@@ -5227,7 +5227,7 @@
       </termEntry>
       <termEntry id="t00402">
         <descrip type="origin">闇影守護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Protection</term>
           </tig>
@@ -5240,7 +5240,7 @@
       </termEntry>
       <termEntry id="t00403">
         <descrip type="origin">巨人守衛的意志</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Will of the Giant Guard</term>
           </tig>
@@ -5253,7 +5253,7 @@
       </termEntry>
       <termEntry id="t00404">
         <descrip type="origin">深淵護衛的意志</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Will of the Abyss Guard</term>
           </tig>
@@ -5266,7 +5266,7 @@
       </termEntry>
       <termEntry id="t00405">
         <descrip type="origin">聖界守護神的威嚴</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Majesty of the Holy Realm Guardian</term>
           </tig>
@@ -5279,7 +5279,7 @@
       </termEntry>
       <termEntry id="t00406">
         <descrip type="origin">天界制裁</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Celestial Sanction</term>
           </tig>
@@ -5292,7 +5292,7 @@
       </termEntry>
       <termEntry id="t00407">
         <descrip type="origin">心靈之泉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fountain of the Soul</term>
           </tig>
@@ -5305,7 +5305,7 @@
       </termEntry>
       <termEntry id="t00408">
         <descrip type="origin">火狐</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fire Fox</term>
           </tig>
@@ -5318,7 +5318,7 @@
       </termEntry>
       <termEntry id="t00409">
         <descrip type="origin">冰龍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ice Dragon</term>
           </tig>
@@ -5331,7 +5331,7 @@
       </termEntry>
       <termEntry id="t00410">
         <descrip type="origin">和平之光</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Light of Peace</term>
           </tig>
@@ -5344,7 +5344,7 @@
       </termEntry>
       <termEntry id="t00411">
         <descrip type="origin">和平光環</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Peace Aura</term>
           </tig>
@@ -5357,7 +5357,7 @@
       </termEntry>
       <termEntry id="t00412">
         <descrip type="origin">奉獻之泉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fountain of Devotion</term>
           </tig>
@@ -5370,7 +5370,7 @@
       </termEntry>
       <termEntry id="t00413">
         <descrip type="origin">致殘效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>crippling effect</term>
           </tig>
@@ -5383,7 +5383,7 @@
       </termEntry>
       <termEntry id="t00414">
         <descrip type="origin">風蛇</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wind Serpent</term>
           </tig>
@@ -5396,7 +5396,7 @@
       </termEntry>
       <termEntry id="t00415">
         <descrip type="origin">破魔效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Break</term>
           </tig>
@@ -5409,7 +5409,7 @@
       </termEntry>
       <termEntry id="t00416">
         <descrip type="origin">神盾庇護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Aegis Protection</term>
           </tig>
@@ -5422,7 +5422,7 @@
       </termEntry>
       <termEntry id="t00417">
         <descrip type="origin">神蹟值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Miracle Points</term>
           </tig>
@@ -5435,7 +5435,7 @@
       </termEntry>
       <termEntry id="t00418">
         <descrip type="origin">混沌傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>chaotic damage</term>
           </tig>
@@ -5448,7 +5448,7 @@
       </termEntry>
       <termEntry id="t00419">
         <descrip type="origin">喚獸效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Beast Summon</term>
           </tig>
@@ -5461,7 +5461,7 @@
       </termEntry>
       <termEntry id="t00420">
         <descrip type="origin">絕對傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>absolute damage</term>
           </tig>
@@ -5474,7 +5474,7 @@
       </termEntry>
       <termEntry id="t00421">
         <descrip type="origin">聖光審判</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Light Judgment</term>
           </tig>
@@ -5487,7 +5487,7 @@
       </termEntry>
       <termEntry id="t00422">
         <descrip type="origin">福音傳遞</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Gospel Delivery</term>
           </tig>
@@ -5500,7 +5500,7 @@
       </termEntry>
       <termEntry id="t00423">
         <descrip type="origin">影狼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Wolf</term>
           </tig>
@@ -5513,7 +5513,7 @@
       </termEntry>
       <termEntry id="t00424">
         <descrip type="origin">輝煌世紀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Glorious Century</term>
           </tig>
@@ -5526,7 +5526,7 @@
       </termEntry>
       <termEntry id="t00425">
         <descrip type="origin">魔導刻紋</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mage Rune</term>
           </tig>
@@ -5539,7 +5539,7 @@
       </termEntry>
       <termEntry id="t00426">
         <descrip type="origin">魔蠍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Demon Scorpion</term>
           </tig>
@@ -5552,7 +5552,7 @@
       </termEntry>
       <termEntry id="t00427">
         <descrip type="origin">靈貓</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Spirit Cat</term>
           </tig>
@@ -5565,7 +5565,7 @@
       </termEntry>
       <termEntry id="t00428">
         <descrip type="origin">一轉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>1st job</term>
           </tig>
@@ -5578,7 +5578,7 @@
       </termEntry>
       <termEntry id="t00429">
         <descrip type="origin">二轉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>2nd job</term>
           </tig>
@@ -5591,7 +5591,7 @@
       </termEntry>
       <termEntry id="t00430">
         <descrip type="origin">三轉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>3rd job</term>
           </tig>
@@ -5604,7 +5604,7 @@
       </termEntry>
       <termEntry id="t00431">
         <descrip type="origin">刀鋒劍雨</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blade Sword Rain</term>
           </tig>
@@ -5617,7 +5617,7 @@
       </termEntry>
       <termEntry id="t00432">
         <descrip type="origin">大地守護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Earth Protection</term>
           </tig>
@@ -5630,7 +5630,7 @@
       </termEntry>
       <termEntry id="t00433">
         <descrip type="origin">大地符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Earth Phylactery</term>
           </tig>
@@ -5643,7 +5643,7 @@
       </termEntry>
       <termEntry id="t00434">
         <descrip type="origin">大師魔導</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Master Magician</term>
           </tig>
@@ -5656,7 +5656,7 @@
       </termEntry>
       <termEntry id="t00435">
         <descrip type="origin">不屈之火</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Unyielding Fire</term>
           </tig>
@@ -5669,7 +5669,7 @@
       </termEntry>
       <termEntry id="t00436">
         <descrip type="origin">不屈怒焰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Unyielding Flames</term>
           </tig>
@@ -5682,7 +5682,7 @@
       </termEntry>
       <termEntry id="t00437">
         <descrip type="origin">不治效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Incurable effect</term>
           </tig>
@@ -5695,7 +5695,7 @@
       </termEntry>
       <termEntry id="t00438">
         <descrip type="origin">中和鱗粉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Neutralizing Scale Powder</term>
           </tig>
@@ -5708,7 +5708,7 @@
       </termEntry>
       <termEntry id="t00439">
         <descrip type="origin">仇恨</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>aggro</term>
           </tig>
@@ -5721,7 +5721,7 @@
       </termEntry>
       <termEntry id="t00440">
         <descrip type="origin">分裂射擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Split Shot</term>
           </tig>
@@ -5734,7 +5734,7 @@
       </termEntry>
       <termEntry id="t00441">
         <descrip type="origin">分裂劇毒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Splitting Deadly Toxic</term>
           </tig>
@@ -5747,7 +5747,7 @@
       </termEntry>
       <termEntry id="t00442">
         <descrip type="origin">天流</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Heaven Flow</term>
           </tig>
@@ -5760,7 +5760,7 @@
       </termEntry>
       <termEntry id="t00443">
         <descrip type="origin">天界制裁</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Aether Sanction</term>
           </tig>
@@ -5773,7 +5773,7 @@
       </termEntry>
       <termEntry id="t00444">
         <descrip type="origin">幻靈效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Phantom Spirit effect</term>
           </tig>
@@ -5786,7 +5786,7 @@
       </termEntry>
       <termEntry id="t00445">
         <descrip type="origin">火之祈禱</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Prayer of Fire</term>
           </tig>
@@ -5799,7 +5799,7 @@
       </termEntry>
       <termEntry id="t00446">
         <descrip type="origin">火狐</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fire Fox</term>
           </tig>
@@ -5812,7 +5812,7 @@
       </termEntry>
       <termEntry id="t00447">
         <descrip type="origin">火焰隕石</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Flame Meteor</term>
           </tig>
@@ -5825,7 +5825,7 @@
       </termEntry>
       <termEntry id="t00448">
         <descrip type="origin">火魂擴散</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fire Soul Diffusion</term>
           </tig>
@@ -5838,7 +5838,7 @@
       </termEntry>
       <termEntry id="t00449">
         <descrip type="origin">火鳳凰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fire Phoenix</term>
           </tig>
@@ -5851,7 +5851,7 @@
       </termEntry>
       <termEntry id="t00450">
         <descrip type="origin">充能靈轉符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Charged Spirit Transfer Phylactery</term>
           </tig>
@@ -5864,7 +5864,7 @@
       </termEntry>
       <termEntry id="t00451">
         <descrip type="origin">出血</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>bleeding</term>
           </tig>
@@ -5877,7 +5877,7 @@
       </termEntry>
       <termEntry id="t00452">
         <descrip type="origin">囚禁</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>imprisonment</term>
           </tig>
@@ -5890,7 +5890,7 @@
       </termEntry>
       <termEntry id="t00453">
         <descrip type="origin">巨人守衛的意志</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Will of the Giant Guard</term>
           </tig>
@@ -5903,7 +5903,7 @@
       </termEntry>
       <termEntry id="t00454">
         <descrip type="origin">永恆之護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Eternal Protection</term>
           </tig>
@@ -5916,7 +5916,7 @@
       </termEntry>
       <termEntry id="t00455">
         <descrip type="origin">生命之源</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Source of Life</term>
           </tig>
@@ -5929,7 +5929,7 @@
       </termEntry>
       <termEntry id="t00456">
         <descrip type="origin">生命吸收</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>life steal</term>
           </tig>
@@ -5942,7 +5942,7 @@
       </termEntry>
       <termEntry id="t00457">
         <descrip type="origin">生命啟示</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Life Revelation</term>
           </tig>
@@ -5955,7 +5955,7 @@
       </termEntry>
       <termEntry id="t00458">
         <descrip type="origin">先祖吶喊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ancestral Cry</term>
           </tig>
@@ -5968,7 +5968,7 @@
       </termEntry>
       <termEntry id="t00459">
         <descrip type="origin">先祖意志</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ancestral Will</term>
           </tig>
@@ -5981,7 +5981,7 @@
       </termEntry>
       <termEntry id="t00460">
         <descrip type="origin">先靈圖騰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ancestral Spirit Totem</term>
           </tig>
@@ -5994,7 +5994,7 @@
       </termEntry>
       <termEntry id="t00461">
         <descrip type="origin">光之信仰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Faith of Light</term>
           </tig>
@@ -6007,7 +6007,7 @@
       </termEntry>
       <termEntry id="t00462">
         <descrip type="origin">光之射線</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ray of Light</term>
           </tig>
@@ -6020,7 +6020,7 @@
       </termEntry>
       <termEntry id="t00463">
         <descrip type="origin">光速斬切</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Light Speed Slash</term>
           </tig>
@@ -6033,7 +6033,7 @@
       </termEntry>
       <termEntry id="t00464">
         <descrip type="origin">全能攻擊力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>omnipotent attack power</term>
           </tig>
@@ -6046,7 +6046,7 @@
       </termEntry>
       <termEntry id="t00465">
         <descrip type="origin">冰河地獄</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Glacier Hell</term>
           </tig>
@@ -6059,7 +6059,7 @@
       </termEntry>
       <termEntry id="t00466">
         <descrip type="origin">冰龍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ice Dragon</term>
           </tig>
@@ -6072,7 +6072,7 @@
       </termEntry>
       <termEntry id="t00467">
         <descrip type="origin">冰霜箭陣</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Frost Arrow Barrage</term>
           </tig>
@@ -6085,7 +6085,7 @@
       </termEntry>
       <termEntry id="t00468">
         <descrip type="origin">同步心靈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Synchronized Mind</term>
           </tig>
@@ -6098,7 +6098,7 @@
       </termEntry>
       <termEntry id="t00469">
         <descrip type="origin">同調值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Attunement points</term>
           </tig>
@@ -6111,7 +6111,7 @@
       </termEntry>
       <termEntry id="t00470">
         <descrip type="origin">回生盾牆</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Resurrection Shield Wall</term>
           </tig>
@@ -6124,7 +6124,7 @@
       </termEntry>
       <termEntry id="t00471">
         <descrip type="origin">回復封鎖</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Recovery Block</term>
           </tig>
@@ -6137,7 +6137,7 @@
       </termEntry>
       <termEntry id="t00472">
         <descrip type="origin">地流</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Heaven Flow</term>
           </tig>
@@ -6150,7 +6150,7 @@
       </termEntry>
       <termEntry id="t00473">
         <descrip type="origin">地獄之門</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Gates of Hell</term>
           </tig>
@@ -6163,7 +6163,7 @@
       </termEntry>
       <termEntry id="t00474">
         <descrip type="origin">多重變異</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Multiple Mutation</term>
           </tig>
@@ -6176,7 +6176,7 @@
       </termEntry>
       <termEntry id="t00475">
         <descrip type="origin">死神印記</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Reaper&apos;s Mark</term>
           </tig>
@@ -6189,7 +6189,7 @@
       </termEntry>
       <termEntry id="t00476">
         <descrip type="origin">汙染之血</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Tainted Blood</term>
           </tig>
@@ -6202,7 +6202,7 @@
       </termEntry>
       <termEntry id="t00477">
         <descrip type="origin">自動弩砲塔</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>automatic crossbow turret</term>
           </tig>
@@ -6215,7 +6215,7 @@
       </termEntry>
       <termEntry id="t00478">
         <descrip type="origin">血刃切割</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blood Blade Cut</term>
           </tig>
@@ -6228,7 +6228,7 @@
       </termEntry>
       <termEntry id="t00479">
         <descrip type="origin">血色愉悅</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Bloody Delight</term>
           </tig>
@@ -6241,7 +6241,7 @@
       </termEntry>
       <termEntry id="t00480">
         <descrip type="origin">血色懸賞</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Bloody Bounty</term>
           </tig>
@@ -6254,7 +6254,7 @@
       </termEntry>
       <termEntry id="t00481">
         <descrip type="origin">血脈侵蝕</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Bloodline Erosion</term>
           </tig>
@@ -6267,7 +6267,7 @@
       </termEntry>
       <termEntry id="t00482">
         <descrip type="origin">血脈崩壞</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Bloodline Collapse</term>
           </tig>
@@ -6280,7 +6280,7 @@
       </termEntry>
       <termEntry id="t00483">
         <descrip type="origin">血戰狂怒</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blood Battle Fury</term>
           </tig>
@@ -6293,7 +6293,7 @@
       </termEntry>
       <termEntry id="t00484">
         <descrip type="origin">利刃悅靈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blade Allay</term>
           </tig>
@@ -6306,7 +6306,7 @@
       </termEntry>
       <termEntry id="t00485">
         <descrip type="origin">利箭風暴</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Arrow Storm</term>
           </tig>
@@ -6319,7 +6319,7 @@
       </termEntry>
       <termEntry id="t00486">
         <descrip type="origin">吹箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>blowgun</term>
           </tig>
@@ -6332,7 +6332,7 @@
       </termEntry>
       <termEntry id="t00487">
         <descrip type="origin">沉默效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Silence effect</term>
           </tig>
@@ -6345,7 +6345,7 @@
       </termEntry>
       <termEntry id="t00488">
         <descrip type="origin">防禦策略</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Defense Strategy</term>
           </tig>
@@ -6358,7 +6358,7 @@
       </termEntry>
       <termEntry id="t00489">
         <descrip type="origin">防護射擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Protective Shot</term>
           </tig>
@@ -6371,7 +6371,7 @@
       </termEntry>
       <termEntry id="t00490">
         <descrip type="origin">刺客</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Assassin</term>
           </tig>
@@ -6384,7 +6384,7 @@
       </termEntry>
       <termEntry id="t00491">
         <descrip type="origin">受傷無敵幀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>invincibility frame</term>
           </tig>
@@ -6397,7 +6397,7 @@
       </termEntry>
       <termEntry id="t00492">
         <descrip type="origin">和平之光</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Light of Peace</term>
           </tig>
@@ -6410,7 +6410,7 @@
       </termEntry>
       <termEntry id="t00493">
         <descrip type="origin">夜使者</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Night Agent</term>
           </tig>
@@ -6423,7 +6423,7 @@
       </termEntry>
       <termEntry id="t00494">
         <descrip type="origin">拔刀效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Draw Blade effect</term>
           </tig>
@@ -6436,7 +6436,7 @@
       </termEntry>
       <termEntry id="t00495">
         <descrip type="origin">法力風暴</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mana Storm</term>
           </tig>
@@ -6449,7 +6449,7 @@
       </termEntry>
       <termEntry id="t00496">
         <descrip type="origin">法力激發</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mana Stimulation</term>
           </tig>
@@ -6462,7 +6462,7 @@
       </termEntry>
       <termEntry id="t00497">
         <descrip type="origin">法師</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mage</term>
           </tig>
@@ -6475,7 +6475,7 @@
       </termEntry>
       <termEntry id="t00498">
         <descrip type="origin">牧師</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Priest</term>
           </tig>
@@ -6488,7 +6488,7 @@
       </termEntry>
       <termEntry id="t00499">
         <descrip type="origin">物理攻擊力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>physical attack</term>
           </tig>
@@ -6501,7 +6501,7 @@
       </termEntry>
       <termEntry id="t00500">
         <descrip type="origin">物理近戰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>physical melee</term>
           </tig>
@@ -6514,7 +6514,7 @@
       </termEntry>
       <termEntry id="t00501">
         <descrip type="origin">物理遠程</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>physical ranged</term>
           </tig>
@@ -6527,7 +6527,7 @@
       </termEntry>
       <termEntry id="t00502">
         <descrip type="origin">附加傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>additional damage</term>
           </tig>
@@ -6540,7 +6540,7 @@
       </termEntry>
       <termEntry id="t00503">
         <descrip type="origin">附魔神箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Enchanted Divine Arrow</term>
           </tig>
@@ -6553,7 +6553,7 @@
       </termEntry>
       <termEntry id="t00504">
         <descrip type="origin">勇敢之心</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Heart of Courage</term>
           </tig>
@@ -6566,7 +6566,7 @@
       </termEntry>
       <termEntry id="t00505">
         <descrip type="origin">怒焰火球</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Rage Flame Fireball</term>
           </tig>
@@ -6579,7 +6579,7 @@
       </termEntry>
       <termEntry id="t00506">
         <descrip type="origin">急速蓄力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Rapid Charge</term>
           </tig>
@@ -6592,7 +6592,7 @@
       </termEntry>
       <termEntry id="t00507">
         <descrip type="origin">毒刃</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Poison Blade</term>
           </tig>
@@ -6605,7 +6605,7 @@
       </termEntry>
       <termEntry id="t00508">
         <descrip type="origin">毒性標記</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Toxic Mark</term>
           </tig>
@@ -6618,7 +6618,7 @@
       </termEntry>
       <termEntry id="t00509">
         <descrip type="origin">毒沼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Poison Swamp</term>
           </tig>
@@ -6631,7 +6631,7 @@
       </termEntry>
       <termEntry id="t00510">
         <descrip type="origin">毒殺</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Poison Kill</term>
           </tig>
@@ -6644,7 +6644,7 @@
       </termEntry>
       <termEntry id="t00511">
         <descrip type="origin">活性草藥</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Active Herbs</term>
           </tig>
@@ -6657,7 +6657,7 @@
       </termEntry>
       <termEntry id="t00512">
         <descrip type="origin">狩獵指令</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Hunting Command</term>
           </tig>
@@ -6670,7 +6670,7 @@
       </termEntry>
       <termEntry id="t00513">
         <descrip type="origin">狩獵標記</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Hunting Mark</term>
           </tig>
@@ -6683,7 +6683,7 @@
       </termEntry>
       <termEntry id="t00514">
         <descrip type="origin">致命傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>lethal damage</term>
           </tig>
@@ -6696,7 +6696,7 @@
       </termEntry>
       <termEntry id="t00515">
         <descrip type="origin">致殘狀態</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Crippled status</term>
           </tig>
@@ -6709,7 +6709,7 @@
       </termEntry>
       <termEntry id="t00516">
         <descrip type="origin">苦無</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>kunai</term>
           </tig>
@@ -6722,7 +6722,7 @@
       </termEntry>
       <termEntry id="t00517">
         <descrip type="origin">負重</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>carry weight</term>
           </tig>
@@ -6735,7 +6735,7 @@
       </termEntry>
       <termEntry id="t00518">
         <descrip type="origin">重力攻擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>gravity attack</term>
           </tig>
@@ -6748,7 +6748,7 @@
       </termEntry>
       <termEntry id="t00519">
         <descrip type="origin">重力攻擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>gravity attack</term>
           </tig>
@@ -6761,7 +6761,7 @@
       </termEntry>
       <termEntry id="t00520">
         <descrip type="origin">重力球</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>gravity orb</term>
           </tig>
@@ -6774,7 +6774,7 @@
       </termEntry>
       <termEntry id="t00521">
         <descrip type="origin">重力傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>gravity damage</term>
           </tig>
@@ -6787,7 +6787,7 @@
       </termEntry>
       <termEntry id="t00522">
         <descrip type="origin">重傷倒下</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Critically downed</term>
           </tig>
@@ -6800,7 +6800,7 @@
       </termEntry>
       <termEntry id="t00523">
         <descrip type="origin">風切</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wind Shear</term>
           </tig>
@@ -6813,7 +6813,7 @@
       </termEntry>
       <termEntry id="t00524">
         <descrip type="origin">風破效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wind Break effect</term>
           </tig>
@@ -6826,7 +6826,7 @@
       </termEntry>
       <termEntry id="t00525">
         <descrip type="origin">風蛇</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wind Serpent</term>
           </tig>
@@ -6839,7 +6839,7 @@
       </termEntry>
       <termEntry id="t00526">
         <descrip type="origin">風舞射擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wind Dance Shot</term>
           </tig>
@@ -6852,7 +6852,7 @@
       </termEntry>
       <termEntry id="t00527">
         <descrip type="origin">弱點狙擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Weakness Sniping</term>
           </tig>
@@ -6865,7 +6865,7 @@
       </termEntry>
       <termEntry id="t00528">
         <descrip type="origin">悅靈再生</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Allay Regeneration</term>
           </tig>
@@ -6878,7 +6878,7 @@
       </termEntry>
       <termEntry id="t00529">
         <descrip type="origin">格擋</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Block</term>
           </tig>
@@ -6891,7 +6891,7 @@
       </termEntry>
       <termEntry id="t00530">
         <descrip type="origin">涅槃之火</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fire of Nirvana</term>
           </tig>
@@ -6904,7 +6904,7 @@
       </termEntry>
       <termEntry id="t00531">
         <descrip type="origin">消滅光束</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Annihilation Beam</term>
           </tig>
@@ -6917,7 +6917,7 @@
       </termEntry>
       <termEntry id="t00532">
         <descrip type="origin">烈火符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blazing Fire Phylactery</term>
           </tig>
@@ -6930,7 +6930,7 @@
       </termEntry>
       <termEntry id="t00533">
         <descrip type="origin">烈焰神劍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blazing Divine Sword</term>
           </tig>
@@ -6943,7 +6943,7 @@
       </termEntry>
       <termEntry id="t00534">
         <descrip type="origin">狼之謝禮</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Wolf&apos;s Gratitude</term>
           </tig>
@@ -6956,7 +6956,7 @@
       </termEntry>
       <termEntry id="t00535">
         <descrip type="origin">真實魔法傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>true magic damage</term>
           </tig>
@@ -6969,7 +6969,7 @@
       </termEntry>
       <termEntry id="t00536">
         <descrip type="origin">眩暈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>stun</term>
           </tig>
@@ -6982,7 +6982,7 @@
       </termEntry>
       <termEntry id="t00537">
         <descrip type="origin">破片追蹤</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Fragment Tracking</term>
           </tig>
@@ -6995,7 +6995,7 @@
       </termEntry>
       <termEntry id="t00538">
         <descrip type="origin">破甲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Armor Break</term>
           </tig>
@@ -7008,7 +7008,7 @@
       </termEntry>
       <termEntry id="t00539">
         <descrip type="origin">破陣連斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Breaking Combo</term>
           </tig>
@@ -7021,7 +7021,7 @@
       </termEntry>
       <termEntry id="t00540">
         <descrip type="origin">破碎夢境</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shattered Dream</term>
           </tig>
@@ -7034,7 +7034,7 @@
       </termEntry>
       <termEntry id="t00541">
         <descrip type="origin">破魔</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Break</term>
           </tig>
@@ -7047,7 +7047,7 @@
       </termEntry>
       <termEntry id="t00542">
         <descrip type="origin">神盾庇護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Divine Shield Protection</term>
           </tig>
@@ -7060,7 +7060,7 @@
       </termEntry>
       <termEntry id="t00543">
         <descrip type="origin">神聖光照</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Illumination</term>
           </tig>
@@ -7073,7 +7073,7 @@
       </termEntry>
       <termEntry id="t00544">
         <descrip type="origin">神箭守護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Divine Arrow Guardian</term>
           </tig>
@@ -7086,7 +7086,7 @@
       </termEntry>
       <termEntry id="t00545">
         <descrip type="origin">神靈祝福</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Divine Spirit Blessing</term>
           </tig>
@@ -7099,7 +7099,7 @@
       </termEntry>
       <termEntry id="t00546">
         <descrip type="origin">神靈陣法</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Divine Spirit Formation</term>
           </tig>
@@ -7112,7 +7112,7 @@
       </termEntry>
       <termEntry id="t00547">
         <descrip type="origin">純淨之泉</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Pure Fountain</term>
           </tig>
@@ -7125,7 +7125,7 @@
       </termEntry>
       <termEntry id="t00548">
         <descrip type="origin">紙式神</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>paper shikigam</term>
           </tig>
@@ -7138,7 +7138,7 @@
       </termEntry>
       <termEntry id="t00549">
         <descrip type="origin">草藥精華</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Herbal Essence</term>
           </tig>
@@ -7151,7 +7151,7 @@
       </termEntry>
       <termEntry id="t00550">
         <descrip type="origin">起源魔導</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Origin Magic</term>
           </tig>
@@ -7164,7 +7164,7 @@
       </termEntry>
       <termEntry id="t00551">
         <descrip type="origin">迴避值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>avoidance value</term>
           </tig>
@@ -7177,7 +7177,7 @@
       </termEntry>
       <termEntry id="t00552">
         <descrip type="origin">高速存儲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>High-Speed Storage</term>
           </tig>
@@ -7190,7 +7190,7 @@
       </termEntry>
       <termEntry id="t00553">
         <descrip type="origin">高速追蹤</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>High-Speed Tracking</term>
           </tig>
@@ -7203,7 +7203,7 @@
       </termEntry>
       <termEntry id="t00554">
         <descrip type="origin">堅忍不拔</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Unyielding Fortitude</term>
           </tig>
@@ -7216,7 +7216,7 @@
       </termEntry>
       <termEntry id="t00555">
         <descrip type="origin">專長</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Expertise</term>
           </tig>
@@ -7229,7 +7229,7 @@
       </termEntry>
       <termEntry id="t00556">
         <descrip type="origin">專精</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Specialization</term>
           </tig>
@@ -7242,7 +7242,7 @@
       </termEntry>
       <termEntry id="t00557">
         <descrip type="origin">強化存儲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Enhanced Storage</term>
           </tig>
@@ -7255,7 +7255,7 @@
       </termEntry>
       <termEntry id="t00558">
         <descrip type="origin">強化組裝</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Enhanced Assembly</term>
           </tig>
@@ -7268,7 +7268,7 @@
       </termEntry>
       <termEntry id="t00559">
         <descrip type="origin">晨光效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Morning Light effect</term>
           </tig>
@@ -7281,7 +7281,7 @@
       </termEntry>
       <termEntry id="t00560">
         <descrip type="origin">深淵祈禱</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Abyssal Prayer</term>
           </tig>
@@ -7294,7 +7294,7 @@
       </termEntry>
       <termEntry id="t00561">
         <descrip type="origin">深淵護衛的意志</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Will of the Abyss Guard</term>
           </tig>
@@ -7307,7 +7307,7 @@
       </termEntry>
       <termEntry id="t00562">
         <descrip type="origin">深淵魔盾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Abyss Magic Shield</term>
           </tig>
@@ -7320,7 +7320,7 @@
       </termEntry>
       <termEntry id="t00563">
         <descrip type="origin">混沌攻擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>chaotic attack</term>
           </tig>
@@ -7333,7 +7333,7 @@
       </termEntry>
       <termEntry id="t00564">
         <descrip type="origin">麻痺</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>paralysis</term>
           </tig>
@@ -7346,7 +7346,7 @@
       </termEntry>
       <termEntry id="t00565">
         <descrip type="origin">麻藥效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Anesthetic effect</term>
           </tig>
@@ -7359,7 +7359,7 @@
       </termEntry>
       <termEntry id="t00566">
         <descrip type="origin">創傷</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>wounds</term>
           </tig>
@@ -7372,7 +7372,7 @@
       </termEntry>
       <termEntry id="t00567">
         <descrip type="origin">寒冰法陣</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Frost Magic Circle</term>
           </tig>
@@ -7385,7 +7385,7 @@
       </termEntry>
       <termEntry id="t00568">
         <descrip type="origin">復仇</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Vengeance</term>
           </tig>
@@ -7398,7 +7398,7 @@
       </termEntry>
       <termEntry id="t00569">
         <descrip type="origin">復仇反擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Vengeance Counter</term>
           </tig>
@@ -7411,7 +7411,7 @@
       </termEntry>
       <termEntry id="t00570">
         <descrip type="origin">殘暴屠宰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Brutal Slaughter</term>
           </tig>
@@ -7424,7 +7424,7 @@
       </termEntry>
       <termEntry id="t00571">
         <descrip type="origin">無盡夢魘</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Endless Nightmare</term>
           </tig>
@@ -7437,7 +7437,7 @@
       </termEntry>
       <termEntry id="t00572">
         <descrip type="origin">硬殼盔甲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Hard Shell Armor</term>
           </tig>
@@ -7450,7 +7450,7 @@
       </termEntry>
       <termEntry id="t00573">
         <descrip type="origin">絕對抵禦</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Absolute Resistance</term>
           </tig>
@@ -7463,7 +7463,7 @@
       </termEntry>
       <termEntry id="t00574">
         <descrip type="origin">絕對信任</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Absolute Trust</term>
           </tig>
@@ -7476,7 +7476,7 @@
       </termEntry>
       <termEntry id="t00575">
         <descrip type="origin">絕對傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>absolute damage</term>
           </tig>
@@ -7489,7 +7489,7 @@
       </termEntry>
       <termEntry id="t00576">
         <descrip type="origin">虛無靈轉符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Void Spirit Transfer Phylactery</term>
           </tig>
@@ -7502,7 +7502,7 @@
       </termEntry>
       <termEntry id="t00577">
         <descrip type="origin">詛咒血源</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Cursed Blood Source</term>
           </tig>
@@ -7515,7 +7515,7 @@
       </termEntry>
       <termEntry id="t00578">
         <descrip type="origin">超級技能</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>ultimate skill</term>
           </tig>
@@ -7528,7 +7528,7 @@
       </termEntry>
       <termEntry id="t00579">
         <descrip type="origin">黑夜刺殺</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Night Assassination</term>
           </tig>
@@ -7541,7 +7541,7 @@
       </termEntry>
       <termEntry id="t00580">
         <descrip type="origin">黑暗元素苦痛傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dark element agony damage</term>
           </tig>
@@ -7554,7 +7554,7 @@
       </termEntry>
       <termEntry id="t00581">
         <descrip type="origin">黑暗元素恐懼傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>dark element fear damage</term>
           </tig>
@@ -7567,7 +7567,7 @@
       </termEntry>
       <termEntry id="t00582">
         <descrip type="origin">黑暗斬切</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dark Slash</term>
           </tig>
@@ -7580,7 +7580,7 @@
       </termEntry>
       <termEntry id="t00583">
         <descrip type="origin">暗夜匿蹤</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Night Stealth</term>
           </tig>
@@ -7593,7 +7593,7 @@
       </termEntry>
       <termEntry id="t00584">
         <descrip type="origin">暗殺標記</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Assassination Mark</term>
           </tig>
@@ -7606,7 +7606,7 @@
       </termEntry>
       <termEntry id="t00585">
         <descrip type="origin">暗黑典籍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dark Grimoire</term>
           </tig>
@@ -7619,7 +7619,7 @@
       </termEntry>
       <termEntry id="t00586">
         <descrip type="origin">暗黑符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dark Phylactery</term>
           </tig>
@@ -7632,7 +7632,7 @@
       </termEntry>
       <termEntry id="t00587">
         <descrip type="origin">暗影嘲諷</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Taunt</term>
           </tig>
@@ -7645,7 +7645,7 @@
       </termEntry>
       <termEntry id="t00588">
         <descrip type="origin">暗影撕咬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Bite</term>
           </tig>
@@ -7658,7 +7658,7 @@
       </termEntry>
       <termEntry id="t00589">
         <descrip type="origin">極冰符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Extreme Ice Phylactery</term>
           </tig>
@@ -7671,7 +7671,7 @@
       </termEntry>
       <termEntry id="t00590">
         <descrip type="origin">極限咒術</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Limit Conjuration</term>
           </tig>
@@ -7684,7 +7684,7 @@
       </termEntry>
       <termEntry id="t00591">
         <descrip type="origin">極限蓄力</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Maximum Charge</term>
           </tig>
@@ -7697,7 +7697,7 @@
       </termEntry>
       <termEntry id="t00592">
         <descrip type="origin">極端抗性</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Extreme Resistance</term>
           </tig>
@@ -7710,7 +7710,7 @@
       </termEntry>
       <termEntry id="t00593">
         <descrip type="origin">毀滅圖騰</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Destruction Totem</term>
           </tig>
@@ -7723,7 +7723,7 @@
       </termEntry>
       <termEntry id="t00594">
         <descrip type="origin">煉獄火雨</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Infernal Fire Rain</term>
           </tig>
@@ -7736,7 +7736,7 @@
       </termEntry>
       <termEntry id="t00595">
         <descrip type="origin">煉獄鎖鏈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Infernal Chains</term>
           </tig>
@@ -7749,7 +7749,7 @@
       </termEntry>
       <termEntry id="t00596">
         <descrip type="origin">禁忌魔典</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Forbidden Grimoire</term>
           </tig>
@@ -7762,7 +7762,7 @@
       </termEntry>
       <termEntry id="t00597">
         <descrip type="origin">禁術充能</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Forbidden Art Charge</term>
           </tig>
@@ -7775,7 +7775,7 @@
       </termEntry>
       <termEntry id="t00598">
         <descrip type="origin">禁斷雷電</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Forbidden Thunder</term>
           </tig>
@@ -7788,7 +7788,7 @@
       </termEntry>
       <termEntry id="t00599">
         <descrip type="origin">聖光守護龍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Light Guardian Dragon</term>
           </tig>
@@ -7801,7 +7801,7 @@
       </termEntry>
       <termEntry id="t00600">
         <descrip type="origin">聖光符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Light Phylactery</term>
           </tig>
@@ -7814,7 +7814,7 @@
       </termEntry>
       <termEntry id="t00601">
         <descrip type="origin">聖光誓言</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Holy Light Oath</term>
           </tig>
@@ -7827,7 +7827,7 @@
       </termEntry>
       <termEntry id="t00602">
         <descrip type="origin">聖界守護神的威嚴</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Majesty of the Sacred Guardian</term>
           </tig>
@@ -7840,7 +7840,7 @@
       </termEntry>
       <termEntry id="t00603">
         <descrip type="origin">落星神箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Falling Star Arrow</term>
           </tig>
@@ -7853,7 +7853,7 @@
       </termEntry>
       <termEntry id="t00604">
         <descrip type="origin">落星神箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Falling Star Arrow</term>
           </tig>
@@ -7866,7 +7866,7 @@
       </termEntry>
       <termEntry id="t00605">
         <descrip type="origin">遊俠</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Ranger</term>
           </tig>
@@ -7879,7 +7879,7 @@
       </termEntry>
       <termEntry id="t00606">
         <descrip type="origin">過量治療</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Overhealing</term>
           </tig>
@@ -7892,7 +7892,7 @@
       </termEntry>
       <termEntry id="t00607">
         <descrip type="origin">雷電法陣</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Lightning Magic Circle</term>
           </tig>
@@ -7905,7 +7905,7 @@
       </termEntry>
       <termEntry id="t00608">
         <descrip type="origin">雷電戰斧</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Lightning Axe</term>
           </tig>
@@ -7918,7 +7918,7 @@
       </termEntry>
       <termEntry id="t00609">
         <descrip type="origin">雷霆穿空箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thunder Piercing Arrow</term>
           </tig>
@@ -7931,7 +7931,7 @@
       </termEntry>
       <termEntry id="t00610">
         <descrip type="origin">雷霆重劈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thunderous Strike</term>
           </tig>
@@ -7944,7 +7944,7 @@
       </termEntry>
       <termEntry id="t00611">
         <descrip type="origin">雷霆電圈</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thunder Ring</term>
           </tig>
@@ -7957,7 +7957,7 @@
       </termEntry>
       <termEntry id="t00612">
         <descrip type="origin">雷霆魔劍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thunder Magic Sword</term>
           </tig>
@@ -7970,7 +7970,7 @@
       </termEntry>
       <termEntry id="t00613">
         <descrip type="origin">電盾</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Electric Shield</term>
           </tig>
@@ -7983,7 +7983,7 @@
       </termEntry>
       <termEntry id="t00614">
         <descrip type="origin">夥伴</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>companion</term>
           </tig>
@@ -7996,7 +7996,7 @@
       </termEntry>
       <termEntry id="t00615">
         <descrip type="origin">夥伴照護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Companion Care</term>
           </tig>
@@ -8009,7 +8009,7 @@
       </termEntry>
       <termEntry id="t00616">
         <descrip type="origin">瘋狂連爪</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Frenzy Claws</term>
           </tig>
@@ -8022,7 +8022,7 @@
       </termEntry>
       <termEntry id="t00617">
         <descrip type="origin">竭盡所能</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Give It All</term>
           </tig>
@@ -8035,7 +8035,7 @@
       </termEntry>
       <termEntry id="t00618">
         <descrip type="origin">輕盈弓法</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Light Archery</term>
           </tig>
@@ -8048,7 +8048,7 @@
       </termEntry>
       <termEntry id="t00619">
         <descrip type="origin">劇毒斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Deadly Poison Slash</term>
           </tig>
@@ -8061,7 +8061,7 @@
       </termEntry>
       <termEntry id="t00620">
         <descrip type="origin">劍士</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>warrior</term>
           </tig>
@@ -8074,7 +8074,7 @@
       </termEntry>
       <termEntry id="t00621">
         <descrip type="origin">審判者之眼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Eye of the Judge</term>
           </tig>
@@ -8087,7 +8087,7 @@
       </termEntry>
       <termEntry id="t00622">
         <descrip type="origin">審判終曲</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Judgment Finale</term>
           </tig>
@@ -8100,7 +8100,7 @@
       </termEntry>
       <termEntry id="t00623">
         <descrip type="origin">影狼</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Wolf</term>
           </tig>
@@ -8113,7 +8113,7 @@
       </termEntry>
       <termEntry id="t00624">
         <descrip type="origin">憤怒再生</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Rage Regeneration</term>
           </tig>
@@ -8126,7 +8126,7 @@
       </termEntry>
       <termEntry id="t00625">
         <descrip type="origin">撕裂效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Rend effect</term>
           </tig>
@@ -8139,7 +8139,7 @@
       </termEntry>
       <termEntry id="t00626">
         <descrip type="origin">暴擊值</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>critical value</term>
           </tig>
@@ -8152,7 +8152,7 @@
       </termEntry>
       <termEntry id="t00627">
         <descrip type="origin">潛行刺殺</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Stealth Assassination</term>
           </tig>
@@ -8165,7 +8165,7 @@
       </termEntry>
       <termEntry id="t00628">
         <descrip type="origin">箭矢風暴</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Arrow Storm</term>
           </tig>
@@ -8178,7 +8178,7 @@
       </termEntry>
       <termEntry id="t00629">
         <descrip type="origin">箭技</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Arrow Skill</term>
           </tig>
@@ -8191,7 +8191,7 @@
       </termEntry>
       <termEntry id="t00630">
         <descrip type="origin">緩速</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Slow</term>
           </tig>
@@ -8204,7 +8204,7 @@
       </termEntry>
       <termEntry id="t00631">
         <descrip type="origin">緩速效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Slowness effect</term>
           </tig>
@@ -8217,7 +8217,7 @@
       </termEntry>
       <termEntry id="t00632">
         <descrip type="origin">輝煌世紀</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Glorious Century</term>
           </tig>
@@ -8230,7 +8230,7 @@
       </termEntry>
       <termEntry id="t00633">
         <descrip type="origin">震地一擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Earth-Shaking Strike</term>
           </tig>
@@ -8243,7 +8243,7 @@
       </termEntry>
       <termEntry id="t00634">
         <descrip type="origin">震擊</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shock</term>
           </tig>
@@ -8256,7 +8256,7 @@
       </termEntry>
       <termEntry id="t00635">
         <descrip type="origin">噩夢領域</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Nightmare Domain</term>
           </tig>
@@ -8269,7 +8269,7 @@
       </termEntry>
       <termEntry id="t00636">
         <descrip type="origin">噬血爪牙</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blood-Devouring Fangs</term>
           </tig>
@@ -8282,7 +8282,7 @@
       </termEntry>
       <termEntry id="t00637">
         <descrip type="origin">噬血本能</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Blood Devouring Instinct</term>
           </tig>
@@ -8295,7 +8295,7 @@
       </termEntry>
       <termEntry id="t00638">
         <descrip type="origin">戰利品</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Loot</term>
           </tig>
@@ -8308,7 +8308,7 @@
       </termEntry>
       <termEntry id="t00639">
         <descrip type="origin">戰神領域</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>God of War Domain</term>
           </tig>
@@ -8321,7 +8321,7 @@
       </termEntry>
       <termEntry id="t00640">
         <descrip type="origin">戰鬥咆嘯</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Battle Roar</term>
           </tig>
@@ -8334,7 +8334,7 @@
       </termEntry>
       <termEntry id="t00641">
         <descrip type="origin">戰鎚</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>war hammer</term>
           </tig>
@@ -8347,7 +8347,7 @@
       </termEntry>
       <termEntry id="t00642">
         <descrip type="origin">激流斬</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Torrent Slash</term>
           </tig>
@@ -8360,7 +8360,7 @@
       </termEntry>
       <termEntry id="t00643">
         <descrip type="origin">龍之祈禱</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Dragon&apos;s Prayer</term>
           </tig>
@@ -8373,7 +8373,7 @@
       </termEntry>
       <termEntry id="t00644">
         <descrip type="origin">擊穿效果</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Piercing effect</term>
           </tig>
@@ -8386,7 +8386,7 @@
       </termEntry>
       <termEntry id="t00645">
         <descrip type="origin">擊退</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>knockback</term>
           </tig>
@@ -8399,7 +8399,7 @@
       </termEntry>
       <termEntry id="t00646">
         <descrip type="origin">螺旋穿刺</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Spiral Pierce</term>
           </tig>
@@ -8412,7 +8412,7 @@
       </termEntry>
       <termEntry id="t00647">
         <descrip type="origin">闇影守護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Shadow Protection</term>
           </tig>
@@ -8425,7 +8425,7 @@
       </termEntry>
       <termEntry id="t00648">
         <descrip type="origin">雙重魔化</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Double Demonization</term>
           </tig>
@@ -8438,7 +8438,7 @@
       </termEntry>
       <termEntry id="t00649">
         <descrip type="origin">騎士</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Knight</term>
           </tig>
@@ -8451,7 +8451,7 @@
       </termEntry>
       <termEntry id="t00650">
         <descrip type="origin">爆裂穿空箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Explosive Piercing Arrow</term>
           </tig>
@@ -8464,7 +8464,7 @@
       </termEntry>
       <termEntry id="t00651">
         <descrip type="origin">爆裂穿空箭</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Explosive Piercing Arrow</term>
           </tig>
@@ -8477,7 +8477,7 @@
       </termEntry>
       <termEntry id="t00652">
         <descrip type="origin">爆擊傷害</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>critical damage</term>
           </tig>
@@ -8490,7 +8490,7 @@
       </termEntry>
       <termEntry id="t00653">
         <descrip type="origin">霹靂電球</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Thunderbolt Ball</term>
           </tig>
@@ -8503,7 +8503,7 @@
       </termEntry>
       <termEntry id="t00654">
         <descrip type="origin">魔力過載</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mana Overload</term>
           </tig>
@@ -8516,7 +8516,7 @@
       </termEntry>
       <termEntry id="t00655">
         <descrip type="origin">魔力爆破</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Mana Explosion</term>
           </tig>
@@ -8529,7 +8529,7 @@
       </termEntry>
       <termEntry id="t00656">
         <descrip type="origin">魔化防禦</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magical Defense</term>
           </tig>
@@ -8542,7 +8542,7 @@
       </termEntry>
       <termEntry id="t00657">
         <descrip type="origin">魔法激發</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Stimulation</term>
           </tig>
@@ -8555,7 +8555,7 @@
       </termEntry>
       <termEntry id="t00658">
         <descrip type="origin">魔術箭袋</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Quiver</term>
           </tig>
@@ -8568,7 +8568,7 @@
       </termEntry>
       <termEntry id="t00659">
         <descrip type="origin">魔魂符</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Magic Soul Phylactery</term>
           </tig>
@@ -8581,7 +8581,7 @@
       </termEntry>
       <termEntry id="t00660">
         <descrip type="origin">魔導庇護</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Arcane Protection</term>
           </tig>
@@ -8594,7 +8594,7 @@
       </termEntry>
       <termEntry id="t00661">
         <descrip type="origin">魔導刻紋</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Arcane Inscription</term>
           </tig>
@@ -8607,7 +8607,7 @@
       </termEntry>
       <termEntry id="t00662">
         <descrip type="origin">魔蠍</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Demon Scorpion</term>
           </tig>
@@ -8620,7 +8620,7 @@
       </termEntry>
       <termEntry id="t00663">
         <descrip type="origin">靈魂虹吸</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Soul Siphon</term>
           </tig>
@@ -8633,7 +8633,7 @@
       </termEntry>
       <termEntry id="t00664">
         <descrip type="origin">靈貓</descrip>
-        <langSet xml:lang="en-US">
+        <langSet xml:lang="en">
           <tig>
             <term>Spirit Cat</term>
           </tig>
