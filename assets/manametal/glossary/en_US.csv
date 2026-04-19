@@ -1,0 +1,664 @@
+﻿t0001,Warrior
+t0002,Archer
+t0003,Mage
+t0004,Assassin
+t0005,Knight
+t0006,Priest
+t0007,Summoner
+t0008,Conjurer
+t0009,Shaman
+t0010,Samurai
+t0011,unter
+t0012,Beast tamer
+t0013,class
+t0014,class level
+t0015,strength
+t0016,agile
+t0017,intelligence
+t0018,wisdom
+t0019,constitution
+t0020,sword
+t0021,bow
+t0022,staff
+t0023,quiver
+t0024,arrow
+t0025,fan
+t0026,hammer
+t0027,spellbook
+t0028,wand
+t0029,spear
+t0030,scythe
+t0031,dagger
+t0032,orb
+t0033,HP
+t0034,MP
+t0035,max HP
+t0036,max MP
+t0037,defense
+t0038,physical melee attack
+t0039,magic attack
+t0040,physical ranged attack
+t0041,insight
+t0042,HP regeneration
+t0043,MP regeneration
+t0044,Critical rate
+t0045,avoidance rate
+t0046,craft ability
+t0047,damage%
+t0048,damage reduction%
+t0049,drop rate
+t0050,recovery%
+t0051,ignore monster defense
+t0052,monster defense
+t0053,life steal slot
+t0054,life steal
+t0055,temporary HP
+t0056,natural recovery
+t0057,rage points
+t0058,stamina points
+t0059,willpower
+t0060,skill cooldown
+t0061,cooldown
+t0062,duration
+t0063,final damage%
+t0064,class amplification%
+t0065,Ninja style
+t0066,Assassin style
+t0067,Dagger style
+t0068,soul Egg
+t0069,Phylactery
+t0070,spirit Points
+t0071,invincible
+t0072,layers
+t0073,BOSS
+t0074,BOSS
+t0075,BOSS
+t0076,attack hits
+t0077,attack hits
+t0078,ammo
+t0079,hunting point
+t0080,Tenacity defense
+t0081,taunt
+t0082,Stance
+t0083,Katana
+t0084,Crescent Moon Stance
+t0085,Rising Sun Stance
+t0086,Ken-ki points
+t0087,mastery
+t0088,scroll
+t0089,mana energy
+t0090,dark energy
+t0091,ether energy
+t0092,Laputa
+t0093,forbidden technology
+t0094,soul energy
+t0095,metal energy
+t0096,ancient thulium
+t0097,dungeon
+t0098,dungeon
+t0099,dungeon
+t0100,Alicia
+t0101,Aether
+t0102,relic
+t0103,Title
+t0104,transformation powder
+t0105,cloak
+t0106,wings
+t0107,particle effect
+t0108,font color
+t0109,headgear
+t0110,tailgear
+t0111,tool shape
+t0112,damage font style
+t0113,treasure
+t0114,collection box
+t0115,Laputa technology
+t0116,totem
+t0117,spell crystal
+t0118,kinetic crystal
+t0119,shipping box
+t0120,forbidden magic technology
+t0121,black magic
+t0122,production system
+t0123,attribute item
+t0124,reward box
+t0125,lizardman
+t0126,human
+t0127,elf
+t0128,dragon
+t0129,dragonborn
+t0130,Naga
+t0131,dwarf
+t0132,half-orc
+t0133,beastman
+t0134,winged
+t0135,demon
+t0136,altar rune stone
+t0137,rune stone
+t0138,white gold
+t0139,Tomil
+t0140,Masadabah
+t0141,Rose Crusader
+t0142,Astrid
+t0143,Strawberry dragon
+t0144,Peaceful Strawberry Dragon
+t0145,Peaceful Guardian Dragon
+t0146,Peaceful Snow Fox
+t0147,mk456766
+t0148,Rluo
+t0149,Redmoon
+t0150,Anok
+t0151,legendary creature
+t0152,magic steel
+t0153,replicator
+t0154,dark steel
+t0155,dark blood steel
+t0156,red chain metal
+t0157,infinite steel
+t0158,O'Halloran steel
+t0159,cosmic energy
+t0160,rune steel
+t0161,mystery steel
+t0162,black hole frequency ingot
+t0163,green steel
+t0164,mountain copper
+t0165,mysterious silver
+t0166,holy copper
+t0167,Hai silver
+t0168,fine gold
+t0169,sulfur copper
+t0170,rainbow steel
+t0171,holy soul
+t0172,blazing gold
+t0173,ancient iron
+t0174,holy vessel
+t0175,forging
+t0176,mining
+t0177,gemcraft
+t0178,farming
+t0179,fishing
+t0180,cooking
+t0181,beekeeping
+t0182,tailoring
+t0183,dragon taming
+t0184,brewing
+t0185,alloy crystallization
+t0186,potion
+t0187,enhanced gem
+t0188,enhancement scroll
+t0189,star enhancement
+t0190,item quality
+t0191,junk
+t0192,normal
+t0193,rare
+t0194,fine
+t0195,epic
+t0196,superior
+t0197,mythical
+t0198,ancient
+t0199,divine
+t0200,legendary
+t0201,holy
+t0202,transcendent
+t0203,genesis
+t0204,demonic
+t0205,chaotic
+t0206,peerless
+t0207,brilliant
+t0208,treasure
+t0209,artifact
+t0210,dragon god
+t0211,spirit power
+t0212,soul inheritance
+t0213,season
+t0214,platinum
+t0215,manametal
+t0216,gemstone
+t0217,Doomsday
+t0218,wishing altar
+t0219,holy relic
+t0220,wishing star
+t0221,relic points
+t0222,legendary relic points
+t0223,Flash Step
+t0224,Combat Mind
+t0225,Dark Power
+t0226,Ken-ki Wave
+t0227,Combat Defense
+t0228,Serial Slash
+t0229,Crescent Moon Slash
+t0230,Shadow Sword
+t0231,Sword Mastery
+t0232,Sword Master
+t0233,Rage Burst
+t0234,Furious Sword Slash
+t0235,Blood Battle Oath
+t0236,Tornado Sword Slash
+t0237,Paralyzing Trap
+t0238,Piercing Arrow
+t0239,Five Arrows
+t0240,Explosive Arrow
+t0241,Lightning Arrow
+t0242,Archery Mastery
+t0243,Charge Shot
+t0244,United as One
+t0245,Armor-Breaking Assault
+t0246,Wind God's Blessing
+t0247,Stormy Arrow Rain
+t0248,Frost Curse
+t0249,Magic Rhythm
+t0250,Flame Ball
+t0251,Magic Arrow
+t0252,Magic Shield
+t0253,Mana Mastery
+t0254,Magic Storage
+t0255,Icicle Combo
+t0256,Elemental Explosion
+t0257,Infinite Magic
+t0258,Thunderstorm
+t0259,Thrust Technique
+t0260,Dagger style: Flying Poison Blade
+t0261,Assassin style: Chain Darts
+t0262,Ninja style: Strong Lightning Strike
+t0263,Blood Devouring Technique
+t0264,Night Contract
+t0265,Trinity
+t0266,Assassin style: Dagger Sword Dance
+t0267,Dagger style: Cross Slash
+t0268,All or Nothing
+t0269,Ninja style: Blade Maze
+t0270,Battle Cry
+t0271,Self Recovery
+t0272,Sacrificial Art
+t0273,Tornado Axe
+t0274,Earth-Shaking Hammer
+t0275,Defense System
+t0276,Surprise Bones
+t0277,Shadow Hammer
+t0278,Flame of Purgatory
+t0279,Earth Strength
+t0280,Divine Sky Shield
+t0281,Healing Light
+t0282,Fighting Spirit
+t0283,Holy Light Arrow
+t0284,Holy Prayer
+t0285,Healing Fountain
+t0286,Holy Scriptures
+t0287,Holy Light Burning
+t0288,Brilliant Strike
+t0289,Sacred Field
+t0290,Holy Imprint
+t0291,Door of Truth
+t0292,Demon World Summon
+t0293,Demon World Recall
+t0294,Obsessed
+t0295,Resurrection Art
+t0296,Shadow Allay
+t0297,Sacred Flame of Life
+t0298,Soul Drop
+t0299,Guiding Arrow
+t0300,Holy Beast Guardian
+t0301,Magic Missile
+t0302,Oath Dragon
+t0303,Phylactery Charge
+t0304,Phylactery Dispel
+t0305,Lightning Phylactery
+t0306,Natural Morning Light
+t0307,Wind Speed Phylactery
+t0308,Soul Fire
+t0309,Phylactery Mastery
+t0310,Spirit Transfer Phylactery
+t0311,Shikigami Slash
+t0312,Guardian Barrier
+t0313,Realm of the Six Yang
+t0314,Toxic Explosion
+t0315,Neutralize Toxins
+t0316,Intense Poison Arrow
+t0317,Mist Therapy
+t0318,Acidic Poison
+t0319,Deadly Toxic
+t0320,Ancient Inscription
+t0321,Ancestral Totem
+t0322,Biogas Poisonous Fire
+t0323,Ice Poison Arrow
+t0324,Thousand Needles 
+t0325,Capture Net
+t0326,Wilderness Preparation
+t0327,Silver Spear
+t0328,Burst Spear
+t0329,Herbal Mastery
+t0330,Hunter's Tracking
+t0331,Demonized Hunter
+t0332,Spiral Spear
+t0333,Thorn Flying Spear
+t0334,Battle Assembly
+t0335,Boundary-Breaking Divine Spear
+t0336,Soul Lantern
+t0337,Contract Summon
+t0338,Poison Sting Combo
+t0339,Red Flag Guidance
+t0340,Blue Flag Guidance
+t0341,Animal Specialization
+t0342,Working Together
+t0343,Falcon Shock
+t0344,Wild Leader
+t0345,Wild Cry
+t0346,Beast Demon Infinity
+t0347,Natural Recovery
+t0348,Mana Devour
+t0349,Thick Fur
+t0350,Ice Waterfall
+t0351,Life Steal Fangs
+t0352,Dark Mist
+t0353,Healing Spell
+t0354,Impulsive Soul
+t0355,Wind Pressure
+t0356,Scorching
+t0357,Thunder Strike
+t0358,Reverse Magic
+t0359,Strength Corruption
+t0360,Wings of Light
+t0361,Share Pain
+t0362,Stance Switch
+t0363,Instant Slash
+t0364,Mysterious Moon
+t0365,Eagle Claw
+t0366,Flying Raven
+t0367,Flowing Strike
+t0368,Swallow Return
+t0369,Iaido
+t0370,Heaven–Earth Kenjutsu
+t0371,Heaven–Earth Kenjutsu Secret Teachings
+t0372,Receiving Flow
+t0373,Fierce Assault
+t0374,Water Wheel
+t0375,Flash Strike
+t0376,Water Point
+t0377,Eagle Strike
+t0378,Moon Shadow
+t0379,Sun Disk
+t0380,ancient dragonstone
+t0381,Soul Control Magic Stone
+t0382,soul evolution points
+t0383,Soul Evolution Altar
+t0384,Dark Council
+t0385,Yashete
+t0386,Omicron
+t0387, Dark fission
+t0388,Dark fission Instrument
+t0389,Ancient thulium ruin
+t0390,Vitality
+t0391,BOSS Trace
+t0392,fashion
+t0393,invincibility frames
+t0394,gravity damage
+t0395,absolute damage
+t0396,all-type attack power
+t0397,Absolute Resistance
+t0398,Abyss Magic Shield
+t0399,Source of Life
+t0400,Divine Blessing
+t0401,Earth Protection
+t0402,Shadow Protection
+t0403,Will of the Giant Guard
+t0404,Will of the Abyss Guard
+t0405,Majesty of the Holy Realm Guardian
+t0406,Celestial Sanction
+t0407,Fountain of the Soul
+t0408,Fire Fox
+t0409,Ice Dragon
+t0410,Light of Peace
+t0411,Peace Aura
+t0412,Fountain of Devotion
+t0413,crippling effect
+t0414,Wind Serpent
+t0415,Magic Break
+t0416,Aegis Protection
+t0417,Miracle Points
+t0418,chaotic damage
+t0419,Beast Summon
+t0420,absolute damage
+t0421,Holy Light Judgment
+t0422,Gospel Delivery
+t0423,Shadow Wolf
+t0424,Glorious Century
+t0425,Mage Rune
+t0426,Demon Scorpion
+t0427,Spirit Cat
+t0428,1st job
+t0429,2nd job
+t0430,3rd job
+t0431,Blade Sword Rain
+t0432,Earth Protection
+t0433,Earth Phylactery
+t0434,Master Magician
+t0435,Unyielding Fire
+t0436,Unyielding Flames
+t0437,Incurable effect
+t0438,Neutralizing Scale Powder
+t0439,aggro
+t0440,Split Shot
+t0441,Splitting Deadly Toxic
+t0442,Heaven Flow
+t0443,Aether Sanction
+t0444,Phantom Spirit effect
+t0445,Prayer of Fire
+t0446,Fire Fox
+t0447,Flame Meteor
+t0448,Fire Soul Diffusion
+t0449,Fire Phoenix
+t0450,Charged Spirit Transfer Phylactery
+t0451,bleeding
+t0452,imprisonment
+t0453,Will of the Giant Guard
+t0454,Eternal Protection
+t0455,Source of Life
+t0456,life steal
+t0457,Life Revelation
+t0458,Ancestral Cry
+t0459,Ancestral Will
+t0460,Ancestral Spirit Totem
+t0461,Faith of Light
+t0462,Ray of Light
+t0463,Light Speed Slash
+t0464,omnipotent attack power
+t0465,Glacier Hell
+t0466,Ice Dragon
+t0467,Frost Arrow Barrage
+t0468,Synchronized Mind
+t0469,Attunement points
+t0470,Resurrection Shield Wall
+t0471,Recovery Block
+t0472,Heaven Flow
+t0473,Gates of Hell
+t0474,Multiple Mutation
+t0475,Reaper's Mark
+t0476,Tainted Blood
+t0477,automatic crossbow turret
+t0478,Blood Blade Cut
+t0479,Bloody Delight
+t0480,Bloody Bounty
+t0481,Bloodline Erosion
+t0482,Bloodline Collapse
+t0483,Blood Battle Fury
+t0484,Blade Allay
+t0485,Arrow Storm
+t0486,blowgun
+t0487,Silence effect
+t0488,Defense Strategy
+t0489,Protective Shot
+t0490,Assassin
+t0491,invincibility frame
+t0492,Light of Peace
+t0493,Night Agent
+t0494,Draw Blade effect
+t0495,Mana Storm
+t0496,Mana Stimulation
+t0497,Mage
+t0498,Priest
+t0499,physical attack
+t0500,physical melee
+t0501,physical ranged
+t0502,additional damage
+t0503,Enchanted Divine Arrow
+t0504,Heart of Courage
+t0505,Rage Flame Fireball
+t0506,Rapid Charge
+t0507,Poison Blade
+t0508,Toxic Mark
+t0509,Poison Swamp
+t0510,Poison Kill
+t0511,Active Herbs
+t0512,Hunting Command
+t0513,Hunting Mark
+t0514,lethal damage
+t0515,Crippled status
+t0516,kunai
+t0517,carry weight
+t0518,gravity attack
+t0519,gravity attack
+t0520,gravity orb
+t0521,gravity damage
+t0522,Critically downed
+t0523,Wind Shear
+t0524,Wind Break effect
+t0525,Wind Serpent
+t0526,Wind Dance Shot
+t0527,Weakness Sniping
+t0528,Allay Regeneration
+t0529,Block
+t0530,Fire of Nirvana
+t0531,Annihilation Beam
+t0532,Blazing Fire Phylactery
+t0533,Blazing Divine Sword
+t0534,Wolf's Gratitude
+t0535,true magic damage
+t0536,stun
+t0537,Fragment Tracking
+t0538,Armor Break
+t0539,Breaking Combo
+t0540,Shattered Dream
+t0541,Magic Break
+t0542,Divine Shield Protection
+t0543,Holy Illumination
+t0544,Divine Arrow Guardian
+t0545,Divine Spirit Blessing
+t0546,Divine Spirit Formation
+t0547,Pure Fountain
+t0548,paper shikigam
+t0549,Herbal Essence
+t0550,Origin Magic
+t0551,avoidance value
+t0552,High-Speed Storage
+t0553,High-Speed Tracking
+t0554,Unyielding Fortitude
+t0555,Expertise
+t0556,Specialization
+t0557,Enhanced Storage
+t0558,Enhanced Assembly
+t0559,Morning Light effect
+t0560,Abyssal Prayer
+t0561,Will of the Abyss Guard
+t0562,Abyss Magic Shield
+t0563,chaotic attack
+t0564,paralysis
+t0565,Anesthetic effect
+t0566,wounds
+t0567,Frost Magic Circle
+t0568,Vengeance
+t0569,Vengeance Counter
+t0570,Brutal Slaughter
+t0571,Endless Nightmare
+t0572,Hard Shell Armor
+t0573,Absolute Resistance
+t0574,Absolute Trust
+t0575,absolute damage
+t0576,Void Spirit Transfer Phylactery
+t0577,Cursed Blood Source
+t0578,ultimate skill
+t0579,Night Assassination
+t0580,dark element agony damage
+t0581,dark element fear damage
+t0582,Dark Slash
+t0583,Night Stealth
+t0584,Assassination Mark
+t0585,Dark Grimoire
+t0586,Dark Phylactery
+t0587,Shadow Taunt
+t0588,Shadow Bite
+t0589,Extreme Ice Phylactery
+t0590,Limit Conjuration
+t0591,Maximum Charge
+t0592,Extreme Resistance
+t0593,Destruction Totem
+t0594,Infernal Fire Rain
+t0595,Infernal Chains
+t0596,Forbidden Grimoire
+t0597,Forbidden Art Charge
+t0598,Forbidden Thunder
+t0599,Holy Light Guardian Dragon
+t0600,Holy Light Phylactery
+t0601,Holy Light Oath
+t0602,Majesty of the Sacred Guardian
+t0603,Falling Star Arrow
+t0604,Falling Star Arrow
+t0605,Ranger
+t0606,Overhealing
+t0607,Lightning Magic Circle
+t0608,Lightning Axe
+t0609,Thunder Piercing Arrow
+t0610,Thunderous Strike
+t0611,Thunder Ring
+t0612,Thunder Magic Sword
+t0613,Electric Shield
+t0614,companion
+t0615,Companion Care
+t0616,Frenzy Claws
+t0617,Give It All
+t0618,Light Archery
+t0619,Deadly Poison Slash
+t0620,warrior
+t0621,Eye of the Judge
+t0622,Judgment Finale
+t0623,Shadow Wolf
+t0624,Rage Regeneration
+t0625,Rend effect
+t0626,critical value
+t0627,Stealth Assassination
+t0628,Arrow Storm
+t0629,Arrow Skill
+t0630,Slow
+t0631,Slowness effect
+t0632,Glorious Century
+t0633,Earth-Shaking Strike
+t0634,Shock
+t0635,Nightmare Domain
+t0636,Blood-Devouring Fangs
+t0637,Blood Devouring Instinct
+t0638,Loot
+t0639,God of War Domain
+t0640,Battle Roar
+t0641,war hammer
+t0642,Torrent Slash
+t0643,Dragon's Prayer
+t0644,Piercing effect
+t0645,knockback
+t0646,Spiral Pierce
+t0647,Shadow Protection
+t0648,Double Demonization
+t0649,Knight
+t0650,Explosive Piercing Arrow
+t0651,Explosive Piercing Arrow
+t0652,critical damage
+t0653,Thunderbolt Ball
+t0654,Mana Overload
+t0655,Mana Explosion
+t0656,Magical Defense
+t0657,Magic Stimulation
+t0658,Magic Quiver
+t0659,Magic Soul Phylactery
+t0660,Arcane Protection
+t0661,Arcane Inscription
+t0662,Demon Scorpion
+t0663,Soul Siphon
+t0664,Spirit Cat
