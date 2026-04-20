@@ -5,7 +5,6 @@ IASP.WraithReaper.t.1.35=Deals an extra 50% critical damage to targets with Nigh
 IASP.WraithReaper.t.1.40=Final damage% +30%, damage% +30%, critical damage +50%, damage taken increased by 50%
 IASP.WraithReaper.t.1.45=When attacking, based on the number of hostile targets with Nightmare Domain effect within 6 blocks, each target increases damage% by 6% and critical damage by 3%
 IASP.WraithReaper.t.1.50=When receiving lethal damage other than absolute damage, negates that damage and restores full HP, while granting self invincible effect for 3 seconds and Incurable effect, and removes Nightmare Domain and Endless Nightmare effects from all hostile targets within 10 blocks, dealing magic attack dark element agony damage equal to the player's max HP. Also grants Shattered Dream effect for 60 seconds. While active, defense is reduced by 60 and damage% is increased by 30%. Cooldown: 300 seconds
-
 IASP.DefendGuard.t.0.5=Defense +50, damage reduction% +5%
 IASP.DefendGuard.t.0.10=When receiving damage other than chaotic attack or absolute damage, 20% chance to reduce that damage taken by 50%
 IASP.DefendGuard.t.0.15=Defense +100, damage reduction% +10%
@@ -16,7 +15,6 @@ IASP.DefendGuard.t.0.35=Defense +30, gravity damage reduction +10%
 IASP.DefendGuard.t.0.40=When receiving damage other than chaotic attack or absolute damage, if the player's HP is below 30%, grants self Absolute Resistance effect for 7 seconds. While active, immune to all damage except chaotic attack or absolute damage. Cooldown: 180 seconds
 IASP.DefendGuard.t.0.45=When attacking, grants self and all players within 10 blocks the Majesty of the Sacred Guardian effect for 10 seconds. While active, defense +60, gravity damage reduction +10%. Cooldown: 5 seconds
 IASP.DefendGuard.t.0.50=When receiving lethal damage other than absolute damage, negates that damage and restores full HP, while granting self invincible effect for 5 seconds. Cooldown: 250 seconds
-
 IASP.DefendGuard.t.1.5=Damage reduction% +5%, invincibility frames on hit +1
 IASP.DefendGuard.t.1.10=When receiving damage other than chaotic attack or absolute damage, 15% chance to ignore that damage. Cooldown: 4 seconds
 IASP.DefendGuard.t.1.15=Damage reduction% +5%, invincibility frames on hit +1
@@ -24,11 +22,9 @@ IASP.DefendGuard.t.1.20=When receiving damage other than chaotic attack or absol
 IASP.DefendGuard.t.1.25=Gravity damage reduction +20%
 IASP.DefendGuard.t.1.30=When attacking, grants self 1 layer of Will of the Abyss Guard effect for 7 seconds, up to 5 layers. While active, each layer reduces gravity damage by 2%. When reaching 5 layers, gravity damage reduction +10%. Cooldown: 2 seconds
 IASP.DefendGuard.t.1.35=Damage reduction% +5%, invincibility frames on hit +1, gravity damage reduction +10%
-
 IASP.DefendGuard.t.1.40=Defense -600, invincibility frames +2, final damage% +20%, damage% +20%
 IASP.DefendGuard.t.1.45=When taking damage other than chaotic attacks or absolute damage, deal physical melee earth-element rebound damage equal to the player's max HP to the attacker, cooldown 2 seconds. This effect does not apply to players or friendly mobs
 IASP.DefendGuard.t.1.50=When receiving lethal damage other than absolute damage, negate that damage, restore all HP, and gain the Abyss Magic Shield effect for 60 seconds. While this effect is active, increase defense by 200, invincibility frames +5, gravity damage reduction% 25%, cooldown 300 seconds
-
 IASP.EternalSpirit.t.0.5=Heal yourself and all players within 8 blocks every second for 3% of your max HP
 IASP.EternalSpirit.t.0.10=When attacking, grant yourself and all players within 8 blocks the Source of Life effect for 10 seconds. While this effect is active, increase damage% by 30%, increase critical value by 20, increase avoidance value by 20, cooldown 5 seconds
 IASP.EternalSpirit.t.0.15=Restore MP equal to 3% of your max MP to yourself and all players within 8 blocks every second
@@ -39,7 +35,6 @@ IASP.EternalSpirit.t.0.35=When attacking, summon a Divine Spirit Formation aroun
 IASP.EternalSpirit.t.0.40=When taking damage other than chaotic attacks or absolute damage, if you are within the range of the Divine Spirit Formation, damage reduction% 20%, gravity damage reduction% 20%
 IASP.EternalSpirit.t.0.45=Every 5 seconds, grant all players (other than yourself) within 8 blocks the Life Revelation effect. While this effect is active, increase extra skill cooldown speed by 5%, increase final damage% by 10%
 IASP.EternalSpirit.t.0.50=When receiving lethal damage other than absolute damage, negate that damage, restore all HP, and grant yourself the invincible effect for 5 seconds, cooldown 300 seconds
-
 IASP.EternalSpirit.t.1.5=Physical attack +10, magic attack +10, damage% +10%
 IASP.EternalSpirit.t.1.10=When attacking, apply 1 layer of Blood Blade Cut effect to the target for 10 seconds, up to 25 layers. While this effect is active, each layer increases damage taken by 2%
 IASP.EternalSpirit.t.1.15=Physical attack +15, magic attack +15, damage% +15%
@@ -50,7 +45,6 @@ IASP.EternalSpirit.t.1.35=When attacking, grant yourself 1 layer of Bloody Delig
 IASP.EternalSpirit.t.1.40=When attacking, if your HP is above 80%, increase final damage% by 10%
 IASP.EternalSpirit.t.1.45=When attacking, apply the Bloodline Collapse effect to the target for 5 seconds. While this effect is active, reduce tenacity by 5%
 IASP.EternalSpirit.t.1.50=When receiving lethal damage other than absolute damage, negate that damage, restore all HP, and grant yourself the invincible effect for 5 seconds, and grant all players (other than yourself) within 8 blocks the Unyielding Fire effect for 30 seconds. While this effect is active, increase physical attack by 30, increase magic attack by 30, cooldown 300 seconds
-
 IASP.SecretMagic.t.0.5=Damage% +10%, DOT attack multiplier +25%
 IASP.SecretMagic.t.0.10=When attacking, 5% chance to deal an extra 60% magic attack magic-element spell damage to the target
 IASP.SecretMagic.t.0.15=When attacking, if MP is above 80%, increase DOT attack interval speed by 10%, increase DOT extra attack hits by 5
@@ -61,7 +55,6 @@ IASP.SecretMagic.t.0.35=Every 5 seconds, restore MP equal to 10% of your max MP 
 IASP.SecretMagic.t.0.40=When attacking, increase final damage% by 1% for each DOT effect on the target
 IASP.SecretMagic.t.0.45=When attacking, consume all MP and grant yourself and all players within 10 blocks the Arcane Protection effect for 20 seconds. For every 600 MP consumed, the duration increases by 1 second. While this effect is active, increase damage% by 25%, increase final damage% by 5%, increase defense by 50, cooldown 120 seconds
 IASP.SecretMagic.t.0.50=When receiving lethal damage other than absolute damage, negate that damage, restore all HP, and grant yourself the invincible effect for 5 seconds, cooldown 300 seconds
-
 IASP.SecretMagic.t.1.5=When attacking, grants yourself 1 layer of Forbidden Art Charge effect for 15 seconds, up to 3 layers. While this effect is active, each layer increases skill cooldown speed by 1%
 IASP.SecretMagic.t.1.10=When attacking, there is a 5% chance to deal additional dark-attribute evil magic damage equal to 100% of magic attack to the target
 IASP.SecretMagic.t.1.15=Physical attack +10, magic attack +10, damage% +10%
@@ -120,7 +113,6 @@ gui.GuiSpecialization.id.defense=Absorption Enhancement
 gui.GuiSpecialization.lore.defense=Increases max life steal slot by 5%
 gui.GuiSpecialization.id.rool_lucky=Lucky Scroll
 gui.GuiSpecialization.lore.rool_lucky=Increases scroll enhancement success rate by 2%
-
 gui.GuiSpecialization.id.main.1=Swordsman Expertise
 gui.GuiSpecialization.lore.main.1=Increases HP by 200, physical melee damage +10, increases damage% by 50% when using a matching weapon
 gui.GuiSpecialization.id.main.2=Ranger Expertise
@@ -142,61 +134,51 @@ gui.GuiSpecialization.lore.main.9=Increases HP by 200, physical ranged damage +1
 gui.GuiSpecialization.id.main.10=Samurai Expertise
 gui.GuiSpecialization.lore.main.10=Increases HP by 200, physical melee damage +10, increases damage% by 50% when using a matching weapon
 gui.GuiSpecialization.id.main.11=Hunter Expertise
-
 gui.GuiSpecialization.lore.main.11=Increases HP by 200, increases physical ranged damage by 10, increases damage% by 50% when using a matching weapon
 gui.GuiSpecialization.id.main.12=Beast Tamer Specialization
 gui.GuiSpecialization.lore.main.12=Increases HP by 200, increases magic attack damage by 10, increases damage% by 50% when using a matching weapon
-
 A106_Instantaneous=Flash Step
 A204_CombatMind=Combat Mind
 A205_DarkPower=Dark Power
 A305_OriginMagic=Origin Magic
-
 A106_Instantaneous.lore=Consumes 50 SP, dashes forward or leaps upward. Grants fall damage immunity for 4 seconds after use. Activate by pressing the action button %KEY%SP% while moving or jumping.
 A204_CombatMind.lore=Calm yourself and increase your abilities through meditation, increasing physical melee/ranged and magic attack by 5.
 A205_DarkPower.lore=A 2nd class advancement shared skill. Concentrate all your strength to invoke Dark Power. In the name of Masadabah, summon dark energy to empower yourself. During the duration, greatly increases attack power, ignore monster defense, and final damage%. Use a black magic crystal item to activate this skill.
-
 A100_SwordWave=Ken-ki Wave
 A101_CombatDefense=Combat Defense
 A102_SerialChop=Serial Slash
 A103_MoonCut=Crescent Moon Slash
 A104_ShadowSword=Shadow Sword
 A105_SwordExpertise=Sword Mastery
-
 A200_SwordMaster=Sword Master
 A201_Anger=Rage Burst
 A202_FuriousSwordSlash=Furious Sword Slash
 A203_BloodyOath=Blood Battle Oath
 A206_TornadoSwordSlash=Tornado Sword Slash
-
 A300_UnyieldingFlames=Unyielding Flames
 A301_BreakingCombo=Breaking Combo
 A302_ThunderousStrike=Thunderous Strike
 A303_GodOFWarDomain=God of War Domain
 A304_BlazingDivineSword=Blazing Divine Sword
 A306_BladeSworldRain=Blade Sword Rain
-
 A100_SwordWave.lore=Swing your weapon with force, launching a Ken-ki Wave straight ahead, dealing damage to distant targets. When activated with rage, consumes 2 rage points, allowing the Ken-ki Wave to pierce through targets and increasing damage% by 25%. Activate by pressing %KEY%WK% while holding a sword.
 A101_CombatDefense.lore=Raise a defensive stance, taunting all nearby monsters and setting their attack target to yourself. Grants a defensive counterattack effect, increasing damage% by 100%. When activated with rage, consumes 10 rage points and also grants 10 layers of absolute resistance, which can negate any damage except chaotic damage or percentage-based deduction damage. Activate by pressing right-click while holding a sword.
 A102_SerialChop.lore=Concentrate your power, unleashing brilliant sword energy with each attack. Grants the Serial Slash effect, increasing damage% by 50%. Normal attacks can simultaneously damage up to 4 nearby targets. When attacking a target while this effect is active, the target monster's attack target is set to yourself. When activated with rage, consumes 10 rage points, and each Serial Slash hit restores 2% of life steal slot.
 A103_MoonCut.lore=Slash continuously straight ahead at incredible speed, dealing multiple hits of damage while striking several targets within a frontal fan-shaped area. Applies the Crescent Moon Slash effect to targets, increasing damage taken by 20%. When activated with rage, consumes 5 rage points, and the range and damage of Crescent Moon Slash are increased.
 A104_ShadowSword.lore=Summon the power of shadows, launching several waves of shadow magic swords straight ahead, dealing damage to distant targets. Shadow Sword deals an extra 20% damage to non-BOSS targets. Each time Shadow Sword hits a target, grants yourself and all nearby players the Shadow Magic Sword effect, increasing class amplification% by 10%. When activated with rage, consumes 5 rage points, causing Shadow Sword hits to trigger a Mana Explosion effect, dealing area damage.
 A105_SwordExpertise.lore=Increase your abilities through sword training, increasing final damage% by 10%, reducing gravity attack damage taken by 20%, gaining knockback resistance, and becoming immune to bleeding effects when hit by gravity attacks. Increases BOSS aggro by 200%. When HP falls below 50%, life steal slot recovery gained through consuming rage points is doubled.
-
 A200_SwordMaster.lore=Focus all your attention on continuous sword practice to maximize all your abilities. Increases final damage% by 10%, increases max rage points by 20, and grants an additional rage point upon hitting a target with a normal attack. While the Serial Slash effect is active, normal attacks can grant one layer of Defense Strategy effect, increasing defense by 1, up to a maximum of 250 layers. When Defense Strategy reaches 250 layers, upon receiving fatal damage, the effect is consumed to negate the damage and fully restore HP.
 A201_Anger.lore=Stimulate yourself to unleash the true power of a berserker. Grants the Rage Burst effect, increasing damage% by 100%, while dealing damage to all nearby targets and immediately resetting the cooldown of all 1st class advancement skills. After casting Rage Burst, all nearby hostile targets will be continuously pulled to the burst location for 20 seconds. When activated with rage, consumes 20 rage points, losing 30% of HP but doubling the duration of Rage Burst and increasing the pull duration by 10 seconds.
 A202_FuriousSwordSlash.lore=Swing your sword with great force, unleashing multiple fierce slashes forward. The slashes can pierce through multiple targets and deal linear damage to distant targets. When activated with rage, consumes 15 rage points, and the damage of Furious Sword Slash energy is increased.
 A203_BloodyOath.lore=Motivate yourself to push your physical limits. Grants the Blood Battle Oath effect. During the duration, each normal attack heals your HP and grants one layer of Blood Battle Oath effect level, with each layer increasing damage% by 2%, up to a maximum of 25 layers. Upon activation, also grants yourself and all nearby players the Vengeance effect, increasing class amplification% by 10%. When activated with rage, consumes 20 rage points, additionally granting the Blood Battle Fury effect, increasing final damage% by 20%, increasing normal attack speed by 50%. During Blood Battle Fury, you lose 3% of HP per second.
 A206_TornadoSwordSlash.lore=Concentrate all your strength and deliver a mighty slash forward, whipping up a violent hurricane. The hurricane continuously pulls in surrounding targets and deals multiple hits of damage. Tornado Sword Slash applies a Recovery Block effect to targets, negating all HP regeneration effects on the target. When activated with rage, consumes 40 rage points, and the hurricane splits into three smaller hurricanes. The smaller hurricanes no longer pull monsters, and each smaller hurricane deals 60% of the original hurricane's damage. Additionally, applies a Wind Shear effect to targets, increasing damage taken by 30%.
-
 A300_UnyieldingFlames.lore=Ignite the endless fury in your heart, causing boundless flames to blaze within the sword blade. Increases final damage% by 20%, raises rage points cap by 20, and increases defense by 200. Whenever a normal attack gains 3 rage points, a Rage Flame Fireball is summoned to orbit around you, up to a maximum of 5 Rage Flame Fireballs. When the Combat Defense skill is activated, all Rage Flame Fireballs fly toward nearby targets and deal damage, prioritizing the target you are looking at. Each Rage Flame Fireball launched also heals yourself. However, rage points gained through weapon bonus effects will not accumulate Rage Flame Fireballs.
 A301_BreakingCombo.lore=Raise the sword and strike ferociously while charging forward, slashing out Ken-ki to damage all targets in range, and simultaneously releasing a Ken-ki Wave to deal damage to distant targets. Each time Breaking Combo hits in melee, you gain one layer of Breaking effect. Each layer increases damage% by 4%, and at the end, a area slash is unleashed based on the number of Breaking effect layers. The more Breaking effect layers you have, the higher the damage and attack hits of the area slash. When using rage points to activate this skill, 20 rage points are consumed, and Breaking Combo's attack hits increase by 10. Additionally, each time Breaking Combo hits, it also heals yourself. When casting Breaking Combo while having Breaking effect layers, the Breaking effect layers will be cleared.
 A302_ThunderousStrike.lore=Deliver a mighty slash forward, triggering a powerful lightning strike on all targets along the path, dealing damage to distant targets, applying a movement slow effect, and dealing additional true physical damage. When using rage points to activate this skill, 10 rage points are consumed, and a Thunder Magic Sword appears above the lightning strike. After the lightning dissipates, the Thunder Magic Sword thrusts downward, dealing an additional 300% explosion damage and inflicting a soul damage over time effect on targets.
 A303_GodOFWarDomain.lore=With proud swordsmanship, carve a battle domain on the ground, summoning the God of War Domain around yourself. Any player within the domain continuously receives the God of War Domain effect, increasing damage% by 50%, increasing class amplification% by 10%, and reducing damage taken by 10%. The God of War Domain applies a recovery blocking effect to all targets in range, negating all HP regeneration effects on targets. When using rage points to activate this skill, 20 rage points are consumed, and the God of War Domain no longer grants effects to all players within the domain, instead granting effects only to yourself. Additionally, the God of War Domain continuously damages all targets within range.
 A304_BlazingDivineSword.lore=Infuse endless fury flames into the sword blade, causing it to burn with raging fire. Gain 1 Arcane Inscription
- per level, and increase damage% by 10% per level.
+per level, and increase damage% by 10% per level.
 A306_BladeSworldRain.lore=Summon blade runes to shred targets with endless blades and swords. Fire a phylactery forward and summon blade runes at the target location. The blade runes continuously attack all targets within range, dealing damage to distant targets, and applying a Rend effect that increases damage taken by 30%. When using rage points to activate this skill, all rage points are consumed. For each 1 rage point consumed, the duration of Blade Sword Rain increases by half a second.
-
 gui.GuiSpecialization.id.career_exclusive.0.Swordsman=Overhealing
 gui.GuiSpecialization.lore.career_exclusive.0.Swordsman=When HP is full, normal attacks grant temporary HP to yourself, up to a maximum of 15% of max HP in temporary HP, lasting 30 seconds.
 gui.GuiSpecialization.id.career_exclusive.3.Swordsman=Extreme Resistance
@@ -205,99 +187,82 @@ gui.GuiSpecialization.id.career_exclusive.2.Swordsman=Vengeance Counter
 gui.GuiSpecialization.lore.career_exclusive.2.Swordsman=Each 1% life steal slot increases damage% by 0.3%. Upon second class advancement, this effect changes to each 1% life steal slot increasing damage% by 0.6%.
 gui.GuiSpecialization.id.career_exclusive.1.Swordsman=Rage Regeneration
 gui.GuiSpecialization.lore.career_exclusive.1.Swordsman=Each rage point grants additional Natural Recovery equal to class level x 1.5 HP, applied once every five seconds.
-
 A100_ParalyzingTrap=Paralyzing Trap
 A101_PiercingArrow=Piercing Arrow
 A102_FiveArrows=Five Arrows
 A103_ExplosiveArrow=Explosive Arrow
 A104_LightningArrow=Lightning Arrow
-A105_ArcheryExpertis    e=Archery Mastery
-
+A105_ArcheryExpertis e=Archery Mastery
 A200_ChargeShot=Charge Shot
 A201_UnitedInOne=United as One
 A202_PenetratingAssault=Armor-Breaking Assault
 A203_WindGodBlessing=Wind God's Blessing
 A206_StormyArrowsRain=Stormy Arrow Rain
-
 A300_WeaknessSniping=Weakness Sniping
 A301_WindDanceShot=Wind Dance Shot
 A302_FallingStarArrow=Falling Star Arrow
 A303_FrostArrowBarrage=Frost Arrow Barrage
 A304_MagicQuiver=Magic Quiver
 A306_ArrowStorm=Arrow Storm
-
 A100_ParalyzingTrap.lore=Using hunting knowledge to quickly set up a Paralyzing Trap at your feet. Whenever a target steps on the trap or is nearby, it applies a 5-second movement slow and paralysis effect to the target while continuously dealing damage. Additionally, when the Paralyzing Trap deals damage to a target, it grants the player an Anesthetic effect, increasing damage% by 100%. The trap lasts for a period of time and disappears when the time expires. Press %KEY%WK% while holding a bow to activate.
 A101_PiercingArrow.lore=Harness the power of storm elements to fire a Piercing Arrow. It can penetrate multiple targets, dealing damage in a straight line and dealing damage to distant targets, while applying a Piercing effect that increases damage taken by 10%. Piercing Arrow deals an additional 30% final damage% to non-BOSS targets. Crouch while shooting with a bow, and it activates after firing. This skill takes priority over other archery skills. Piercing Arrow can coexist with Explosive Arrow or Lightning Arrow. After casting Explosive Arrow or Lightning Arrow, firing a Piercing Arrow converts it into an Explosive Piercing Arrow or Thunder Piercing Arrow, and the coexisting skill enters cooldown. Explosive Piercing Arrow penetrates enemies while dealing physical ranged fire elemental explosion damage equal to 120% of Piercing Arrow's damage, and the explosion hits all nearby targets. Thunder Piercing Arrow penetrates enemies while dealing physical ranged lightning elemental energy damage equal to 200% of Piercing Arrow's damage, hitting up to four targets within range and dealing damage twice.
 A102_FiveArrows.lore=Rapidly fire multiple arrows in succession to deal damage to distant targets. Press the skill key before shooting with a bow, and it activates after firing. Arrows fired by Five Arrows can penetrate up to two targets, dealing damage to targets behind them.
-
 A103_ExplosiveArrow.lore=Continuously fires magic arrows infused with fire elements. Deals damage to ranged targets and detonates flame magic upon hitting the target, dealing area damage. Each time Explosive Arrow hits a target, it grants yourself and all nearby players a Fire Element effect: increases class amplification% by 10%. Press the skill key before shooting with a bow, activates after firing.
 A104_LightningArrow.lore=Invokes the power of lightning to fire lightning arrows. Deals damage to ranged targets and summons a lightning magic circle upon hitting the target, continuously calling down lightning strikes to deal area damage. Press the skill key before shooting with a bow, activates after firing.
 A105_ArcheryExpertise.lore=Through relentless study of archery, maximize the damage of the bow. Increases final damage% by 10%, increases damage% by 50%, grants knockback resistance. When casting skills while carrying arrows, there is a chance to not consume arrows. Each time a normal attack or Five Arrows skill arrow hits a target, you gain one layer of Arrow Skill effect. Each layer of Arrow Skill increases final damage% by 3%, up to a maximum of 5 layers. After successfully hitting a target with Explosive Piercing Arrow or Thunder Piercing Arrow, you will gain the Elemental Arrow effect. During its duration, casting Explosive Arrow, Lightning Arrow, or coexisting Piercing Arrow skills will reduce their cooldown by 30%. Additionally, after killing any target, the cooldown of Piercing Arrow will be reduced by 1 second.
-
 A200_ChargeShot.lore=Temper your mind and focus entirely to maximize the effectiveness of each arrow. The maximum layers of Arrow Skill effect increases by 5. While continuously drawing the bow, you can charge up to five times. Each charge grants one layer of Charge Shot effect. Each layer of Charge Shot effect increases final damage% by 2% and increases damage% by 20%. Additionally, damage dealt by Piercing Arrow, Explosive Piercing Arrow, and Thunder Piercing Arrow skills is increased by 200%. Furthermore, each time you charge to the maximum limit, you will gain an additional Maximum Charge effect lasting 7 seconds. While Maximum Charge effect is active, the damage cap of Armor-Breaking Assault skill is quadrupled.
 A201_UnitedInOne.lore=Fires arrows at lightning speed to deal damage to ranged targets. Press the skill key before shooting with a bow, activates after firing. This skill can coexist with other archery skills. When coexisting, the first and last arrows fired by United as One will become another archery skill, but only Explosive Arrow, Lightning Arrow, and Armor-Breaking Assault can coexist. If no other archery skill is used after using Piercing Arrow, the first and last arrows fired by United as One will become Piercing Arrow.
 A202_PenetratingAssault.lore=Aim at the target's most vulnerable spot, charge up and release a single arrow, dealing devastating continuous damage to ranged targets. Applies a Pierce effect to the target, increasing damage taken by 10% and reducing Tenacity defense by 5%. Press the skill key before shooting with a bow, activates after firing.
 A203_WindGodBlessing.lore=Invokes the mysterious power of the Wind God, granting all nearby players and yourself movement speed boost and Wind God's Blessing effect, increasing class amplification% by 10% and increasing damage% by 50%.
 A206_StormyArrowsRain.lore=Fires an enchanted arrow, dealing damage to ranged targets. Upon hit, summons a magic storm, conjuring a massive storm magic circle above the target that rains down countless arrows at extreme speed during its duration, dealing area damage.
-
 A300_WeaknessSniping.lore=Aim at the target's most vulnerable spot and deliver a precise, lethal strike. Increases damage% by 100% and halves the cooldown of stamina points dodge in dungeons. Each time a normal attack arrow hits any target, you gain one layer of Weakness Sniping effect. Each layer increases final damage% by 12%, up to a maximum of 5 layers. However, when a normal attack arrow fails to hit any target and hits a block instead, you will lose one layer of Weakness Sniping effect. If you have the Split Shot effect, the extra split arrows will not gain Weakness Sniping layers, nor will they cause Weakness Sniping layers to be lost. Additionally, Piercing Arrow permanently deals 200% damage.
 A301_WindDanceShot.lore=Fires arrows at a whirlwind-like speed in a frenzied barrage, delivering a devastating hail of arrows upon the target. Deals damage to ranged targets. During the duration of Wind Dance Shot, the longbow's attack mode is replaced. Continuous use of the longbow allows chained attacks, and additional true physical damage is dealt. Each shot of Wind Dance Shot consumes an arrow.
 A302_FallingStarArrow.lore=Summons a meteor shower from beyond the sky, raining down destructive fire upon the target. After activating the skill, multiple meteors are summoned directly above the target location. If a normal attack arrow hits a meteor, the meteor will shatter and become a fire rain that attacks all targets within range, while also reducing the cooldown of Falling Star Arrow by 5%. If the meteor is not hit, it will explode at the target location, dealing area damage. Falling Star Arrow can only be cast in locations with open space above. If you crouch while casting Falling Star Arrow, the meteor's falling speed increases, but the damage dealt upon successfully shooting a meteor is increased by 20%, though the meteor's ground explosion damage is not increased.
 A303_FrostArrowBarrage.lore=Summons a frost magic circle, granting all nearby players and yourself the Frost Arrow Barrage effect, increasing class amplification% by 10%, increasing final damage% by 10%, and increasing avoidance by 30. Additionally, each time you fire any arrow, a wave of icicle whirlwind is summoned to attack nearby targets, and normal attacks will fire arrows imbued with frost, dealing double damage.
 A304_MagicQuiver.lore=Loads the Magic Quiver, coating arrows with different elemental magic. Gain 1 Arcane Inscription point per level, and increase damage% by 10% per level.
 A306_ArrowStorm.lore=Unleashes powerful wind magic, summoning multiple Enchanted Divine Arrows around yourself. Each Enchanted Divine Arrow continuously fires giant arrows to attack nearby targets. Also grants yourself the Divine Arrow Guardian effect, reducing damage taken by 30% and increasing avoidance by 100.
-
 gui.GuiSpecialization.id.career_exclusive.0.Ranger=Split Shot
 gui.GuiSpecialization.lore.career_exclusive.0.Ranger=Normal attack damage is reduced by 40%. Each normal attack fires three fan-shaped arrows, but does not consume additional arrows. The extra arrows cannot be picked up. Piercing Arrow skill will fire three fan-shaped Piercing Arrows, but at 60% of the original damage, and Piercing Arrow increases final damage% against non-BOSS targets by 30%.
 gui.GuiSpecialization.id.career_exclusive.3.Ranger=Light Archery
-
 gui.GuiSpecialization.lore.career_exclusive.3.Ranger=Whenever you successfully fire an arrow or successfully use any arrow skill, gain Movement Speed III effect for 3 seconds. Piercing Arrow's cooldown is reduced by 2 seconds, but its damage becomes 80% of the original. Additionally, Piercing Arrow increases final damage% by 20% against non-BOSS targets. Furthermore, when chaining into Piercing Arrow through United as One, the damage is not reduced and is instead increased to 110% of the original damage.
 gui.GuiSpecialization.id.career_exclusive.2.Ranger=Rapid Charge
 gui.GuiSpecialization.lore.career_exclusive.2.Ranger=Enhances Charge Shot; the time required for stacking Charge Shot effects is reduced by 30%.
 gui.GuiSpecialization.id.career_exclusive.1.Ranger=Protective Shot
 gui.GuiSpecialization.lore.career_exclusive.1.Ranger=While in bow-drawing state, damage taken is reduced by 30%.
-
 A100_FrostCurse=Frost Curse
 A101_MagicAbsorption=Magic Rhythm
 A102_FlameBall=Flame Ball
 A103_MagicArrow=Magic Arrow
 A104_MagicShield=Magic Shield
 A105_ManaMastery=Mana Mastery
-
 A200_DestroyMagic=Magic Storage
 A201_IcicleCombo=Icicle Combo
 A202_ElementExplosion=Elemental Explosion
 A203_InfiniteMagic=Infinite Magic
 A206_ThunderStorm=Thunderstorm
-
 A300_MasterMagician=Master Magician
 A301_AnnihilationBeam=Annihilation Beam
 A302_InfernalFireRain=Infernal Fire Rain
 A303_ThunderboltBall=Thunderbolt Ball
 A304_ForbiddenGrimoire=Forbidden Grimoire
 A306_GlacierHell=Glacier Hell
-
 A100_FrostCurse.lore=Harness the power of bitter cold to summon a frost magic circle beneath your feet. Whenever any target is nearby, it inflicts movement slow and freeze effects on the target while dealing damage. Frost Curse can only be used while on the ground. Press %KEY%WK% while holding a staff to activate.
 A101_MagicAbsorption.lore=Focus your mind and release all the magic power contained within your body, restoring all MP for all nearby players and yourself, and granting yourself the Magic Rhythm effect, increasing damage% by 50%. Additionally, while the Magic Rhythm effect is active, using normal staff attack magic only consumes 30% of MP. Press %KEY%WK% while crouching with a staff to activate.
 A102_FlameBall.lore=Invoke the flame incantation to summon multiple fire balls that assault the target, dealing damage to distant targets. Upon hitting a target, ignites flame magic dealing area damage. Each time Flame Ball is used, grants yourself the Flame effect, increasing damage% by 50%.
 A103_MagicArrow.lore=Deploy a magic barrage, continuously summoning multiple guided magic arrows that chase the target, dealing damage to distant targets. Simultaneously applies the Magic Arrow effect to the target, increasing damage taken by 10%.
 A104_MagicShield.lore=Summon protective magic, deploying a defensive magic shield and infusing magic power into armor, granting yourself and nearby players the Magic Shield effect, increasing class amplification% by 10% and defense by 100.
 A105_ManaMastery.lore=Dedicate yourself to studying the most profound spells and mastering staff control techniques. Increases final damage% by 10%, increases damage% by 50%, increases max MP by 1000, and grants knockback resistance.
-
 A200_DestroyMagic.lore=Through years of magic training, comprehend the true essence of magic. Increases max MP by 1000. Every 5 seconds, gain one layer of the Magic Storage effect. Each layer increases final damage% by 2% and damage% by 20%. When taking damage other than chaotic damage or percentage-based HP loss, lose one layer of the Magic Storage effect and reduce damage taken by 50%. Additionally, when the Magic Storage effect reaches its maximum of 5 layers, the upper limit of Mana Storm count is increased by one.
 A201_IcicleCombo.lore=Harness the power of glaciers to summon an ice storm, targeting an enemy and raining down countless ice pillars upon them, dealing damage to distant targets. During the Icicle Combo duration, the staff's attack mode is replaced; continuously using the staff allows chain casting.
 A202_ElementExplosion.lore=Deploy a magic barrage, firing a wave of elemental magic orbs that assault the target, dealing damage to distant targets. Upon hitting the target, sequentially deals area damage using fire, water, ice, darkness, and nature elements.
 A203_InfiniteMagic.lore=Focus your mind in meditation to unleash the true power of the magic within, granting all nearby players and yourself the Infinite Magic effect, increasing class amplification% by 10%, and skills no longer consume MP when cast. While the Infinite Magic effect is active, Icicle Combo will instead summon giant ice pillars, increasing Icicle Combo damage% by 10%; Elemental Explosion will fire two additional magic orb barrages; Magic Arrow gains 4 additional attack hits; and Flame Ball gains 1 additional attack hit.
 A206_ThunderStorm.lore=Chant the incantation of ten thousand thunders. When the chant concludes, lightning strikes from the heavens as thunderbolts rain down. Fires a lightning magic orb that assaults the target, dealing damage to distant targets. Upon hit, invokes lightning magic, summoning a massive lightning magic circle above the target that calls down countless lightning bolts at extreme speed during its duration, dealing area damage and applying the Forbidden Thunder effect to the target, increasing damage taken by 20%.
-
 A300_MasterMagician.lore=Through meticulous research, master the most elite arcane techniques. Increases max MP by 2000 and final damage% by 20%. When Magic Storage accumulates to 5 layers, Icicle Combo deals an additional 50% damage, and Annihilation Beam deals an extra hit of damage. Additionally, Frost Curse permanently deals 300% damage.
 A301_AnnihilationBeam.lore=Condense highly compressed pure magic power and continuously release a devastating magic beam forward, dealing damage to distant targets. During the Annihilation Beam duration, the staff's attack mode is replaced; continuously using the staff allows chain casting. Additionally, it deals extra true magic damage. Annihilation Beam cannot be used simultaneously with Icicle Combo.
 A302_InfernalFireRain.lore=Summon a powerful flame incantation to bombard all targets within range with endless purgatory fireballs, dealing damage to distant targets.
 A303_ThunderboltBall.lore=Activate lightning magic and condense it into a protective lightning orb, summoning lightning orbs that orbit around yourself. Grants all nearby players and yourself the Electric Shield effect, increasing class amplification% by 10%, final damage% by 10%, and defense by 120. The lightning orbs deal damage to targets upon collision.
 A304_ForbiddenGrimoire.lore=Unleash magic theories once deemed dangerous and even sealed away. Gain 1 Arcane Inscription point per level, and increase damage% by 10% per level.
-
 A306_GlacierHell.lore=Channels the ultimate magic of extreme cold, condensing the power of frost into countless destructive ice projectiles. Upon impact, they create frost tornadoes that deal damage to distant targets. Countless ice spheres rain down on all targets within the area of effect. The frost tornadoes attract nearby monsters, and massive ice pillars inflict slow on all nearby targets.
-
 gui.GuiSpecialization.id.career_exclusive.0.Wizard=Magical Defense
 gui.GuiSpecialization.lore.career_exclusive.0.Wizard=When taking damage, consumes 300 MP to reduce damage taken by 15%.
 gui.GuiSpecialization.id.career_exclusive.3.Wizard=Mana Overload
@@ -306,33 +271,28 @@ gui.GuiSpecialization.id.career_exclusive.2.Wizard=Enhanced Storage
 gui.GuiSpecialization.lore.career_exclusive.2.Wizard=Magic Storage layer accumulation time is increased by 2 seconds. When consuming layers, all damage can be blocked.
 gui.GuiSpecialization.id.career_exclusive.1.Wizard=High-Speed Storage
 gui.GuiSpecialization.lore.career_exclusive.1.Wizard=Magic Storage layer accumulation time is reduced by 2 seconds. When consuming layers, damage blocked is halved.
-
 A100_Thrust=Thrust Technique
 A101_PoisonDagger=Dagger style: Flying Poison Blade
 A102_ChainDarts=Assassin style: Chain Darts
 A103_StrongLightningStrike=Ninja style: Strong Lightning Strike
 A104_Phagocytosis=Blood Devouring Technique
 A105_Trinity=Trinity
-
 A200_NightContract=Night Contract
 A201_DaggerSwordDance=Assassin style: Dagger Sword Dance
 A202_Crosscut=Dagger style: Cross Slash
 A203_PutAlloneEggsInOneBasket=All or Nothing
 A206_BladeMaze=Ninja style: Blade Maze
-
 A100_Thrust.lore=By rapidly stomping the ground in a short period of time, greatly increases movement speed and thrusts forward at considerable speed, or leaps to a high point. Simultaneously grants yourself the Thrust effect, increasing damage% by 50%. Press right-click while holding a dagger to activate.
 A101_PoisonDagger.lore=Throws a kunai coated with deadly poison, dealing damage to distant targets. Simultaneously applies movement slow and Poison Blade effect to the target, increasing damage taken by 10%, and inflicts poison damage over time on the target. Press %KEY%WK% while holding a dagger to activate.
 A102_ChainDarts.lore=Throws darts at extreme speed, overwhelming the target with sheer quantity, dealing damage to distant targets. Simultaneously applies Assassination Mark effect to the target, stacking up to five layers on the target.
 A103_StrongLightningStrike.lore=Throws darts imbued with lightning elemental power, dealing damage to distant targets. Upon hitting the target, calls down lightning, dealing area damage. Simultaneously applies Assassination Mark effect to the target, stacking up to five layers on the target.
 A104_Phagocytosis.lore=Stimulates oneself to unleash the power of the Night Agent, granting yourself and nearby players the Blood Devouring Technique effect, increasing class amplification% by 10%, and each attack restores HP equal to 4% of the damage dealt.
 A105_Trinity.lore=Through continuous study of assassination techniques and absorbing the power of the night to enhance one's abilities, increases damage% by 100%, increases final damage% by 10%, reduces gravity attack damage taken by 20%, grants knockback resistance, and grants immunity to bleeding effects when hit by gravity attacks. Night Agent skills are divided into three types: Dagger style, Assassin style, and Ninja style. When the skill type used differs from the previously used skill type, immediately restores 10% MP, reduces the cooldown of all skills except ultimate skills by 5%, and grants a special effect based on the skill type. Assassin style type reduces the cooldown of all skills except ultimate skills by 7%. Dagger style type consumes all Assassination Marks on the hit target, with each mark increasing the attack hits by 2. Ninja style type heals yourself and restores life steal slot.
-
 A200_NightContract.lore=After years of assassination training, one comprehends the true essence of the assassin, increasing damage% by 100%. During normal attacks, there is a 4% chance to instantly kill non-BOSS targets. Each time a normal attack hits an enemy, the Night Contract effect is applied to the target, increasing damage taken by 10%. When a target with the Night Contract effect is defeated, Night Contract spreads to all surrounding enemies.
 A201_DaggerSwordDance.lore=Leaps into an elegant dance while throwing daggers coated with deadly poison, dealing damage to distant targets. Applies the Deadly Poison Slash effect to the target, increasing damage taken by 10%, and applies Assassination Mark effect to the target, stacking up to five layers on the target, while also inflicting acidic damage over time on the target.
 A202_Crosscut.lore=Swings the dagger at extreme speed, carving out a cross-shaped slash, attacking all targets within the frontal area. Each time Dagger style: Cross Slash hits any target, it reduces your own life steal slot.
 A203_PutAlloneEggsInOneBasket.lore=Without considering prolonged combat, unleashes all of one's power, granting yourself and all nearby players the All or Nothing effect, increasing damage% by 50%, increasing final damage% by 10%, and increasing class amplification% by 10%. Immediately resets the cooldown of all 1st class advancement skills. Using this skill while already possessing the All or Nothing effect (regardless of cooldown) grants a second effect, Give It All, which causes you to take 40% more damage but increases final damage% by 20%. The duration of Give It All equals the remaining duration of All or Nothing.
 A206_BladeMaze.lore=Casts a powerful spell, summoning countless sharp blades in an extremely short time, dealing damage to all targets within the area. Using it in an open area summons even more blades, and each blade continuously deals damage to nearby targets.
-
 gui.GuiSpecialization.id.career_exclusive.0.Assassin=Stealth Assassination
 gui.GuiSpecialization.lore.career_exclusive.0.Assassin=When attacking a target with the Assassination Mark effect using a Dagger style skill, gains the Stealth Assassination effect for 20 seconds, reducing damage taken by 25%.
 gui.GuiSpecialization.id.career_exclusive.3.Assassin=Night Stealth
@@ -341,98 +301,82 @@ gui.GuiSpecialization.id.career_exclusive.2.Assassin=Bloody Bounty
 gui.GuiSpecialization.lore.career_exclusive.2.Assassin=Enhances Night Contract. Killing a target with Night Contract restores 10% of your own life steal slot.
 gui.GuiSpecialization.id.career_exclusive.1.Assassin=Night Assassination
 gui.GuiSpecialization.lore.career_exclusive.1.Assassin=Enhances Night Contract. Night Contract no longer spreads, but applies two layers of the effect when hitting an enemy.
-
 A100_BattleCry=Battle Cry
 A101_SlfRecovery=Self Recovery
 A102_Sacrifice=Sacrificial Art
 A103_TornadoAxe=Tornado Axe
 A104_GroundHammer=Earth-Shaking Hammer
 A105_DefenseSystem=Defense System
-
 A200_SurpriseBones=Surprise Bones
-
 A201_ShadowHammer=Shadow Hammer
 A202_FlameOfPurgatory=Flame of Purgatory
 A203_EarthPower=Earth Strength
 A206_SkyShield=Divine Sky Shield
-
 A300_ResurrectionShieldWall=Resurrection Shield Wall
 A301_InfernalChains=Infernal Chains
 A302_LightningAxe=Lightning Axe
 A303_AbyssalPrayer=Abyssal Prayer
 A304_DarkGrimoire=Dark Grimoire
 A306_GatesOfHell=Gates of Hell
-
 A100_BattleCry.lore=Let out a mighty roar, taunting all nearby monsters, dealing damage to all nearby monsters and setting their attack target to yourself. Simultaneously grants yourself the Battle Cry effect, increasing damage% by 50% and defense by 50 points. Press %KEY%WK% while holding a war hammer to activate.
 A101_SlfRecovery.lore=Assume a defensive stance. While in this state, movement speed is reduced by 50%, and a certain amount of HP is recovered per second. Each time Self Recovery ends, you gain one layer of Absolute Resistance, which can negate any damage once except chaotic damage or percentage-based HP deduction damage, up to a maximum of five layers. While in Self Recovery, no skills can be used. Cast by right-clicking with a war hammer; hold right-click to continuously cast.
 A102_Sacrifice.lore=Chant black magic to unleash tremendous power, halving your own HP and dealing damage to all nearby monsters. Simultaneously heals all nearby players, removes certain debuffs from yourself and surrounding players, and grants all nearby players 3000 temporary HP for 90 seconds. After use, grants yourself the Sacrificial Art effect, providing immunity to wounds for the duration.
 A103_TornadoAxe.lore=Infuse black magic into a flying axe, then hurl it forward with all your might, dealing damage to distant targets and increasing final damage% by 20% against non-BOSS creatures. The Tornado Axe will automatically switch targets after hitting and bounce multiple times between multiple targets. Each time the Tornado Axe hits a target, it grants yourself and nearby players the Dark Slash effect, increasing damage% by 50%, final damage% by 10%, and class amplification% by 10%.
 A104_GroundHammer.lore=Violently hammer the ground, causing several boulders to rise, capable of attacking multiple targets and dealing damage in a line, as well as dealing damage to distant targets. While the boulders persist, they attract surrounding monsters and continuously deal damage. Earth-Shaking Hammer deals an additional 30% final damage% to non-BOSS creatures.
 A105_DefenseSystem.lore=Through continuously enduring pain and tempering yourself, awaken the latent power within your body, increasing damage% by 50%, final damage% by 10%, reducing gravity attack damage taken by 20%, gaining knockback resistance, and becoming immune to bleeding effects when hit by gravity attacks. When taking any damage, if HP is below 70%, damage taken is reduced by 30%.
-
 A200_SurpriseBones.lore=Through years of perseverance training, your body's structure becomes as solid as an iron fortress, increasing defense by 300 points, damage% by 50%, and final damage% by 10%. When receiving lethal damage, you gain 3 seconds of invincible effect and recover all HP while clearing all life steal slots. Additionally, the Self Recovery skill's healing amount is increased by 50%.
 A201_ShadowHammer.lore=Call upon the power of darkness to fire a dark magic orb, dealing damage to distant targets. After the dark magic orb hits a target, a Shadow Hammer descends, attracting nearby monsters while dealing area damage. Shadow Hammer deals an additional 30% final damage% to non-BOSS creatures.
 A202_FlameOfPurgatory.lore=Condense the power of flame and simultaneously fire deadly lava capable of tearing apart targets in multiple directions, dealing damage to distant targets and inflicting a destructive damage-over-time effect on targets. Simultaneously applies movement slow and Purgatory effect to targets, increasing damage taken by 50%.
 A203_EarthPower.lore=Chant complex earth magic to protect yourself and your teammates, granting yourself and nearby players the Earth Strength effect, increasing damage% by 50% and class amplification% by 10%. When receiving lethal damage, the effect can be consumed to negate the damage.
 A206_SkyShield.lore=Focus your mind completely, utilizing extremely powerful willpower to unleash the true power of the Knight, granting yourself and nearby players the Divine Sky Shield effect, increasing damage% by 50%, reducing damage taken by 50%, increasing defense by 300 points, dealing damage to all nearby monsters, and granting yourself a 30-second invincible effect.
-
 A300_ResurrectionShieldWall.lore=Infuse a curse into your armor, granting it the ability to self-repair and greatly enhancing its protective capabilities, reducing damage taken by 10%, increasing defense by 200 points, increasing final damage% by 20%, increasing max life steal slots by 100%. Enhances the Battle Cry skill so that it now grants the Battle Cry effect to all nearby players, and provides an additional layer of Battle Cry effect, increasing damage% by 20%.
 A301_InfernalChains.lore=Invoke a purgatory curse, summoning multiple chains that pierce through the ground to imprison struck targets, dealing damage to distant targets and applying an imprisonment effect that increases damage taken by 50%. Simultaneously applies a movement slow effect to targets, rendering them unable to move, and deals additional true physical damage to targets.
 A302_LightningAxe.lore=Hurl a powerful Lightning Axe that, upon hitting a target, summons a Thunder Ring to paralyze the target, dealing damage to distant targets. The Lightning Axe generates a Thunder Ring upon impact, attracting nearby monsters while dealing area damage. When the Thunder Ring dissipates, it produces additional explosion damage and inflicts a thunder damage-over-time effect on targets.
 A303_AbyssalPrayer.lore=Unleash a powerful dark curse, sacrificing your own power to strengthen all surrounding teammates, granting yourself and all nearby players the Abyssal Prayer effect, increasing damage% by 60%, class amplification% by 10%, and final damage% by 10%. Heals all nearby players and grants all nearby players 6000 temporary HP for 120 seconds, while halving your own HP and applying an incurable effect to yourself.
 A304_DarkGrimoire.lore=Study the supreme dark curses and master the powerful magic of manipulating darkness. Gain 1 Arcane Inscription point per level and increase damage% by 10% per level.
 A306_GatesOfHell.lore=Strike the ground with all your might, summoning powerful purgatory flames to incinerate everything, dealing damage to distant targets. Summons the Gates of Hell, igniting fierce flames that burn all nearby targets and inflicting a hellfire damage-over-time effect on targets. Simultaneously generates a large-area shockwave that attacks all targets within range, and randomly fires Flame of Purgatory projectiles at nearby areas to deal additional damage.
-
 gui.GuiSpecialization.id.career_exclusive.0.Knight=Unyielding Fortitude
 gui.GuiSpecialization.lore.career_exclusive.0.Knight=Final damage% reduced by 25%, damage reduction% increased by 25%.
-
 gui.GuiSpecialization.id.career_exclusive.3.Knight=Earth-Shaking Strike
 gui.GuiSpecialization.lore.career_exclusive.3.Knight=Normal attacks deal area damage and deal an additional 30% damage to non-BOSS targets.
 gui.GuiSpecialization.id.career_exclusive.2.Knight=Heart of Courage
 gui.GuiSpecialization.lore.career_exclusive.2.Knight=Enhances Divine Sky Shield. Divine Sky Shield no longer grants yourself the invincible effect, but instead grants all nearby players a 10-second invincible effect.
 gui.GuiSpecialization.id.career_exclusive.1.Knight=Tainted Blood
 gui.GuiSpecialization.lore.career_exclusive.1.Knight=Enhances Sacrificial Art. Sacrificial Art now instantly kills non-BOSS targets whose HP is below 25%.
-
 A100_Healing=Healing Light
 A101_FightingSpirit=Fighting Spirit
 A102_Shengguangya=Holy Light Arrow
 A103_HolyPrayer=Holy Prayer
 A104_HealingFountain=Healing Fountain
 A105_HolyHealingScriptures=Holy Scriptures
-
 A200_HolyLightBurning=Holy Light Burning
 A201_BrilliantHit=Brilliant Strike
 A202_SacredField=Sacred Field
 A203_HolyArrow=Holy Imprint
 A206_DoorOfTruth=Door of Truth
-
 A300_HolyLightOath=Holy Light Oath
 A301_CelestialSanction=Aether Sanction
 A302_AegisTheGods=Divine Shield Protection
 A303_PeaceOfTheLight=Light of Peace
 A304_LightFaith=Faith of Light
 A306_GloriousCentury=Glorious Century
-
 A100_Healing.lore=Channel the positive power of light through incantation, healing yourself and all nearby players. The Priest's class level affects the healing amount. Simultaneously deals damage to all nearby monsters. Healing Light deals an additional 250% damage to non-BOSS monsters. Healing Light also heals all nearby players; the more healing targets there are, the more the cooldown of Healing Light is reduced. However, if there are no healing targets nearby, the cooldown of Healing Light is reduced by 50%. Activate by holding a spellbook, crouching, and pressing right-click.
 A101_FightingSpirit.lore=Chant a fierce holy light incantation to unleash latent power, granting yourself and nearby players the Fighting Spirit effect, increasing damage% by 50%, increasing final damage% by 10%, increasing class amplification% by 10%, and increasing class experience gained by 25%. Activate by pressing %KEY%WK% while holding a spellbook.
 A102_Shengguangya.lore=Unfold wings of light and fire magic arrows imbued with holy light at targets. Each arrow can pierce through one enemy, dealing damage to two targets. Each time Holy Light Arrow hits a target, it restores 10% of your MP. Holy Light Arrow deals an additional 50% damage to non-BOSS creatures.
 A103_HolyPrayer.lore=Devoutly pray to the sky, bringing down sacred radiance, healing yourself and all nearby players, and removing some negative status effects from yourself and surrounding players. Simultaneously deals damage to all nearby monsters. Holy Prayer deals an additional 50% damage to non-BOSS creatures. When casting Holy Prayer, a Holy Light Guardian Dragon is summoned to assist in combat. Only one Holy Light Guardian Dragon can exist at a time.
 A104_HealingFountain.lore=Summon a Healing Fountain beside you using a powerful light enchantment. The Healing Fountain continuously heals yourself and all nearby players, and replenishes life steal slot. Only one Healing Fountain can exist at a time.
 A105_HolyHealingScriptures.lore=Read the scriptures to strengthen your communion with holy light. Increases damage% by 50%, increases final damage% by 10%, increases max MP by 1000 points, and grants knockback resistance. Whenever you perform a normal attack and there are teammates nearby, grants yourself and all nearby teammates the Holy Scriptures effect. Each layer grants 8% experience bonus. The maintained layers of Holy Scriptures equal the number of players in the vicinity including yourself, up to a maximum of 5 layers. However, when there are no other players nearby, you will receive at least 3 layers of the Holy Scriptures effect.
-
 A200_HolyLightBurning.lore=Reverse holy light magic, converting energy into deadly Holy Light Burning. Increases damage% by 50%, and each time a normal attack hits, there is a 50% chance to reduce the cooldown of Holy Light Arrow or Holy Prayer by 1 second, and inflicts a holy damage-over-time effect on the target. Enhances the effect of Healing Light: increases the area of effect by 3 blocks, increases damage% by 125%, and Healing Light heals for double the healing amount. Enhances the effect of Holy Scriptures: increases the maximum layers of Holy Scriptures by 1. Additionally enhances Healing Fountain: Healing Fountain grants all nearby players the Pure Fountain effect, increasing class experience gained by 15%, increasing class amplification% by 5%, and increasing skill cooldown speed by an additional 5%.
 A201_BrilliantHit.lore=Call upon sacred radiance from the sky, bringing down light of judgment directly ahead, capable of hitting multiple targets and dealing damage in a line, as well as dealing damage to distant targets. Simultaneously applies the Holy Illumination effect to targets, increasing damage taken by 30%. Each time Brilliant Strike hits a target, it grants nearby players 1200 temporary HP for 90 seconds. Brilliant Strike executes non-BOSS creatures whose HP is below 15%.
 A202_SacredField.lore=Release condensed holy light power to form a sacred force field protected by holy light. Summons a holy light magic circle beside you, continuously granting yourself and nearby players the Sacred Field effect, increasing damage% by 50%, and each attack restores HP equal to 4% of the damage dealt. Sacred Field also continuously removes silence effects from yourself and nearby players.
 A203_HolyArrow.lore=Channel the power of light to fire a sacred arrow forward, dealing damage to distant targets and applying Holy Imprint to hit targets. Enemies bearing Holy Imprint are continuously attacked by holy light orbs. If a target dies while bearing the imprint and there are other targets nearby, the imprint retains its remaining duration and transfers to another nearby target.
 A206_DoorOfTruth.lore=Unfold a sacred incantation and chant the most powerful magic of holy light power, opening the Door of Truth. Heals yourself and all nearby players, and removes some negative status effects from yourself and surrounding players. Simultaneously grants yourself and nearby players the Door of Truth effect, increasing damage% by 50%, increasing final damage% by 10%, and increasing class amplification% by 10%. When a player casts Door of Truth and there are critically downed players nearby, it immediately revives those players regardless of whether they have a crippled status. After casting Door of Truth, all nearby players are additionally granted a 20-second invincible effect. When this invincible effect ends, the target's HP is fully healed, all life steal slot is replenished, and all MP is restored.
-
 A300_HolyLightOath.lore=Pray to the sky, invoking the power of holy light to protect yourself and nearby teammates. Increases max MP by 2000, increases final damage% by 20%, increases recovery% by 50%, and grants the class resource Miracle Points. Each time Healing Light is used, 1 Miracle Point is gained, up to a maximum of 10 Miracle Points. Enhances the Holy Light Arrow skill, increasing attack hits by 5 and adding 3 points of action speed.
 A301_CelestialSanction.lore=Chant a holy judgment from the Aether, calling down sacred lightning to deal a devastating blow to the target. Summons lightning and holy light sanctions, and upon dissipation, summons magic orbs to attack all targets within range, dealing damage to distant targets and applying the Celestial Sanction effect, reducing the target's monster defense by 5. Celestial Sanction deals an additional 50% damage to non-BOSS creatures. If cast while sneaking, consumes 1 Miracle Point, and the lightning summoned by Celestial Sanction will be able to execute non-BOSS creatures with HP below 40%.
 A302_AegisTheGods.lore=Invoke the Aegis magic, sending a surge of powerful positive energy to nearby teammates. Instantly heals yourself and all nearby players, while granting temporary HP and 10 layers of Aegis Protection to teammates. While this effect is active, whenever damage other than chaotic damage or absolute damage is received, the damage is negated and a layer of Aegis Protection is consumed. If cast while sneaking, consumes 5 Miracle Points, and the layers granted by Aegis Protection increase to 15.
 A303_PeaceOfTheLight.lore=Chant a blessing spell, summoning the light of prayer to protect nearby teammates. Grants yourself and all nearby players the Light of Peace effect, increasing class experience gained by 30%, increasing damage% by 100%, increasing defense by 120, increasing class amplification% by 10%, increasing additional skill cooldown speed by 5%, and simultaneously summoning a Peace Aura that surrounds you. The Peace Aura continuously heals yourself and all nearby players. Even when a player has an unhealable status, it can still heal for 30% effectiveness, and it accelerates the cooldown of the Healing Light skill. If cast while sneaking, consumes 5 Miracle Points, additionally increasing class amplification% by 10% and additional skill cooldown speed by 5%.
 A304_LightFaith.lore=Carefully study the holy Faith of Light, learning each sacred chapter. Gain 1 Mage Rune per level, and increase damage% by 10% per level.
 A306_GloriousCentury.lore=Chant the supreme holy light magic, deploying an invincible and powerful formation. Summons a Glorious Magic Circle and Glorious Crystal. The Glorious Magic Circle continuously heals yourself and all nearby players, while continuously removing crippling effects from players. Even if previously severely injured, the crippling status can still be removed. Meanwhile, the Glorious Crystal fires magic orbs and lightning to attack random nearby targets. If cast while sneaking, consumes 10 Miracle Points, and Glorious Century deals 150% damage.
-
 gui.GuiSpecialization.id.career_exclusive.0.Priest=Fountain of the Soul
 gui.GuiSpecialization.lore.career_exclusive.0.Priest=Enhances Healing Fountain, reducing cooldown and duration by 35%.
 gui.GuiSpecialization.id.career_exclusive.3.Priest=Fountain of Devotion
@@ -441,75 +385,64 @@ gui.GuiSpecialization.id.career_exclusive.2.Priest=Gospel Delivery
 gui.GuiSpecialization.lore.career_exclusive.2.Priest=Increases the maximum layers of the Holy Scriptures effect by 1.
 gui.GuiSpecialization.id.career_exclusive.1.Priest=Holy Light Judgment
 gui.GuiSpecialization.lore.career_exclusive.1.Priest=Enhances the Holy Light Burning effect. Normal attacks deal additional area damage, and deal an additional 30% damage to non-BOSS targets.
-
 A100_DemonWorldCall=Demon World Summon
 A101_Recall=Demon World Recall
 A102_Obsessed=Obsessed
 A103_Resurrection=Resurrection Art
 A104_ShadowAllay=Shadow Allay
 A105_FlameOfLife=Sacred Flame of Life
-
 A200_SoulDrop=Soul Drop
 A201_GuidingArrow=Guiding Arrow
 A202_HolyBeastGuardian=Holy Beast Guardian
 A203_MagicMissile=Magic Missile
 A206_OathDragon=Oath Dragon
-
 A100_DemonWorldCall.lore=Chant a magic spell, opening a portal to the Demon World, summoning your own summon to your side for a period of time. If Demon World Summon is used while a summon is still active, the old summon will disappear. Press %KEY%WK% while holding a scythe to activate.
 A101_Recall.lore=Chant a magic spell, granting the Summoner movement speed and recovery effects, while calling all nearby summons back to your side and resetting the attack targets of all nearby summons. Press %KEY%WK% while sneaking with a scythe to activate.
 A102_Obsessed.lore=Infuse yourself with mysterious magic from the Demon World to unleash the true power of your summons. Fully restores your MP and grants yourself and nearby players the Obsessed effect, increasing damage% by 50%, increasing class amplification% by 10%, and increasing ignore monster defense by 5.
 A103_Resurrection.lore=Chant a return spell, releasing the souls of your summons. Triggers a mana explosion near all of your Demon World Summon summons, attacking all targets within range while consuming those summons. For each summon consumed, heals yourself and restores 30% of your MP.
 A104_ShadowAllay.lore=Summons several Shadow Allays. Shadow Allays continuously seek nearby targets, and upon hitting a target, they explode dealing area damage, dealing an additional 30% damage to non-BOSS targets, and applying a Magic Break effect to the target, increasing damage taken by 20%. If there are no nearby targets, they will continue moving forward until a target is found. Shadow Allays self-destruct when their duration expires.
 A105_FlameOfLife.lore=Through careful study of the power of fire, learn the flame of life that can ignite hope. Increases damage% by 50%, increases final damage% by 10%, increases max MP by 1000, and grants knockback resistance. Whenever a normal attack hits a target, heals yourself and applies a burn damage over time effect to the target. Summons Wind Serpent, Shadow Wolf, Spirit Cat, Ice Dragon, Fire Fox, and Demon Scorpion will gain 1 layer of Beast Summon effect every two seconds. Each layer of Beast Summon effect increases their normal attack and skill damage by 2%, up to a maximum of 60 layers.
-
 A200_SoulDrop.lore=Feel the soul rhythm from your summons and establish a stronger bond. Increases summon damage% by 40%, increases summon HP by 200%, increases damage% by 100%, increases final damage% by 10%. When receiving fatal damage, a nearby summon of your own will take the hit instead. The substituting summon will disappear, but this effect does not apply to Fire Phoenix or Oath Dragon. When a summoned Wind Serpent, Shadow Wolf, Spirit Cat, Ice Dragon, Fire Fox, or Demon Scorpion dies, the Summoner gains one layer of Soul Drop effect. When Soul Drop effect reaches five layers, the effect is cleared, and the Summoner's and all nearby players' HP is restored.
 A201_GuidingArrow.lore=Unleash a magic barrage, firing a magic-infused arrow straight ahead, dealing damage to distant targets. After Guiding Arrow hits a target, it commands all nearby summons to attack that target, designates the tracking target for Magic Missile, and applies a guiding effect to the target, increasing damage taken by 20%. The guiding arrow inflicts a shock damage-over-time effect on the target.
 A202_HolyBeastGuardian.lore=Chant a magic incantation to summon the holy beast Fire Phoenix with sacred power. The Fire Phoenix will assist the Summoner in attacking while simultaneously casting a healing aura to heal all nearby players. When casting Holy Beast Guardian, grants the Prayer of Fire effect to yourself and nearby players, increasing damage% by 50% and class amplification% by 10%.
 A203_MagicMissile.lore=Invoke a violent magic windstorm, summoning countless magic orbs to bombard the target with overwhelming numbers, dealing damage to distant targets. If a target previously hit by Guiding Arrow still exists, Magic Missile will track that target. Additionally, Magic Missile deals double damage to targets affected by the Magic Break effect.
 A206_OathDragon.lore=Chant an advanced incantation to open a gate to another dimension and summon the Oath Dragon to assist. The Oath Dragon will assist the Summoner in attacking and grant the Summoner the Dragon's Prayer effect, increasing damage% by 100% and reducing damage taken by 30%. The Oath Dragon also continuously applies a Recovery Block effect to all hostile targets within range, negating all HP regeneration effects on the targets.
-
 item.ItemCareerSummonEgg.0.name=Albino Wind Serpent soul Egg
 item.ItemCareerSummonEgg.1.name=Melanistic Wind Serpent soul Egg
 item.ItemCareerSummonEgg.2.name=Lava Wind Serpent soul Egg
 item.ItemCareerSummonEgg.0.lore=Increases Wind Serpent's Neutralizing Scale Powder healing amount by 50%
 item.ItemCareerSummonEgg.1.lore=Increases Wind Serpent's ranged attack power by 20%
 item.ItemCareerSummonEgg.2.lore=Increases Wind Serpent's HP by 100%, attack power by 10%, and level by 10
-
 item.ItemCareerSummonEgg.3.name=Flame Ice Dragon soul Egg
 item.ItemCareerSummonEgg.4.name=Albino Ice Dragon soul Egg
 item.ItemCareerSummonEgg.5.name=Emerald Ice Dragon soul Egg
 item.ItemCareerSummonEgg.3.lore=Increases Ice Dragon's ranged attack power by 20%
 item.ItemCareerSummonEgg.4.lore=Increases Ice Dragon's Mana Stimulation and Slow effect level by 2
 item.ItemCareerSummonEgg.5.lore=Increases Ice Dragon's HP by 50%, attack power by 10%, and level by 10
-
 item.ItemCareerSummonEgg.6.name=Frost Shadow Wolf soul Egg
 item.ItemCareerSummonEgg.7.name=Storm Shadow Wolf soul Egg
 item.ItemCareerSummonEgg.8.name=Demonized Shadow Wolf soul Egg
 item.ItemCareerSummonEgg.6.lore=Shadow Wolf's melee attacks apply a Slow effect to the target, lasting 5 seconds
 item.ItemCareerSummonEgg.7.lore=Increases Shadow Wolf's melee attack speed by 20%
 item.ItemCareerSummonEgg.8.lore=Increases Shadow Wolf's HP by 50%, attack power by 10%, and level by 10
-
 item.ItemCareerSummonEgg.9.name=Light Fire Fox soul Egg
 item.ItemCareerSummonEgg.10.name=Storm Fire Fox soul Egg
 item.ItemCareerSummonEgg.11.name=Crimson Fire Fox soul Egg
 item.ItemCareerSummonEgg.9.lore=Increases Fire Fox's Flame Meteor attack damage by 20%
 item.ItemCareerSummonEgg.10.lore=Increases Fire Fox's melee attack speed by 20%
 item.ItemCareerSummonEgg.11.lore=Increases Fire Fox's HP by 50%, attack power by 10%, and level by 10
-
 item.ItemCareerSummonEgg.12.name=Flame Demon Scorpion soul Egg
 item.ItemCareerSummonEgg.13.name=Frost Demon Scorpion soul Egg
 item.ItemCareerSummonEgg.14.name=Purple Gold Demon Scorpion soul Egg
 item.ItemCareerSummonEgg.12.lore=Increases Demon Scorpion's taunt spell duration by 5 seconds
 item.ItemCareerSummonEgg.13.lore=Reduces Demon Scorpion's damage taken by 25%
 item.ItemCareerSummonEgg.14.lore=Increases Demon Scorpion's HP by 50%, attack power by 10%, and level by 10
-
 item.ItemCareerSummonEgg.15.name=White Gold Spirit Cat soul Egg
 item.ItemCareerSummonEgg.16.name=Dark Spirit Cat soul Egg
 item.ItemCareerSummonEgg.17.name=Blue Gold Spirit Cat soul Egg
 item.ItemCareerSummonEgg.15.lore=Increases Spirit Cat's melee attack speed by 20%
 item.ItemCareerSummonEgg.16.lore=Increases Spirit Cat's Ray of Light attack power by 20%
 item.ItemCareerSummonEgg.17.lore=Increases Spirit Cat's HP by 50%, attack power by 10%, and level by 10
-
 GuiItemSickle.summon.effect1.tile.0=Lightning Magic Circle
 GuiItemSickle.summon.effect1.0=Casts lightning magic, inflicting a Paralysis effect on nearby targets for 10 seconds, and fires lightning magic orbs with area damage
 GuiItemSickle.summon.effect1.tile.1=Frost Magic Circle
@@ -522,7 +455,6 @@ GuiItemSickle.summon.effect1.tile.4=Hard Shell Armor
 GuiItemSickle.summon.effect1.4=Reduces damage taken by self by 50%
 GuiItemSickle.summon.effect1.tile.5=Blood-Devouring Fangs
 GuiItemSickle.summon.effect1.5=Absorbs 20% of melee attack damage as HP and returns it to the Summoner
-
 GuiItemSickle.summon.effect2.tile.0=Neutralizing Scale Powder
 GuiItemSickle.summon.effect2.0=Releases Neutralizing Scale Powder to heal the Summoner and nearby summons for 2000 HP
 GuiItemSickle.summon.effect2.tile.1=Magic Stimulation
@@ -530,13 +462,11 @@ GuiItemSickle.summon.effect2.1=Casts Magic Stimulation effect, increasing the Su
 GuiItemSickle.summon.effect2.tile.2=Battle Roar
 GuiItemSickle.summon.effect2.2=Casts Battle Roar effect, increasing the Summoner's attack power for 60 seconds
 GuiItemSickle.summon.effect2.tile.3=Flame Meteor
-
 GuiItemSickle.summon.effect2.3=Launches a flame meteor at the target monster, dealing magic attack fire-attribute explosion damage
 GuiItemSickle.summon.effect2.tile.4=Shadow Taunt
 GuiItemSickle.summon.effect2.4=Casts a shadow shield effect, increasing the Summoner's defense, lasting 60 seconds, and attracting nearby monsters to attack itself for 15 seconds
 GuiItemSickle.summon.effect2.tile.5=Ray of Light
 GuiItemSickle.summon.effect2.5=Fires a Ray of Light at multiple targets, dealing magic attack light-attribute holy damage
-
 gui.GuiSpecialization.id.career_exclusive.0.Summoner=Fire Soul Diffusion
 gui.GuiSpecialization.lore.career_exclusive.0.Summoner=Enhances Sacred Flame of Life. The damage over time effect caused by normal attacks is reduced by 30%, but after a normal attack hits a target, the same damage over time effect will be applied to all nearby targets.
 gui.GuiSpecialization.id.career_exclusive.3.Summoner=Blade Allay
@@ -545,34 +475,28 @@ gui.GuiSpecialization.id.career_exclusive.2.Summoner=Fire of Nirvana
 gui.GuiSpecialization.lore.career_exclusive.2.Summoner=Enhances Holy Beast Guardian. The fire phoenix summoned by Holy Beast Guardian no longer has a healing aura, but continuously deals double damage to all targets within a 6-block range.
 gui.GuiSpecialization.id.career_exclusive.1.Summoner=Allay Regeneration
 gui.GuiSpecialization.lore.career_exclusive.1.Summoner=Each time a layer of Soul Drop is gained, two Shadow Allays are summoned facing directly in front of the Summoner. Additionally, when casting the Shadow Allay skill, the number of Shadow Allays summoned is increased by 2.
-
 A100_CharmCharge=Phylactery Charge
 A101_SpellRelease=Phylactery Dispel
 A102_LightningTalisman=Lightning Phylactery
 A103_NaturalMorningLight=Natural Morning Light
 A104_WindSpeedSymbol=Wind Speed Phylactery
 A105_SoulFire=Soul Fire
-
 A200_SpellMastery=Phylactery Mastery
 A201_Magician=Spirit Transfer Phylactery
 A202_ShikigamiCut=Shikigami Slash
 A203_GuardianBarrier=Guardian Barrier
 A206_StarBash=Realm of the Six Yang
-
 A100_CharmCharge.lore=Invokes runic magic to charge all nearby mana remnants. Each type of remnant has a different charge effect. Only phylactery remnants that have existed for at least one second can be charged. Press %KEY%WK% while holding a fan to activate.
 A101_SpellRelease.lore=Invokes runic magic to dispel all nearby mana remnants. Each remnant will restore 300 MP to yourself and grant the spirit Points possessed by the phylactery. Only phylactery remnants that have existed for at least one second can be dispelled. When a phylactery is dispelled and the Conjurer's MP is full, it will additionally heal the Conjurer and all nearby players, and replenish life steal slot. Press %KEY%WK% while crouching and holding a fan to activate.
 A102_LightningTalisman.lore=Casts a lightning-attribute phylactery, launching a Lightning Phylactery forward to deal damage to distant targets. Upon hitting a target, it calls down lightning, dealing area damage, and leaves behind a Lightning Phylactery remnant at the point of impact. When this remnant is charged by Phylactery Charge, it will call down lightning, dealing area damage.
 A103_NaturalMorningLight.lore=Summons a Natural Morning Light nearby using a light-attribute phylactery. Natural Morning Light continuously heals yourself and all nearby players, restores MP to all nearby players, and grants yourself and nearby players the Morning Light effect, increasing damage% by 50%, class amplification% by 10%, ignore monster defense by 5, additional skill cooldown speed by 10%. Only one Natural Morning Light area can exist at a time.
 A104_WindSpeedSymbol.lore=Casts a storm-attribute phylactery, launching multiple Wind Speed Phylacteries forward to deal damage to distant targets and apply a Wind Break effect, increasing damage taken by 10%. Wind Speed Phylactery deals an additional 55% damage to non-BOSS creatures and can pierce through targets to deal damage to targets behind them.
 A105_SoulFire.lore=Through continuous study of conjuration, one comprehends the power of the Conjurer's soul. Increases final damage% by 10%, increases max MP by 1000, and grants knockback resistance. Each time a phylactery is successfully charged, one layer of Soul Fire effect is gained, increasing damage% by 12%. Soul Fire effect can stack up to 10 layers. Each time a phylactery is successfully charged, different amounts of spirit Points are gained depending on the type of phylactery charged. When holding at least one spirit Point, a paper shikigami will be summoned periodically to randomly attack nearby monsters, dealing damage and consuming one spirit Point. Maximum of 30 spirit Points can be held.
-
 A200_SpellMastery.lore=Through meticulous study of magic and pursuit of deeper phylactery knowledge, increases final damage% by 10%, increases max spirit Points by 30. Enhances the Soul Fire effect, increasing max layers to 20, and each Phylactery Charge grants 2 layers. Enhances all Phylactery Charge effects: Holy Light Phylactery increases healing amount and life steal slot replenishment by 100%, Blazing Fire Phylactery increases explosion damage by 50%, Extreme Ice Phylactery increases slow and freeze duration by 50%, Magic Soul Phylactery increases MP recovery by 200 and spirit Points gained by 1, Lightning Phylactery increases lightning damage dealt by 150%, Earth Phylactery increases monster attraction duration by 30%, Dark Phylactery increases DOT attack damage by 100% and spirit Points gained by 2, Wind Speed Phylactery increases damage% by 20% and increases the summoning range and number of phylacteries.
 A201_Magician.lore=Invokes runic magic to summon a Charged Spirit Transfer Phylactery nearby, simultaneously granting the Conjurer a 4-second Phantom Spirit effect that reduces damage taken by 35%, but is ineffective against chaotic damage. The Charged Spirit Transfer Phylactery triggers a mana explosion after 4 seconds, dealing area damage and leaving behind a Void Spirit Transfer Phylactery. After the Void Spirit Transfer Phylactery has existed for two seconds, it can be charged and activated by casting the Spirit Transfer Phylactery skill again, dealing area damage and applying slow and freeze effects to nearby targets. The Void Spirit Transfer Phylactery exists for 30 seconds. If detonating the Void Spirit Transfer Phylactery successfully deals damage, it will heal the Conjurer and grant 30 spirit Points. If multiple triggerable Void Spirit Transfer Phylacteries exist nearby, only one will be charged.
-
 A202_ShikigamiCut.lore=Deploys a barrage barrier, firing multiple paper shikigami forward to deal damage to distant targets. After casting Shikigami Slash, you immediately gain 10 spirit Points and simultaneously apply one layer of Paper Shikigami effect to both the Conjurer and the hit targets. The Paper Shikigami effect can stack up to 5 layers. Before casting Shikigami Slash, if you already have the Paper Shikigami effect, each layer reduces the cooldown of Shikigami Slash by 10%. When casting Phylactery Charge, if targets within range have the Paper Shikigami effect, a mana explosion will be triggered on the target, dealing damage based on the number of Paper Shikigami layers, with each layer increasing damage by 20%, and removing the Paper Shikigami effect from the target. The mana explosion triggered by the Paper Shikigami effect deals an additional 100% damage to normal monsters.
 A203_GuardianBarrier.lore=Using the power of the Light Barrier, summons a Barrier Flower to stay by your side. The Barrier Flower lasts up to 5 minutes and continuously supplies the Conjurer with spirit Points, up to a maximum of 20 spirit Points. The Barrier Flower also continuously restores MP to all nearby players, restoring 250 MP each time, and grants one layer of Barrier Guardian effect. Each layer of Barrier Guardian effect increases class amplification% by 1% and ignore monster defense by 1, up to a maximum of 15 layers. When the Conjurer casts Phylactery Charge near the Barrier Flower and successfully charges a Phylactery, the Barrier Flower will simultaneously summon several mana pulses to attack nearby targets. Each successfully charged Phylactery increases the number of mana pulses. Only one Barrier Flower can exist at a time.
 A206_StarBash.lore=Unleashes the most powerful mana barrage, summoning a massive magic circle in the sky. The magic circle continuously summons meteors to attack targets within the circle and applies one layer of Paper Shikigami effect. When a meteor explodes and hits a target, it can leave a meteor crater on the ground. The meteor crater continuously burns all nearby targets, dealing 5% damage and applying a slow effect. When the magic circle disappears, it removes the Cripple and Silence effects from all nearby players. Casting Realm of the Six Yang grants all nearby players and yourself the Realm of the Six Yang effect. Each layer increases physical attack, magic attack by 20, and final damage% by 5%. The Realm of the Six Yang effect automatically gains one layer every five seconds, lasting 30 seconds.
-
 gui.GuiSpecialization.id.career_exclusive.0.Curseman=Spirit Vein Rotation
 gui.GuiSpecialization.lore.career_exclusive.0.Curseman=Enhances Natural Morning Light, reducing cooldown and duration by 35%.
 gui.GuiSpecialization.id.career_exclusive.3.Curseman=Protective Phylactery
@@ -581,7 +505,6 @@ gui.GuiSpecialization.id.career_exclusive.2.Curseman=Protection Transfer
 gui.GuiSpecialization.lore.career_exclusive.2.Curseman=After triggering a Void Spirit Transfer Phylactery explosion, gain 2 seconds of invincible.
 gui.GuiSpecialization.id.career_exclusive.1.Curseman=Spirit Flame
 gui.GuiSpecialization.lore.career_exclusive.1.Curseman=Enhances Soul Fire. When the effect reaches 20 layers, grants yourself and all nearby players temporary HP equal to class level x 70, lasting 600 seconds, with a 20-second cooldown.
-
 GuiFanFXs.name.Light=Holy Light Phylactery
 GuiFanFXs.name.Fire=Blazing Fire Phylactery
 GuiFanFXs.name.Ice=Extreme Ice Phylactery
@@ -594,33 +517,28 @@ GuiFanFXs.effect.Ice=Charge Effect: Applies slow and freeze effects to targets w
 GuiFanFXs.effect.Magic=Charge Effect: Removes Silence effects from all players within range and replenishes MP
 GuiFanFXs.effect.Earth=Charge Effect: Continuously attracts all monsters within range
 GuiFanFXs.effect.Dark=Charge Effect: Applies DOT damage to all targets within range
-
 A100_PoisonExplosion=Toxic Explosion
 A101_NeutralizeToxins=Neutralize Toxins
 A102_ScatteredArrow=Intense Poison Arrow
 A103_MistTherapy=Mist Therapy
 A104_AcidPoison=Acidic Poison
 A105_DeadlyPoisonous=Deadly Toxic
-
 A200_AncientInscription=Ancient Inscription
 A201_AncestralTotem=Ancestral Totem
 A202_BiogasPoisonousFire=Biogas Poisonous Fire
 A203_InducedPoisonNeedle=Ice Poison Arrow
 A206_ThousandsNeedles=Thousand Needles
-
 A100_PoisonExplosion.lore=Stimulate yourself to summon the power of Gu poison, activating the surrounding toxicity to deal damage to all nearby targets with the Gu Poison effect. The more layers of Gu Poison effect the target has, the higher the damage, with each layer increasing Toxic Explosion damage by an additional 20%. Press %KEY%WK% while holding a blowgun to activate.
 A101_NeutralizeToxins.lore=Deploys a magic circle and calls upon the power of herbal magic, granting yourself the Neutralize Toxins effect. While holding the Neutralize Toxins effect, each time Toxic Explosion detonates a target, you gain one layer of Neutralize Toxins effect. When the Neutralize Toxins effect accumulates to 10 layers, all Neutralize Toxins layers are consumed, restoring a certain amount of HP and life steal slot to the Shaman and nearby players. The amount of life steal slot restored equals the amount of HP restored, and removes Blindness, Hunger, Poison, and Deadly Poison effects. Press %KEY%WK% while crouching with a blowgun to activate.
 A102_ScatteredArrow.lore=Loads intense poison into arrows and fires several waves of scattered arrows forward, dealing damage to distant targets while applying the Gu Poison effect and increasing its layers. When the scattered arrows hit a target, the poison ignites, dealing area damage.
 A103_MistTherapy.lore=Using knowledge of herbalism, ignites smoke with healing properties, creating a Mist Therapy zone around you. Mist Therapy continuously heals yourself and all nearby players, and grants yourself and nearby players the Herbal Blessing effect, increasing damage% by 50%, class amplification% by 10%, and drop rate by 25%. Only one Mist Therapy zone can exist at a time.
 A104_AcidPoison.lore=Loads a small vial of deadly poison into a blowgun and sprays the poison forward at high speed, dealing damage to distant targets while applying the Gu Poison effect and increasing its layers. Additionally, Acidic Poison applies a Corruption effect to targets, increasing damage taken by 20%. Targets attacked by Acidic Poison will suffer continuous acidic damage over time.
 A105_DeadlyPoisonous.lore=Coats the blowgun with the venom of a giant serpent from the rainforest, delivering a lethal strike to enemies. Increases final damage% by 10%, increases damage% by 50%, and grants knockback resistance. When normal attacks hit a target, applies a slow effect to the target and inflicts a painful damage over time effect.
-
 A200_AncientInscription.lore=By studying ancient inscriptions to enhance your own abilities, increases final damage% by 10%, increases damage% by 100%, enhances Toxic Explosion, increasing damage per layer of toxic effect by 30%, and when normal attacks hit a target, there is a 15% chance to immediately reset the cooldown of Intense Poison Arrow and Acidic Poison. Additionally, when attacking, the more status effects the target has, the more damage is dealt, with each status effect increasing damage% by 20%.
 A201_AncestralTotem.lore=Calls upon primal power to summon an Ancestral Totem nearby. The Ancestral Totem will continuously fire mana pulses to attack nearby targets, dealing ranged damage, and grants the Shaman and nearby players the Ancestral Cry effect, increasing damage% by 100% and class amplification% by 10%. Only one Ancestral Totem can exist at a time.
 A202_BiogasPoisonousFire.lore=Infuses fire magic into the blowgun, spraying fierce flames in a fan-shaped area ahead, dealing ranged damage and inflicting a disease damage over time effect on targets. If an Ancestral Totem exists nearby when casting Biogas Poisonous Fire, the Ancestral Totem will continuously summon fireballs to attack nearby targets. Biogas Poisonous Fire applies the Poison Swamp effect to targets, increasing damage taken by 50% and reducing Tenacity defense by 5%.
 A203_InducedPoisonNeedle.lore=Infuses ice magic into the blowgun, firing a frost-imbued arrow forward, dealing ranged damage and applying a movement slow effect to the target, while also inflicting a freezing damage over time effect. If an Ancestral Totem exists nearby when the ice arrow hits a target, the Ancestral Totem will continuously summon multiple ice spikes to attack that target.
 A206_ThousandsNeedles.lore=Calls upon ancient power, using a powerful incantation to summon an Ancestral Spirit Totem nearby. The Ancestral Spirit Totem will rain down millions of needles at extreme speed, dealing area damage, while also applying a Poison Kill effect to targets, increasing damage taken by 50% and reducing target's monster defense by 10 points.
-
 gui.GuiSpecialization.id.career_exclusive.0.BlowingArrows=Multiple Mutation
 gui.GuiSpecialization.lore.career_exclusive.0.BlowingArrows=Enhances Deadly Toxic. When a normal attack hits a target that has at least three different damage over time effects, the damage over time dealt by Deadly Toxic is increased by 50% attack power.
 gui.GuiSpecialization.id.career_exclusive.3.BlowingArrows=Splitting Deadly Toxic
@@ -629,27 +547,23 @@ gui.GuiSpecialization.id.career_exclusive.2.BlowingArrows=Ancestral Will
 gui.GuiSpecialization.lore.career_exclusive.2.BlowingArrows=Enhances Ancestral Totem, reducing cooldown by 50%.
 gui.GuiSpecialization.id.career_exclusive.1.BlowingArrows=Destruction Totem
 gui.GuiSpecialization.lore.career_exclusive.1.BlowingArrows=Enhances Ice Poison Arrow and Biogas Poisonous Fire. When the skill triggers the totem, the totem's attack hits are increased by 25%.
-
 A100_CatchNet=Capture Net
 A101_WildernessPreparation=Wilderness Preparation
 A102_SilverJavelin=Silver Spear
 A103_BurstJavelin=Burst Spear
 A104_HealLilyValley=Herbal Mastery
 A105_HunterTrack=Hunter's Tracking
-
 A200_DemonHunter=Demonized Hunter
 A201_SpiralJavelin=Spiral Spear
 A202_ThornJavelin=Thorn Flying Spear
 A203_BattlePack=Battle Assembly
 A206_BoundaryBreaker=Boundary-Breaking Divine Spear
-
 A100_CatchNet.lore=Using the Hunter's talent, throws a Capture Net forward, dealing ranged damage and applying a movement slow and paralysis effect to the target. Press %KEY%WK% while holding a spear to activate.
 A101_WildernessPreparation.lore=Better safe than sorry. Immediately replenishes all Hunter spear ammo, heals the Hunter, and restores all MP. Press %KEY%WK% while crouching with a spear to activate.
 A102_SilverJavelin.lore=Coats the spear with a silver plating of wondrous effect, firing a Silver Spear forward to attack the target, dealing ranged damage and applying a Hunting Mark effect to the target, increasing damage taken by 10%. When the Silver Spear hits a target, it replenishes 10% of the Hunter's life steal slot. Activated after firing while holding a spear. A maximum of 3 Silver Spears can be held. When a Silver Spear kills a monster, it will restore the Silver Spear skill's reserve count.
 A103_BurstJavelin.lore=Invokes fire incantation, casting a fire curse on the spear, dealing ranged damage and igniting fire magic upon impact, dealing area damage. When Burst Spear hits a target, it grants the user and nearby players the Fragment Tracking effect, increasing class amplification% by 10%. Burst Spear deals an additional 30% final damage% to non-BOSS creatures. Activated after firing while holding a spear. A maximum of 2 Burst Spears can be held.
 A104_HealLilyValley.lore=Uses knowledge of wilderness plants to find herbs that can heal oneself. Grants the Herbal Mastery effect to yourself. During the duration, each hunting point collected will add one layer to the Herbal Mastery effect. Each layer of Herbal Mastery restores a certain amount of HP per second to the Hunter. When Herbal Mastery reaches 4 layers, one Silver Spear and one Burst Spear are immediately replenished. When Herbal Mastery reaches 7 layers, all MP is restored, and all nearby players receive the Herbal Essence effect, increasing class amplification% by 10%. Using this skill while the Herbal Mastery effect is active will reset the Herbal Mastery layers.
 A105_HunterTrack.lore=Through extensive hunting experience, the Hunter perceives the movement patterns of prey, gaining knockback resistance. While holding a spear, hunting points will spawn around you. When touching a hunting point, 3 ammo are replenished and the Hunter gains a movement speed boost and the Hunter's Tracking effect. Each layer of Hunter's Tracking increases final damage% by 6% and damage% by 60%, up to a maximum of five layers. Additionally, upon reaching five layers of Hunter's Tracking, damage% is further increased by 30% and Burst Spear's attack hits are increased by 1. Whenever a hunting point is triggered or all hunting points are not triggered within the time limit, all existing hunting points are removed and new hunting points are immediately respawned. While the Hunter's Tracking status is active, Burst Spear's area of effect is increased by 3 points.
-
 A200_DemonHunter.lore=Through relentless study of hunting knowledge and empowering oneself with powerful magic, hunting point generation is increased. Each time a hunting point is stepped on, the ammo replenished is increased by 2, and the maximum ammo obtainable through hunting points is increased to 20. Enhances the Hunter's Tracking skill, increasing its maximum effect level by 2. When touching a hunting point, grants the Demonized Hunter effect to yourself, increasing damage% by 100%. While the Demonized Hunter effect is active, Silver Spear's attack hits are increased by 3, skill damage is increased by 30%, Burst Spear's skill damage is increased by 65%, and damage taken is reduced by 15%. Each time a spear is thrown, there is a 33% chance to not consume ammo. When activating the skills Spiral Spear, Thorn Flying Spear, Silver Spear, or Burst Spear, they can be activated while ignoring silence effects. Enhances the Silver Spear skill: Silver Spear deals 70% increased skill damage to targets with HP below 65%, and deals an additional 70% increased skill damage to targets with HP below 35%.
 A201_SpiralJavelin.lore=Infuses a powerful wind enchantment into a spear and launches a Spiral Spear forward to attack the target. The Spiral Spear can penetrate multiple targets, dealing damage in a straight line and applying the Spiral Pierce effect to targets, increasing their damage taken by 20% and reducing the target's monster defense by 10. Activated after throwing a spear. You can hold up to 3 Spiral Spears at a time.
 A202_ThornJavelin.lore=Infuses the deadly venomous vines of the rainforest into a spear and launches a Thorn Flying Spear forward to attack the target, dealing damage to distant targets. Upon hit, several thorns are summoned nearby. The thorns will continuously attack nearby targets, dealing area damage. Each time the thorns deal damage, they heal the Hunter. Activated after throwing a spear. You can hold up to 2 Thorn Flying Spears at a time.
@@ -663,20 +577,17 @@ gui.GuiSpecialization.id.career_exclusive.2.Hunter=Double Demonization
 gui.GuiSpecialization.lore.career_exclusive.2.Hunter=Enhances Demonized Hunter. Triggering a hunting point grants two layers of the Demonized Hunter effect to yourself.
 gui.GuiSpecialization.id.career_exclusive.1.Hunter=Enhanced Assembly
 gui.GuiSpecialization.lore.career_exclusive.1.Hunter=Enhances Battle Assembly, increasing the crossbow turret's attack speed by 30%.
-
 A100_SoulLantern=Soul Lantern
 A101_ContractCall=Contract Summon
 A102_StingerCombo=Poison Sting Combo
 A103_RedFlagGuidance=Red Flag Guidance
 A104_BlueFlagGuidance=Blue Flag Guidance
 A105_AnimalSpecialization=Animal Specialization
-
 A200_WorkTogether=Working Together
 A201_FalconShock=Falcon Shock
 A202_WildLeader=Wild Leader
 A203_CryWild=Wild Cry
 A206_BeastPromise=Beast Demon Infinity
-
 A100_SoulLantern.lore=Opens the lantern that summons souls, causing nearby companions to return to the Aether, and heals yourself and all nearby players. Activated by pressing %KEY%WK% while crouching with a wand equipped.
 A101_ContractCall.lore=Unfolds a signed contract and summons a companion from the Aether to assist in battle. Only one companion can exist at a time. The companion's HP is 40 times the Beast tamer's HP. The companion innately possesses the following abilities: deals 4 hits per second of 50% magic attack ice-attribute normal damage; every 4 seconds, continuously fires ice magic orbs at the target, dealing 3 hits of 25% magic attack ice-attribute frostbite damage; every 10 seconds, uses a breath attack to continuously attack the target, dealing 30 hits of 20% magic attack ice-attribute frostbite damage; every 4 seconds, if the attack target still exists, can teleport near the attack target. Leveling up this skill increases the companion's max HP multiplier. Activated by pressing %KEY%WK% while holding a wand.
 A102_StingerCombo.lore=Invokes fierce wind magic and fires several waves of differently colored poison stingers forward to attack the target, dealing damage to distant targets. Upon hitting a target, grants yourself and nearby players the Toxic Mark effect, increasing class amplification% by 10%.
@@ -756,7 +667,6 @@ gui.GuiSpecialization.id.career_exclusive.2.Samurai=Blade Counter Protection
 gui.GuiSpecialization.lore.career_exclusive.2.Samurai=Enhances Heaven–Earth Kenjutsu Secret Teachings effect. Each layer of Heaven–Earth Kenjutsu Secret Teachings reduces damage taken by 2.5%. Lose 2 layers of Heaven–Earth Kenjutsu Secret Teachings when taking damage.
 gui.GuiSpecialization.id.career_exclusive.1.Samurai=Full Concentration
 gui.GuiSpecialization.lore.career_exclusive.1.Samurai=Enhances Heaven–Earth Kenjutsu Secret Teachings effect. When Heaven–Earth Kenjutsu Secret Teachings reaches 10 layers, Ken-ki points recovery speed increases by 0.5 seconds.
-
 item.apple.name=Apple
 item.appleGold.name=Golden Apple
 item.arrow.name=Arrow
@@ -3226,7 +3136,7 @@ dragon.chat.0.102=Master, I want duck meat! (Your dragon seems to love duck meat
 dragon.chat.0.103=Double beef patty, special sauce with lettuce, cheese onion pickles, all in sesame buns~ (Your dragon is acting weird...)
 dragon.chat.0.104=Master, if you enter TK888... (Your dragon is acting weird...)
 dragon.chat.0.105=The Magic of Friendship Grows~
-GuiDragonAdventureTeamType.time= Hours
+GuiDragonAdventureTeamType.time=Hours
 GuiDragonAdventureTeamType.set=Select Another Adventure Location
 MMM.info.isDragonAdventureTeamStarting=The expedition team is still adventuring, they haven't returned yet...
 MMM.info.isDragonAdventureTeamGo=The dragon expedition team has departed!
@@ -3587,7 +3497,7 @@ GuiInstanceDungeon.go.HARD=Challenge Dungeon - Hard
 GuiInstanceDungeon.go.HELL=Challenge Dungeon - Hell
 GuiInstanceDungeon.need=Challenging dungeons requires offerings. Hold the offering and click on the dungeon entrance block. Gold Ingot: Easy, Nether Star: Normal, Philosopher's Stone: Hard, Dark Fragment: Hell
 MMM.info.DungeonPortal.s1=This dungeon hasn't refreshed yet, time remaining until refresh: 
-MMM.info.DungeonPortal.s2= minutes
+MMM.info.DungeonPortal.s2=minutes
 item.ItemFoodDropItemFoodDrop_0.name=Chocolate
 item.ItemFoodDropItemFoodDrop_1.name=Strawberry Pie
 item.ItemFoodDropItemFoodDrop_2.name=Fresh Milk
@@ -6423,7 +6333,7 @@ item.ItemTridentHell.name=Demon Trident
 item.Shuriken.name=Shuriken
 SecretBook.career.Priest=Priest
 ItemMoisture.lore=Drink to replenish moisture
-ItemMoisture.lore2= points
+ItemMoisture.lore2=points
 ItemKettle.water=Water Level 
 ItemKettle.water.type1=Filled with Salt Water
 ItemKettle.water.type0=Filled with Fresh Water
@@ -7625,7 +7535,7 @@ GuiSeasonTarget.server=Season rewards can only be obtained on the official serve
 GuiAuctionWait.wait=Loading items...
 GuiMailWait.wait=Loading mail...
 GuiAuction.sell=Sell
-GuiAuction.page2= Page
+GuiAuction.page2=Page
 GuiAuction.page1=Auction House Page 
 GuiAuction.page3=Auction House
 GuiAuction.back=Return
@@ -8117,7 +8027,7 @@ item.food.hasHoney.effect=Additionally increases stamina points recovery and gra
 team.name=Team Name
 team.invite=Invite...
 team.invite.player1=Player 
-team.invite.player2= invites you to join team: 
+team.invite.player2=invites you to join team: 
 team.b.add=Create Team
 team.b.invite=Invite Player
 team.b.exit=Leave Team
@@ -8220,23 +8130,23 @@ SkillBookMagicBase.magic.5=Mana Storm
 SkillBookMagicBase.magic.6=Wind Bolt
 SkillBookMagicBase.magic.7=Rapid Fire
 BaseSkillMagicBook.attack=Deals damage 
-BaseSkillMagicBook.attack2= elemental damage
+BaseSkillMagicBook.attack2=elemental damage
 BaseSkillMagicBook.1.0=Launch 
-BaseSkillMagicBook.2.0= elemental magic orb to attack target
+BaseSkillMagicBook.2.0=elemental magic orb to attack target
 BaseSkillMagicBook.1.1=Launch 
-BaseSkillMagicBook.2.1= elemental piercing magic orb to attack targets in line
+BaseSkillMagicBook.2.1=elemental piercing magic orb to attack targets in line
 BaseSkillMagicBook.1.2=Summon 
-BaseSkillMagicBook.2.2= attribute magical orbs from above attacking multiple targets
+BaseSkillMagicBook.2.2=attribute magical orbs from above attacking multiple targets
 BaseSkillMagicBook.1.3=Summon 
-BaseSkillMagicBook.2.3= attribute meteors from above attacking multiple targets
+BaseSkillMagicBook.2.3=attribute meteors from above attacking multiple targets
 BaseSkillMagicBook.1.4=Launch 
-BaseSkillMagicBook.2.4= attribute burst magical orbs attacking multiple targets
+BaseSkillMagicBook.2.4=attribute burst magical orbs attacking multiple targets
 BaseSkillMagicBook.1.5=Summon 
-BaseSkillMagicBook.2.5= attribute magical wind burst continuously attacking multiple targets
+BaseSkillMagicBook.2.5=attribute magical wind burst continuously attacking multiple targets
 BaseSkillMagicBook.1.6=Continuously launch 
-BaseSkillMagicBook.2.6= attribute magical orbs attacking target
+BaseSkillMagicBook.2.6=attribute magical orbs attacking target
 BaseSkillMagicBook.1.7=Continuously launch 
-BaseSkillMagicBook.2.7= attribute magical orbs attacking target
+BaseSkillMagicBook.2.7=attribute magical orbs attacking target
 GuiLogisticsBox.open=Open Input
 GuiLogisticsBox.close=Close Input
 GuiLogisticsBox.type=Input Type: 
@@ -8555,7 +8465,7 @@ item.weapon.effects.crit=Critical Rate Bonus:
 item.weapon.effects.attackMultiplier=Damage Dealt Increased: 
 guihud.enemyData.0=Target Total Damage Reduction: 
 guihud.enemyData.1=LV: 
-guihud.enemyData.2= Attribute: 
+guihud.enemyData.2=Attribute: 
 item.tooltip.moneys=§eTotal Value: 
 item.tooltip.moneys2=§e/Unit Value: 
 item.tooltip.star=★
@@ -8567,7 +8477,7 @@ item.weapon.effects.wand.spell.4=Burst Shot
 item.weapon.effects.wand.spell.5=Mana Storm
 item.rollstar.effect.rate=Scroll Success Rate: 
 item.rollstar.effect.damage.1=When enhancement fails, 
-item.rollstar.effect.damage.2= % chance to reset equipment stars to zero
+item.rollstar.effect.damage.2=% chance to reset equipment stars to zero
 item.rollstar.effect.add=When star enhancement succeeds, equipment star level will increase
 item.ItemTeleport.name=Laputa Teleport Pearl
 GuiTeleport.set=Save
@@ -8712,9 +8622,9 @@ SpecialWeaponEffect.Absorb2=% of damage dealt to HP recovery
 SpecialWeaponEffect.FireDamage=Increase damage against burning targets by 
 SpecialWeaponEffect.BossKiller=Increase damage against BOSS targets by 
 SpecialWeaponEffect.IceCold1=Apply 
-SpecialWeaponEffect.IceCold2= seconds of ice slow effect
+SpecialWeaponEffect.IceCold2=seconds of ice slow effect
 SpecialWeaponEffect.Lightning1=Apply 
-SpecialWeaponEffect.Lightning2= seconds of paralysis effect
+SpecialWeaponEffect.Lightning2=seconds of paralysis effect
 SpecialWeaponEffect.ArmorDamage=Increase damage against armored targets
 SpecialWeaponEffect.ManaDamage=Consume 100 MP to deal additional damage when attacking
 SpecialWeaponEffect.Money=Steal money from target when attacking
@@ -8808,7 +8718,7 @@ ItemJamFood.type.14=Juice
 ItemJamFood.type.15=Juice
 ItemJamFood.type.16=Cake
 ItemToolGunBase.speed=Fire Rate: 
-ItemToolGunBase.speed2= seconds
+ItemToolGunBase.speed2=seconds
 ItemToolGunBase.attack=Shooting Damage: 
 ItemToolGunBase.count=Magazine Capacity: 
 ItemToolGunBase.BulletType=Ammunition Type: 
@@ -8844,7 +8754,7 @@ ItemCuisine.lv.11=Superior
 ItemCuisine.lv.12=Legendary
 ItemCuisine.count=Portions: 
 ItemCuisine.heal=Restore 
-ItemCuisine.heal2= lost HP
+ItemCuisine.heal2=lost HP
 ItemCuisine.FoodTaste.-1=No Seasoning
 ItemCuisine.FoodTaste.0=Refined Salt
 ItemCuisine.FoodTaste.1=Refined Sugar
@@ -8854,7 +8764,7 @@ ItemCuisine.FoodTaste.4=Spices
 ItemCuisine.FoodTaste.5=Vegetable Oil
 ItemCuisine.FoodTaste.6=Seasoning Gold Powder
 ItemCuisine.potion=Cuisine Effect
-ItemCuisine.potion2= min
+ItemCuisine.potion2=min
 food.ItemCuisine.Ingredients.listAllfruit=Fruit
 food.ItemCuisine.Ingredients.listAllgrain=Grain
 food.ItemCuisine.Ingredients.listAllmeatraw=Meat
@@ -8871,9 +8781,9 @@ IWeaponReel.damage2=% chance to reset equipment enhancement scroll count
 IWeaponReel.base=Actual success rate depends on equipment enhancement scroll count
 IWeaponReel.base2=The higher the current scroll count, the lower the success rate
 ItemToolDaggerBase.use1=Deals 
-ItemToolDaggerBase.use2= points of acid continuous damage
+ItemToolDaggerBase.use2=points of acid continuous damage
 ItemToolBlowingArrows.use1=Deals 
-ItemToolBlowingArrows.use2= points of poison continuous damage
+ItemToolBlowingArrows.use2=points of poison continuous damage
 ItemToolFan.use=Sneak + Right-click to open Phylactery menu
 ItemToolSickle.use=Sneak + Right-click to open summoned beast menu
 MagicWand.use=Sneak + Right-click to configure staff magic
@@ -9106,10 +9016,10 @@ cmd.Flatter.46=It's Master Dragon w
 cmd.Flatter.47=Hewwo Great Master Strawberry dragon www
 cmd.Flatter.48=It's Strawberry dragon ><
 cmd.Flatter.49=Strawberry dragon is the best w
-RecordPlayerBlockAction.player= Player 
-RecordPlayerBlockAction.block= Block
-RecordPlayerBlockAction.action0= destroyed 
-RecordPlayerBlockAction.action1= placed 
+RecordPlayerBlockAction.player=Player 
+RecordPlayerBlockAction.block=Block
+RecordPlayerBlockAction.action0=destroyed 
+RecordPlayerBlockAction.action1=placed 
 RecordPlayerBlockAction.time=Time 
 tile.dirt.name=Dirt
 tile.diode.name=Repeater
@@ -10051,7 +9961,7 @@ manaItemType.canLVs2=Upgrade equipment through Mana Infusion or Gravity Well
 manaItemType.canLV=Equipment will gradually grow by absorbing monster souls
 manaItemType.canLVmax=This equipment has reached its maximum growth stage
 manaItemType.needxp1=Still needs to absorb 
-manaItemType.needxp2= monster souls to grow
+manaItemType.needxp2=monster souls to grow
 manaItem.physicalAttack=Physical Attack: 
 manaItem.magicAttack=Magic Attack: 
 manaItem.holyAttack=Holy Attack: 
@@ -11749,15 +11659,15 @@ item.ItemSkyCard.15.name=Draw Card
 ItemSkyCard.lore.1=At game start and login, 
 ItemSkyCard.lore.2=At game start, 
 ItemSkyCard.lore.3=Gain additional cards: 
-use.card.noattack= Captain played a card 
+use.card.noattack=Captain played a card 
 GameSkyAdventure.try.usecard=Played a card: 
-GameSkyAdventure.try.usecard.result0= But it seems to have no effect
-GameSkyAdventure.try.usecard.result1= Successfully resolved the crisis
-GameSkyAdventure.try.usecard.result2= Successfully obtained the treasure
-GameSkyAdventure.try.usecard.result3= Skipped the treasure
-GameSkyAdventure.try.usecard.result4= Skipped the crisis
-GameSkyAdventure.attack.card= Dealt damage to target 
-GameSkyAdventure.attack.card.2= points
+GameSkyAdventure.try.usecard.result0=But it seems to have no effect
+GameSkyAdventure.try.usecard.result1=Successfully resolved the crisis
+GameSkyAdventure.try.usecard.result2=Successfully obtained the treasure
+GameSkyAdventure.try.usecard.result3=Skipped the treasure
+GameSkyAdventure.try.usecard.result4=Skipped the crisis
+GameSkyAdventure.attack.card=Dealt damage to target 
+GameSkyAdventure.attack.card.2=points
 GameSkyAdventure.change.player=It's the next Captain's turn to act
 GameSkyAdventure.gameover.0=Game Over
 GameSkyAdventure.gameover.1=No players, Game Over
@@ -11833,12 +11743,12 @@ SkyCard.lore.Potion=Potion Card, Increases damage delay by 3 turns for current c
 SkyCard.lore.Magic=Magic Card, Nullifies current challenge
 SkyCard.lore.Armor=Armor Card, Reduces damage received by 40%, can withstand 3 hits
 SkyCard.use1=The Captain played a Tactics Card and changed the challenge!
-SkyCard.use2= Captain played Repair Card Fleet HP restored 125 points
-SkyCard.use3= Captain played Potion Card Challenge damage delayed by 3 rounds!
-SkyCard.use4= Captain played Armor Card Protected the fleet!
-SkyCard.use5= Captain played Magic Card Nullified the challenge!
-SkyCard.use6= Captain played Draw Card All captains received two random cards!
-SkyCard.use7= Captain played Explosive Card Target's HP was halved!
+SkyCard.use2=Captain played Repair Card Fleet HP restored 125 points
+SkyCard.use3=Captain played Potion Card Challenge damage delayed by 3 rounds!
+SkyCard.use4=Captain played Armor Card Protected the fleet!
+SkyCard.use5=Captain played Magic Card Nullified the challenge!
+SkyCard.use6=Captain played Draw Card All captains received two random cards!
+SkyCard.use7=Captain played Explosive Card Target's HP was halved!
 SkyCard.lore.Lightning=Lightning Card, can resolve lightning crisis
 SkyCard.lore.Fog=Fog Card, can resolve fog crisis
 SkyCard.lore.Wind=Hurricane Card, can resolve hurricane crisis
@@ -11852,14 +11762,14 @@ SkyCard.lore.Plan=Plan Card, ignore the challenge penalty and immediately pass t
 SkyCard.lore.TNT=TNT Card, detonate placed explosives, target HP reduced by half
 SkyCard.lore.Card=Draw Card, all captains receive two additional random cards
 SkyCard.avoid=, with 
-SkyCard.avoid2= probability to deal 
-SkyCard.avoid3= points of damage
+SkyCard.avoid2=probability to deal 
+SkyCard.avoid3=points of damage
 GameSkyAdventure.Challenges0=Encountered the next crisis: 
 GameSkyAdventure.Challenge0=Encountered the next crisis: 
 GameSkyAdventure.Challenge1=Encountered the next target: 
 GameSkyAdventure.Challenge2=No crisis ahead! 
 GameSkyAdventure.Challenge3=Found a treasure! 
-GameSkyAdventure.player.pickcard= Captain drew a card! 
+GameSkyAdventure.player.pickcard=Captain drew a card! 
 ChallengeType.None=None
 ChallengeType.Lightning=Lightning
 ChallengeType.Fog=Fog
@@ -11885,12 +11795,12 @@ ChallengeType.DragonFire=Supreme Fire Dragon
 Battleship.ChallengeHP=Enemy HP: 
 SkyAdventure.now.cd=Attack Delay: 
 SkyAdventure.now.ChallengeType=Current Challenge: 
-SkyAdventure.now.ChallengeTypecount= / Remaining Challenges: 
+SkyAdventure.now.ChallengeTypecount=/ Remaining Challenges: 
 SkyAdventure.now.pickcard=Click to Draw a Random Card
 gui.battleship.continue=Continue Game
 gui.battleship.leave=Leave Game
 gui.battleship.change=Change Captain
-player.pickcard= Captain drew a card
+player.pickcard=Captain drew a card
 SkyAdventure.my.item=My Treasure Points: 
 SkyAdventure.my.exp=My Experience Points: 
 SkyAdventure.point=Team Total Score: 
@@ -11916,7 +11826,7 @@ target.GuiButton.ButtonBreak=Abandon Target
 CraftItem.lore=Craft Target Item: 
 CraftItem_Bookrecipe.lore=Craft Target Item: 
 CraftItem.blocktarget1=Or aim crosshair at 
-CraftItem.blocktarget2= block to complete target
+CraftItem.blocktarget2=block to complete target
 BreakBlock.lore=Break target block: 
 HasItem.lore=Hold target item: 
 PickItem.lore=Pick up target item: 
@@ -16068,7 +15978,7 @@ GUISkill.buttonset=Key Binding
 GUISkill.goback=Previous Page
 manaItem.career_increase=Class Amplification%: 
 manaItem.hp_blood=Life steal effect 
-SpellData.maxlv= / At max level : 
+SpellData.maxlv=/ At max level : 
 SpellData.dot_weapon=DOT attack type : 
 SpellData.dot_elements=DOT skill element : 
 SpellData.dot_spelltype=DOT Damage Type : 
@@ -16108,7 +16018,7 @@ item.ItemMobPills.3.name=Target Enhancement Capsule: 1 Attack Power
 item.ItemMobPills.4.name=Target Enhancement Capsule: 0.01 Movement Speed
 item.ItemMobPills.5.name=Target Enhancement Capsule: 1% Tenacity
 ItemCuisine4.lore.0=Using this dish grants Delicious and 
-ItemCuisine4.lore.1= effect, lasting 100 minutes
+ItemCuisine4.lore.1=effect, lasting 100 minutes
 MMM.info.FoodCollection=Consumed %s, gained permanent buff effect, can consume %s more times
 MMM.info.FoodCollectionNo=Consumed %s, obtained permanent buff effect
 FoodCollectionItem.info=Consuming this food will grant food collection effect
@@ -16119,7 +16029,7 @@ GuiEventReward.button.2=Confirm Claim
 GuiManaPawnshop.lock=Lock Item
 GuiManaPawnshop.sells=Confirm Sale
 GuiNPCPawnshop.info=Warning 
-GuiNPCPawnshop.info2= Item will be sold
+GuiNPCPawnshop.info2=Item will be sold
 MMM.info.EntityWolfSnowSummon.feed=<Contract Snow Wolf> Thank you master, this %s is delicious. (Duration: %s seconds)
 item.weapon.effects.SpellType.30=Thunder
 item.weapon.effects.SpellType.31=Transformation
@@ -16510,7 +16420,7 @@ GuiSeasonTarget.main=Season Goal - Season 11
 tile.ManaStoneF.0.name=Mana Energy Sharing Stele
 tile.ManaStoneF.1.name=Golden Mana Energy Sharing Stele
 item.ItemFishBucket.name=Water Bucket
-GuiEvent.datapoints= Click here to view seasonal points
+GuiEvent.datapoints=Click here to view seasonal points
 GuiEventReward.seasontarget=Season %s# Target Score: %p# points
 tile.enderChestM3.name=Diamond Ender Chest
 item.ItemHeadFashion_20.name=Bat King Hat
@@ -20302,7 +20212,7 @@ MagicItemMedalFX.epic.369=頒發給征服了所有本傳魔王的勇者玩家
 MagicItemMedalFX.epic.370=頒發給征服了所有異世界魔王的勇者玩家
 MagicItemMedalFX.epic.371=頒發給昂首於世界巔峰的終極玩家
 MagicItemMedalFX.epic.fx.1=玩家 
-MagicItemMedalFX.epic.fx.2= 的專屬特殊勳章
+MagicItemMedalFX.epic.fx.2=的專屬特殊勳章
 MagicItemMedalFX.epic.375=頒發給解開黑暗之謎的高級玩家
 item.MagicItemMedalFX426.name=愛喝可可亞的可亞
 item.MagicItemMedalTitleFX426.name=愛喝可可亞的可亞
@@ -20861,7 +20771,6 @@ GuiManaBook.WineCellar1.2=
 potion.mana.potionAlcoholDrunk=Drunk
 potion.mana.potionPhantom=Phantom
 potion.mana.potionPureSpring=Pure Spring
-
 item.MagicItemMedalFX597.name=§4『孤紅の恤』
 item.MagicItemMedalTitleFX597.name=§4『孤紅の恤』
 item.MagicItemMedalFX598.name=§6与§d心爱§b的你§c行至§e世界§a尽头
@@ -20870,7 +20779,6 @@ item.MagicItemMedalFX599.name=§7✠§0遗忘§f记忆§7✠
 item.MagicItemMedalTitleFX599.name=§7✠§0遗忘§f记忆§7✠
 item.MagicItemMedalFX600.name=§a刚来什么情况
 item.MagicItemMedalTitleFX600.name=§a刚来什么情况
-
 mall.title.loading=White Gold Shop Loading
 mall.button.1=Outfits
 mall.button.2=Effects
@@ -20886,7 +20794,6 @@ ItemAncientStone.lore=Contains %s Ancient Dragonstone
 GuiEventReward.info.RIS=Online inventory remaining quantity: 
 GuiEvent.dragonStone=Have #w WhiteGold and #d Ancient Dragonstone
 GuiEventReward.button.need=Spend Ancient Dragonstone to claim
-
 GuiEventReward.button.count1=Times Claimed: 
 GuiEventReward.button.count2=Ancient Dragonstone Required for Reclaiming: 
 GuiEventReward.moregold=Reclaiming items beyond online inventory limits requires Ancient Dragonstone
@@ -20902,7 +20809,6 @@ gui.menu.other.main.5=Storage
 gui.menu.other.main.lore.0=Change character attributes, learn specializations or equip gear
 gui.menu.other.main.lore.1=Multiplayer functions, party system and mailbox
 gui.menu.other.main.lore.2=Official server exclusive features and event status
-
 gui.menu.other.main.lore.3=Other Special Functions
 gui.menu.other.main.lore.4=Game Settings and Interface Settings
 gui.menu.other.main.lore.5=Open Storage System
@@ -20926,7 +20832,6 @@ AzureDivineWine.lore=A legendary mead carefully blended and brewed, its sweet ar
 coin.take.-2=Ancient Dragonstone
 IIdentificationItem.name=Owner: 
 IIdentificationItem.uuid=ID: 
-
 item.ItemParticle_14.name=Sacred Cherry Blossom Walker Particle Effect
 item.ItemHeadFashion_33.name=Cherry Blossom Hair Clip
 item.ItemSpecialFashion_2.name=Cherry Blossom Back Magic Circle
@@ -20941,7 +20846,6 @@ GuiSoulInheritPower.text.3=Soul Evolution
 GuiSoulInheritPower.text.4=Remaining Points
 manaItem.mixAttack=Omnipotent Attack Power: 
 GuiSoulInheritPower.usepoint=Soul Evolution Points Required for Upgrade: 
-
 GuiSoulInheritPower.addeffect=Each level increases: 
 GuiSoulInheritPower.addeffectall=Total increase: 
 MMM.info.DungeonPortal.needUpdateName=Since you have changed your character name before, you need to use the version update book before entering the dungeon
@@ -20957,12 +20861,10 @@ GuiManaBook.TileEntitySoulInheritPower2.1=Use Soul Control Magic Stone to gain s
 GuiManaBook.TileEntitySoulInheritPower2.photo.1=Soul Evolution Altar
 GuiManaBook.TileEntitySoulInheritPower2.2="The spirits of the dead will exist forever. Do not fear death, it is just the path you must take." - Dark Council Vice Chair Yashete
 gui.menu.other.21=Soul Evolution
-
 gui.menu.other.lore.21=Change the effects of soul evolution and configure soul memories
 tile.BlockTileEntitySoulInheritPower.name=Soul Evolution Altar
 item.ItemSoulEvolution.name=Spirit Control Magic Stone
 MMM.info.cant.makeSoulInheritPower=Failed to create Spirit Control Magic Stone, insufficient materials or energy
-
 GuiEventStore.NewYearStore=Spring Festival Store
 GuiEventStore.MoonStore=Mid-Autumn Festival Store
 MMM.info.potionDefensiveStrategy.deadevent=Through the power of defensive strategy, you have evaded death
@@ -21114,8 +21016,7 @@ OriginGoldenSword.lore=A broken and shattered golden sword containing the secret
 MMM.info.DungeonPortal.isBossDungeon.key=The eerie aura of this key blocks your attempt, enchanted keys cannot be used to challenge boss dungeons
 EnchantmentsKeyEffectType.unknown=unknown effect
 ItemFashion.use=used Style
-potion.mana.potionDefensiveStrategy= Defensive Strategy
-
+potion.mana.potionDefensiveStrategy=Defensive Strategy
 GuiRecycling.collectscrap=Collect Scrap:
 GuiRecycling.autoclear=Auto Clear:
 MMM.info.TileEntityRecycling.clearTime=Auto clear interval set to %s ticks
@@ -21193,7 +21094,6 @@ EntityBossCrystalOmicron.Freeze=Mechanism Freezing Crystal
 EntityBossCrystalOmicron.Demon=Mechanism Demon Crystal
 EntityBossCrystalOmicron.Dragon=Mechanism Dragon Crystal
 EntityBossCrystalOmicron.Repair=Mechanism Repair Crystal
-
 EntityBossCrystalOmicron.Maze=Mechanism Maze Crystal
 EntityBossCrystalOmicron.Lava=Mechanism Lava Crystal
 EntityBossOmicronTower.Laser=Prism Laser Tower
@@ -21219,7 +21119,6 @@ MMM.info.BossOmicron.fail2=<Omicron> Disengaging defense system, shutting down O
 MMM.info.AtlantisCrystalOver.0=<???> You are...? Oh, people from the Adventurer's Guild
 MMM.info.AtlantisCrystalOver.1=<???> This place should have been officially abandoned, I didn't expect the defense system to reactivate on its own
 MMM.info.AtlantisCrystalOver.2=<Tomil> Let me introduce myself, I am Tomil, a craftsman... you could also say scientist, researcher
-
 MMM.info.AtlantisCrystalOver.3=<Tomil> I will take the core part back for research, you can dispose of the rest as you wish
 MMM.info.AtlantisCrystalOver.4=<Tomil> If there are any further questions, discuss them at my other laboratories. The location will be updated to you later
 MMM.info.EntityBossOmicronTower.spawnCrystal=The Eternal Monument Tower has awakened %s guard devices
@@ -21246,7 +21145,6 @@ item.AtlantisKeyDragonDoor.0.lore=An imitation key that can unlock unknown seals
 
 ItemBlockSubWall.name=Wall
 OriginFragments.lore=Beautiful crystals containing origin power, use to increase maximum level to 140
-
 MMM.info.ModDungeonDark.Dead=The dark aura has not yet dissipated, you feel strange sounds coming from near the Dark Throne
 item.MagicItemMedalFX611.name=§6火之使徒勳章
 item.MagicItemMedalTitleFX611.name=§6火之使徒
@@ -21269,7 +21167,6 @@ GuiManaBook.TileEntityDarkFission1.tile.1=Darkness of Destruction.Dark fission I
 GuiManaBook.TileEntityDarkFission1.1=Dark energy can erode all things, perhaps we can try to make it destroy specific items. The experimental result was successful, the item was decomposed into its component materials, but some elements were lost, like those endless darkness, dangerous and unfathomable.
 GuiManaBook.TileEntityDarkFission2.1=
 GuiManaBook.TileEntityDarkFission2.photo.1=Dark fission Instrument
-
 GuiManaBook.TileEntityDarkFission2.2=This device can decompose items, but some raw materials will be lost forever.
 nei.recipe.manametalmod.DarkFission=Dark fission
 nei.recipe.manametalmod.OpenBox=reward box
@@ -21295,13 +21192,11 @@ ItemFlameGoldCup.lore2=Over time, the gold cup will Natural Recovery
 potion.mana.potionFlameGoldCup=Flame Gold Cup
 dragon.chat.0.154=Master, why is it a snow wolf and not an ice dragon?
 dragon.chat.0.155=Master, have you heard of Omicron? Legend says it's the guardian of the dragon sanctuary, created by the dragon craftsman Tomil!
-
 dragon.chat.0.156=Master, snow dragons are so cute!
 dragon.chat.0.157=Master, replenishing life steal slot can restore HP for yourself at regular intervals!
 dragon.chat.0.158=Master, why do snow wolves like to eat pineapples?
 item.ItemWing_67.name=Fire Dragon Wings
 item.ItemWing_68.name=Ice Dragon Wings
-
 GuiBookMultiBlock.needblocks=Material Requirements
 item.ItemHolyRelicsScrapTrace.name=BOSS Trace 
 GuiHolyRelicsBox.get=Take Out
@@ -21413,7 +21308,6 @@ item.MagicItemMedalFX612.name=黑暗主教
 item.MagicItemMedalTitleFX612.name=黑暗主教
 item.MagicItemMedalFX613.name=§b我§f是§b小§f凳§b我§f先§b吃§f૮₍ᵔ⤙ᵔ₎ა
 item.MagicItemMedalTitleFX613.name=§b我§f是§b小§f凳§b我§f先§b吃§f૮₍ᵔ⤙ᵔ₎ა
-
 MMM.info.AchievementEvent=You have earned the %s achievement and %s enchantment experience points
 ItemEnchantmentGem.lore0=Enchantment Gem Grinding Level: 
 ItemEnchantmentGem.lore1=Socketing grants the following effects
@@ -21513,7 +21407,6 @@ item.lore.ArmorEffect.title.BloodMetalArmor=Blood Sacrifice
 item.lore.ArmorEffect.title.DarkArmor=Dark Mana
 item.lore.ArmorEffect.title.AncientThuliumArmor=Ancient Magic
 item.lore.ArmorEffect.title.ManaSArmor=Mana Absorption
-
 item.lore.ArmorEffect.title.UniverseEnergyArmor=Cosmic Power
 item.lore.ArmorEffect.title.NeutronEnergyArmor=Forbidden Enchantment
 item.lore.ArmorEffect.title.EndlessArmor=Infinite Power
@@ -21605,7 +21498,6 @@ item.lore.ArmorEffect.MANASTEEL_0=When attacking, if MP is above 50%, increases 
 item.lore.ArmorEffect.B_ELEMENTIUM_0=When attacking, if MP is above 50%, increases 100% damage% and increases 5 ignore monster defense
 item.lore.ArmorEffect.Armor_Gravitite_0=When attacking, if airborne, increases 100% damage%
 item.lore.ArmorEffect.Armor_Neptune_0=When attacking, if underwater, increases 100% damage% and increases 5 ignore monster defense
-
 item.lore.ArmorEffect.Armor_Phoenix_0=When attacking, deal an additional 150% damage% to burning targets
 item.lore.ArmorEffect.TURTLE_0=When attacking, grant yourself Iron Skin effect for 30 seconds
 item.lore.ArmorEffect.CQ_slime_0=When attacking, consume a Slime Ball to increase 200% damage%, with a 20% chance to obtain a Slime Ball
@@ -21679,7 +21571,6 @@ IArtifactsWeapon.ItemToolBlowingArrowsArtifacts.1=Increase attack power of Toxic
 IArtifactsWeapon.ItemToolFanArtifacts.0=On normal attack, summon an additional magic orb, dealing 150% magic attack light-element Dream damage to the target
 IArtifactsWeapon.ItemToolFanArtifacts.1=On normal attack, gain 1 additional spirit Points, and increase normal attack speed by 10%
 IArtifactsWeapon.ItemToolJavelinArtifacts.0=When throwing any spear, deal an additional 150% physical ranged light-element Plant damage to the target in sight
-
 IArtifactsWeapon.ItemToolJavelinArtifacts.1=On normal attack, 50% chance to reduce Wilderness Preparation cooldown by 1 second and increase hunting point generation by 1
 IArtifactsWeapon.ItemToolShocrtcaneArtifacts.0=On normal attack, summons an additional magic orb, dealing 150% magic attack light attribute divine beast damage to the target
 IArtifactsWeapon.ItemToolShocrtcaneArtifacts.1=On normal attack, gain 1 additional attunement point and increase normal attack speed by 10%
@@ -21749,7 +21640,6 @@ ItemEnchantmentGem.special.effect.2=On attack, each status effect you have incre
 ItemEnchantmentGem.special.effect.3=On attack, increases damage based on current HP percentage, at full HP increases data damage%
 ItemEnchantmentGem.special.effect.4=On attack, increases data damage% against non-BOSS targets
 ItemEnchantmentGem.special.effect.5=On attack, each DOT effect on the target increases data damage%
-
 ItemEnchantmentGem.special.effect.6=When attacking, increases damage% based on distance to target, each block increases data damage%, max distance 20 blocks
 ItemEnchantmentGem.special.effect.7=When attacking, while in a mounted state, increases data damage%
 ItemEnchantmentGem.special.effect.8=When attacking, consumes gold coins equal to class level, increases data damage%
@@ -21857,7 +21747,6 @@ achievement.Fishing.0.desc=Raise Fishing Skill to level 2!
 achievement.Fishing.1.desc=Raise Fishing Skill to level 3!
 achievement.Fishing.2.desc=Raise Fishing Skill to level 4!
 achievement.Fishing.3.desc=Raise Fishing Skill to level 5!
-
 achievement.Fishing.4.desc=Raise Fishing Skill to level 6!
 achievement.Fishing.5.desc=Raise Fishing Skill to level 7!
 achievement.Fishing.6.desc=Raise Fishing Skill to level 8!
@@ -21978,7 +21867,6 @@ achievement.Brewing.3=Brewing Skill V
 achievement.Brewing.4=Brewing Skill VI
 achievement.Brewing.5=Brewing Skill VII
 achievement.Brewing.6=Brewing Skill VIII
-
 achievement.Brewing.7=Brewing Skill IX
 achievement.Brewing.8=Brewing Skill X
 achievement.Brewing.0.desc=Raise Brewing Skill to Level 2!
@@ -22095,7 +21983,6 @@ tile.treestairs_Melaleuca.name=Melaleuca Stairs
 tile.treeslab_Melaleuca.name=Melaleuca Slab
 tile.treesapling_Melaleuca.name=Melaleuca Sapling
 tile.treelog_break_Melaleuca.name=Stripped Melaleuca Log
-
 tile.treelog_ElaeocarpusSylvestris.name=Elaeocarpus Sylvestris Log
 tile.treeleaves_ElaeocarpusSylvestris.name=Elaeocarpus Sylvestris Leaves
 tile.treeplanks_ElaeocarpusSylvestris.name=Elaeocarpus Sylvestris Planks
@@ -22170,7 +22057,6 @@ item.ItemEnderTeleportationStaff.name=End Warp staff
 tile.BlockEndGateway.name=End Warp Gateway
 tile.EnderPortalFrame.name=End Warp Gateway Frame
 tile.EnderBlockPillar.name=Enchanted End Stone Pillar
-
 item.MagicItemMedalFX616.name=§a情§b谊§c~§d神§e殿
 item.MagicItemMedalTitleFX616.name=§a情§b谊§c~§d神§e殿
 item.MagicItemMedalFX617.name=白毛萝莉控
@@ -22202,7 +22088,6 @@ Pet.SP_BaseballRaccoon=棒球浣熊
 Pet.SP_GoldenPig=金色小豬
 Pet.SP_Cat=§8虚空聚焦
 Pet.SP_StarFox=星月狐
-
 item.ItemSoulEvolution.0.name=Soul Control Magic Stone
 item.ItemSoulEvolution.1.name=Timid Soul Magic Stone
 ItemESGuardianLock.lock=This item is protected by a Guardian Lock and cannot be discarded
@@ -22289,3 +22174,4 @@ item.SacredVerse.name=Sacred Verse
 item.CursedVerse.name=Chaotic Verse
 item.DarkGoldHourglass.name=Dark Gold Hourglass
 item.InkOfDarkness.name=Ink of Darkness
+IASP.WraithReaper.t.0.10=Damage% dealt by 20% when attacking BOSS creatures.
